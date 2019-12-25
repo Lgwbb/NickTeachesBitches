@@ -53,8 +53,9 @@ for (var i = 0; i < numberOfPlayers; i++) {
 
 // сдаём стол
 for (var i = 0; i < 5; i++) {
-  cards.tableCards[i] = drawCard()
-  document.querySelector('.card_' + i).textContent = cards.tableCards[i];
+  let tableCard = drawCard()
+  cards.tableCards[i] = tableCard
+  document.querySelector('.card_' + i).innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${tableCard}.png" style="width:128px;height:153px;float:left;margin-right:0px;">`
 }
 
 // Консолька для души!
