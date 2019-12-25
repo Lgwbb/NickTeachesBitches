@@ -1,5 +1,5 @@
 const cards = {
-  wholePack: ['1H','2H','3H','4H','5H','6H','7H','8H','9H','10H','JH','QH','KH','1D','2D','3D','4D','5D','6D','7D','8D','9D','10D','JD','QD','KD','1С','2С','3С','4С','5С','6С','7С','8С','9С','10С','JС','QС','KС','1S','2S','3S','4S','5S','6S','7S','8S','9S','10S','JS','QS','KS'],
+  wholePack: ['AH','2H','3H','4H','5H','6H','7H','8H','9H','10H','JH','QH','KH','AD','2D','3D','4D','5D','6D','7D','8D','9D','10D','JD','QD','KD','AC','2C','3C','4C','5C','6C','7C','8C','9C','10C','JC','QC','KC','AS','2S','3S','4S','5S','6S','7S','8S','9S','10S','JS','QS','KS'],
   tableCards: [],
   player0:{
     hand: []
@@ -32,18 +32,23 @@ let cardsLeft = cards.wholePack.length
 
 // Функция сдать 1 карту
 const drawCard = () => {
-let random = Math.floor(Math.random() * cardsLeft)
-let theCard = cards.wholePack[random]
-cardsLeft--
-cards.wholePack.splice(random, 1)
-return theCard
+  let random = Math.floor(Math.random() * cardsLeft)
+  let theCard = cards.wholePack[random]
+  cardsLeft--
+  cards.wholePack.splice(random, 1)
+  return theCard
 }
 
 // сдаем карты игрокам
 for (var i = 0; i < numberOfPlayers; i++) {
-cards['player' + i].hand.push(drawCard())
-cards['player' + i].hand.push(drawCard())
-document.querySelector('.playerCards_' + i).textContent = cards['player' + i].hand;
+  let firstCard = drawCard()
+  console.log(firstCard);
+  cards['player' + i].hand.push(firstCard)
+  let secondCard = drawCard()
+  console.log(secondCard);
+  cards['player' + i].hand.push(secondCard)
+  document.querySelector('.playerCards_' + i + '_1').innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${firstCard}.png" style="width:128px;height:153px;float:left;">`
+  document.querySelector('.playerCards_' + i + '_2').innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${secondCard}.png" style="width:128px;height:153px;float:left;margin-right:25px;">`
 }
 
 // сдаём стол
@@ -51,7 +56,6 @@ for (var i = 0; i < 5; i++) {
   cards.tableCards[i] = drawCard()
   document.querySelector('.card_' + i).textContent = cards.tableCards[i];
 }
-
 
 // Консолька для души!
 console.log(`${cards.player0.hand} 1st player hand`);
