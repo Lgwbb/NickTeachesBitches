@@ -24,11 +24,17 @@ const cards = {
   },
 }
 
-let numberOfPlayers = 6
+let numberOfPlayers = 3
 // Получить кол-во игроков
 //howManyPlayers =
 
 let cardsLeft = cards.wholePack.length
+//You wanna play? Let's play!
+
+const play = (numberOfPlayers) => {
+  playersDrawCards()
+  tableDrawCards()
+}
 
 // Функция сдать 1 карту
 const drawCard = () => {
@@ -40,24 +46,29 @@ const drawCard = () => {
 }
 
 // сдаем карты игрокам
-for (var i = 0; i < numberOfPlayers; i++) {
-  let firstCard = drawCard()
-  console.log(firstCard);
-  cards['player' + i].hand.push(firstCard)
-  let secondCard = drawCard()
-  console.log(secondCard);
-  cards['player' + i].hand.push(secondCard)
-  document.querySelector('.playerCards_' + i + '_1').innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${firstCard}.png" style="width:128px;height:153px;float:left;">`
-  document.querySelector('.playerCards_' + i + '_2').innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${secondCard}.png" style="width:128px;height:153px;float:left;margin-right:25px;">`
+const playersDrawCards = () => {
+    for (var i = 0; i < numberOfPlayers; i++) {
+        let firstCard = drawCard()
+        console.log(firstCard);
+        cards['player' + i].hand.push(firstCard)
+        let secondCard = drawCard()
+        console.log(secondCard);
+        cards['player' + i].hand.push(secondCard)
+        document.querySelector('.playerCards_' + i + '_1').innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${firstCard}.png" style="width:128px;height:153px;float:left;">`
+        document.querySelector('.playerCards_' + i + '_2').innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${secondCard}.png" style="width:128px;height:153px;float:left;margin-right:25px;">`
+  }
 }
 
 // сдаём стол
-for (var i = 0; i < 5; i++) {
-  let tableCard = drawCard()
-  cards.tableCards[i] = tableCard
-  document.querySelector('.card_' + i).innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${tableCard}.png" style="width:128px;height:153px;float:left;margin-right:0px;">`
+const tableDrawCards = () => {
+    for (var i = 0; i < 5; i++) {
+      let tableCard = drawCard()
+      cards.tableCards[i] = tableCard
+      document.querySelector('.card_' + i).innerHTML = `<img src="C:/Users/tugov_s/Desktop/JS/cards/${tableCard}.png" style="width:128px;height:153px;float:left;margin-right:2px;">`
+    }
 }
 
+document.getElementById('StartTheGame').addEventListener('Click', play(numberOfPlayers))
 // Консолька для души!
 console.log(`${cards.player0.hand} 1st player hand`);
 console.log(`${cardsLeft} cards left in a deck`);
