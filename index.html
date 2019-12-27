@@ -6,6 +6,9 @@
   </head>
 
   <style>
+  div {
+    display: inline;
+  }
     body {
       padding: 0;
       margin: 0;
@@ -59,6 +62,11 @@
       font-size: 15px;
       font-weight: bold;
       background-color: blue;
+      display: inline;
+    }
+    .cardsWrapper {
+      margin: auto;
+      display: block;
     }
     .player_0 {
       position: absolute;
@@ -66,6 +74,7 @@
       height:30%;
       top:10%;
       background-color: inherit;
+      display: inline;
     }
     .player_1 {
       position: absolute;
@@ -106,9 +115,8 @@
       width:50%;
       background-color: inherit;
     }
-
-    .playerCards_0_1 {
-      margin-left:;
+    .playerCards_0_2 {
+      display: inline;
     }
   </style>
   <body>
@@ -143,33 +151,45 @@
       <div class="players">
 
               <div class="player_0">First Player
+                <div class="cardsWrapper">
                   <div class="playerCards_0_1"> Здесь будут карты 1го игрока</div>
                   <div class="playerCards_0_2"> Здесь будут карты 1го игрока</div>
+                </div>
               </div>
 
               <div class="player_1">Second Player
+                <div class="cardsWrapper">
                   <div class="playerCards_1_1"> Здесь будут карты 2го игрока</div>
                   <div class="playerCards_1_2"> Здесь будут карты 2го игрока</div>
+                  </div>
               </div>
 
               <div class="player_2">Third Player
+                <div class="cardsWrapper">
                   <div class="playerCards_2_1"> Здесь будут карты 3го игрока</div>
                   <div class="playerCards_2_2"> Здесь будут карты 3го игрока</div>
+                  </div>
               </div>
 
               <div class="player_3">Fourth Player
+                <div class="cardsWrapper">
                   <div class="playerCards_3_1"> Здесь будут карты 4го игрока</div>
                   <div class="playerCards_3_2"> Здесь будут карты 4го игрока</div>
+                  </div>
               </div>
 
               <div class="player_4">Fivth Player
+                <div class="cardsWrapper">
                   <div class="playerCards_4_1"> Здесь будут карты 5го игрока</div>
                   <div class="playerCards_4_2"> Здесь будут карты 5го игрока</div>
+                  </div>
               </div>
 
               <div class="player_5">Sixth Player
+                <div class="cardsWrapper">
                   <div class="playerCards_5_1"> Здесь будут карты 6го игрока</div>
                   <div class="playerCards_5_2"> Здесь будут карты 6го игрока</div>
+                </div>
               </div>
       </div>
 
