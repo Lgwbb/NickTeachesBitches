@@ -3,140 +3,27 @@
   <head>
     <meta charset="utf-8">
     <title>Practice makes perfect</title>
+    <link rel="stylesheet" type="text/css" href="css.css">
   </head>
 
-  <style>
-  div {
-    display: inline;
-  }
-    body {
-      padding: 0;
-      margin: 0;
-    }
-    header {
-      height: 10%;
-      background-color: orange;
-      position: absolute;
-      width: 100%;
-    }
-    .headerDiv {
-      height: 100%;
-      width: 100%;
-      background-color: orange;
-      display: block;
-    }
-    .buttons {
-      height: inherit;
-      width: 90px;
-      border-radius: 10%;
-      font-size: 12px;
-      font-family: sans-serif;
-      float: left;
-    }
-    #selectNumberOfPlayers {
-      margin-top: 30px;
-      margin-left: 10px;
-      background-color: inherit;
-      float: left;
-      top:50%;
-    }
-    .SelectNumber {
-      float: left;
-      vertical-align: middle;
-      margin-left: 10px;
-      height: inherit;
-      background-color: inherit;
-      margin-top: 30px;
-    }
-    .main_field {
-      position: absolute;
-      height: 30%;
-      width: 50%;
-      background-color: green;
-      top: 40%;
-      left: 25%;
-    }
-    .players {
-      text-align: center;
-      font-family: sans-serif;
-      font-size: 15px;
-      font-weight: bold;
-      background-color: blue;
-      display: inline;
-    }
-    .cardsWrapper {
-      margin: auto;
-      display: block;
-    }
-    .player_0 {
-      position: absolute;
-      width:50%;
-      height:30%;
-      top:10%;
-      background-color: inherit;
-      display: inline;
-    }
-    .player_1 {
-      position: absolute;
-      width:50%;
-      left:50%;
-      top:10%;
-      height:30%;
-      background-color: inherit;
-    }
-    .player_2 {
-      position: absolute;
-      top: 40%;
-      left: 75%;
-      width:25%;
-      height:30%;
-      background-color: inherit;
-    }
-    .player_5 {
-      position: absolute;
-      top: 40%;
-      width:25%;
-      height:30%;
-      background-color: inherit;
-      border: white 1px;
-    }
-    .player_3 {
-      position: absolute;
-      top: 70%;
-      left: 50%;
-      height:30%;
-      width:50%;
-      background-color: inherit;
-    }
-    .player_4 {
-      position: absolute;
-      top: 70%;
-      height:30%;
-      width:50%;
-      background-color: inherit;
-    }
-    .playerCards_0_2 {
-      display: inline;
-    }
-  </style>
   <body>
-    <header>
-      <div class="headerDiv">
-        <button class='buttons' id='StartTheGame' autofocus>Start The Game!</button>
-        <p class="SelectNumber"> Number Of players </p>
-        <select id="selectNumberOfPlayers">
-          <option>6</option>
-          <option>5</option>
-          <option>4</option>
-          <option>3</option>
-          <option>2</option>
-          <option>1</option>
-        </select>
-      </div>
-    </header>
+
+      <header>
+          <div class="headerDiv">
+              <button class='buttons' id='StartTheGame' autofocus>Start The Game!</button>
+              <p class="SelectNumber"> Number Of players </p>
+              <select id="selectNumberOfPlayers">
+                <option>6</option>
+                <option>5</option>
+                <option>4</option>
+                <option>3</option>
+                <option>2</option>
+                <option>1</option>
+              </select>
+          </div>
+      </header>
 
         <div class="main_field">
-
           <div class="card_4"> Здесь будет ривер </div>
           <div class="card_3"> Здесь будет turn </div>
 
@@ -145,7 +32,6 @@
               <div class="card_1"> Здесь будет 2ая карта </div>
               <div class="card_2"> Здесь будет 3ая карта </div>
           </div>
-
         </div>
 
       <div class="players">
@@ -193,14 +79,7 @@
               </div>
       </div>
 
-
-
   </body>
-
-  <footer>
-
-  </footer>
-
+  <footer></footer>
   <script src="script.js" type="text/javascript"></script>
-
 </html>
