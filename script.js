@@ -20,7 +20,6 @@ const cards = {
     hand: [],
   },
 }
-
 // объявление глобалов
 let numberOfPlayers, cardsLeft
 
@@ -62,7 +61,7 @@ const tableDrawCards = () => {
     for (var i = 0; i < 5; i++) {
       let tableCard = drawCard()
       cards.tableCards[i] = tableCard
-      document.querySelector('.card_' + i).innerHTML = `<img src="./cards/${tableCard}.png" style="width:128px;height:153px;float:left;margin-right:2px;">`
+      document.querySelector('.card_' + i).innerHTML = `<img src="./cards/${tableCard}.png" style="width:128px;height:153px;margin-right:2px;">`
     }
 }
 // Кнопка начать игру!
