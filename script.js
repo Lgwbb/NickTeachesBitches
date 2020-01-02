@@ -51,8 +51,8 @@ const playersDrawCards = () => {
         let secondCard = drawCard()
         console.log(secondCard);
         cards['player' + i].hand.push(secondCard)
-        document.querySelector('.playerCards_' + i + '_1').innerHTML = `<img src="./cards/${firstCard}.png" style="width:128px;height:153px;">`
-        document.querySelector('.playerCards_' + i + '_2').innerHTML = `<img src="./cards/${secondCard}.png"style="width:128px;height:153px;">`
+        document.querySelector('.playerCards_' + i + '_1').innerHTML = `<img src="./cards/${firstCard}.png">`
+        document.querySelector('.playerCards_' + i + '_2').innerHTML = `<img src="./cards/${secondCard}.png">`
   }
 }
 //float:left;
@@ -61,7 +61,7 @@ const tableDrawCards = () => {
     for (var i = 0; i < 5; i++) {
       let tableCard = drawCard()
       cards.tableCards[i] = tableCard
-      document.querySelector('.card_' + i).innerHTML = `<img src="./cards/${tableCard}.png" style="width:128px;height:153px;margin-right:2px;">`
+      document.querySelector('.card_' + i).innerHTML = `<img src="./cards/${tableCard}.png" style="margin-right:1px">`
     }
 }
 // Кнопка начать игру!

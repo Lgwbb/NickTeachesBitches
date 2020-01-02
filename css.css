@@ -5,23 +5,23 @@
   font-family: calibri;
   font-size: 17px;
 }
+html, body {
+  height: 100%;
+}
   header {
     height: 5%;
-    width: 100%;
-    position: absolute;
   }
   header, .SelectNumber, #selectNumberOfPlayers {
-    background-color: #F5F2F0;
+    background-color: rgb(233, 223, 217);
   }
   div {
     display: inline;
   }
-  .buttons, .SelectNumber, #selectNumberOfPlayers {
+  .buttons, .SelectNumber, #selectNumberOfPlayers, .player_0, .player_1, .player_2, .player_3, .player_4, .player_5, .main_field {
     float: left;
 }
   .SelectNumber, #selectNumberOfPlayers  {
-    margin-top: 15px;
-    margin-left: 10px;
+    margin: 15px 0 0 10px;
   }
   .buttons, .SelectNumber, #selectNumberOfPlayers {
     font-size: 14px;
@@ -35,53 +35,42 @@
     font-weight: bold;
     text-align: center;
   }
-  .cardsWrapper {
+  .cardsWrapper, .main_field_wrapper {
     margin: auto;
     display: block;
   }
   .player_0, .player_1, .player_2, .player_3, .player_4, .player_5, .main_field {
-    position: absolute;
     height:30%;
     color: white;
+  }
+  .player_2 img, .player_5 img {
+    width: 30%;
+  }
+  .player_0 img, .player_1 img, .player_3 img, .player_4 img {
+    width: 15%;
+  }
+  .main_field img {
+    width: 16%;
   }
   .player_0, .player_1, .player_2, .player_3, .player_4, .player_5 {
     background-color: #497cc9;
     border-style: double;
-    padding-top: 50px;
+    padding-top: 10px;
   }
-  .player_0, .player_1, .player_3, .player_4 {
+  .player_0, .player_1, .player_3, .player_4, .main_field {
     width:50%;
   }
-  .player_0, .player_1 {
-    top:5%;
-  }
-  .player_1, .player_3 {
-    left:50%;
-  }
-  .player_5, .main_field, .player_2 {
-    top: 35%;
-  } 
   .player_5, .player_2 {
     width:25%;
   }
   .main_field {
-    width: 50%;
     background-color: #08b808;
-    left: 25%;
     border-style: inset;
     border-width: thick;
     border-color: rgb(177, 17, 17);
   }
   .main_field_wrapper {
-    margin: auto;
-    display: block;
-    padding-top: 65px;
-  }
-  .player_2 {
-    left: 75%;
-  }
-  .player_3, .player_4 {
-    top: 65%;
+    padding-top: 20px;
   }
   .player_0:hover, .player_1:hover, .player_2:hover, .player_3:hover, .player_4:hover, .player_5:hover {
     border-style:dotted;
