@@ -1,18 +1,24 @@
-const decompose = n =>  {
-  let answer = [n-1]
-  const total = n*n
-  let f = answer.reduce(((a,b) => a-b*b), total)
-  while (answer.reduce(((a,b) => a-b*b), total) > 1) {
-    n = Math.floor(Math.sqrt(f))
-    answer.unshift(n) //6
-    f = answer.reduce(((a,b) => a-b*b), total)
-    console.log(answer)
+const decompose = n =>  { //625
+  let answer = [n-1] //624
+  let ostatok = 2*n-1 // 1249
+  //const total = n*n // 390625
+  while (ostatok !== 0) {//1-1249/2-24/3-8/
+    floorKorenOstatka = Math.floor(Math.sqrt(ostatok))
+    answer.unshift(floorKorenOstatka) //1-35/2-4/3-2/4-2/
+    ostatok = ostatok - floorKorenOstatka * floorKorenOstatka //1-24/2-8/3-4/4-0
+    if (answer[0] === answer[1]) {
+      answer = answer.slice(answer.length - 2)
+      answer[0] = answer[0] - 1
+      ostatok = 2*n-1 - answer[0] * answer[0]}
+
+    console.log(ostatok);
+    console.log(answer);
   }
-  if  (f !== 0) return answer + 0
-  return(answer)
+  return console.log(answer);
+  
 }     
   //decompose(7100)
-  decompose(625)
+decompose(625)
 
 
 const duplicateEncode = word => word
