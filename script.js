@@ -1,3 +1,20 @@
+const decompose = n =>  {
+  let answer = [n-1]
+  const total = n*n
+  let f = answer.reduce(((a,b) => a-b*b), total)
+  while (answer.reduce(((a,b) => a-b*b), total) > 1) {
+    n = Math.floor(Math.sqrt(f))
+    answer.unshift(n) //6
+    f = answer.reduce(((a,b) => a-b*b), total)
+    console.log(answer)
+  }
+  if  (f !== 0) return answer + 0
+  return(answer)
+}     
+  //decompose(7100)
+  decompose(625)
+
+
 const duplicateEncode = word => word
 .toLowerCase()
 .split('')
