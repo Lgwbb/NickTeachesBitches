@@ -296,59 +296,59 @@ people around the world and now here's
 
 75
 00:03:10,310 --> 00:03:13,810
-my conversation with the JOSHA BACH.   					///////////////////////////////////////////////////////////////////////////
+my conversation with the JOSHA BACH. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 76
 00:03:13,810 --> 00:03:15,850
-As you've said
+As you've said   Как ты говорил
 
 77
 00:03:15,850 --> 00:03:18,100
-you grew up in a forest in East Germany just as
+you grew up in a forest in East Germany just as  Ты вырос в лесу в Восточной Германии
 
 78
 00:03:18,100 --> 00:03:20,350
-what we're talking about off mic to
+what we're talking about off mic to Мы обсуждали это без микрофона
 
 79
 00:03:20,350 --> 00:03:23,290
-parents who were artists and now I think
+parents who were artists and now I think  С родителями - людьми искусства и сейчас я думаю, что
 
 80
 00:03:23,290 --> 00:03:25,360
-at least to me you become one of the
+at least to me you become one of the  по крайней мере для меня, ты стал одним из
 
 81
 00:03:25,360 --> 00:03:28,270
-most unique thinkers in the AI world so
+most unique thinkers in the AI world so  самых уникальных мыслителей в мире Искуственного Интеллекта, поэтому
 
 82
 00:03:28,270 --> 00:03:29,770
-can you try to reverse engineer your
+can you try to reverse engineer your   ты бы мог попытаться с помощью реверсивной инженерии пересобрать
 
 83
 00:03:29,770 --> 00:03:30,780
-mind a little bit?
+mind a little bit?             свой ум немного?
 
 84
 00:03:30,780 --> 00:03:34,000
-what were the key philosophers
+what were the key philosophers   Какие были ключевые философы,
 
 85
 00:03:34,000 --> 00:03:37,300
-scientists ideas maybe even movies or
+scientists ideas maybe even movies or     ученые, идеи, может даже фильмы или
 
 86
 00:03:37,300 --> 00:03:40,060
-just realizations that impact on you
+just realizations that impact on you     просто осознания, которые повлияли на тебя
 
 87
 00:03:40,060 --> 00:03:42,190
-when you're growing up that kind of led
+when you're growing up that kind of led     когда ты развивался по такому пути, который как бы привел
 
 88
 00:03:42,190 --> 00:03:44,890
-to the trajectory or what the key sort
+to the trajectory or what the key sort    к траектории или к 
 
 89
 00:03:44,890 --> 00:03:46,720
@@ -356,11 +356,11 @@ of crossroads in the trajectory of your
 
 90
 00:03:46,720 --> 00:03:50,890
-intellectual development? My father came
+intellectual development? My father came   интеллектуального развития? Мой отец 
 
 91
 00:03:50,890 --> 00:03:53,580
-from a long tradition of architects
+from a long tradition of architects    потомственный архитектор
 
 92
 00:03:53,580 --> 00:03:58,240
@@ -368,455 +368,455 @@ distant branch of the Bach family and so
 
 93
 00:03:58,240 --> 00:04:00,660
-basically he was technically a nerd and
+basically he was technically a nerd and       По сути формально он был нердом и
 
 94
 00:04:00,660 --> 00:04:04,330
-nerds need to interface in society with
+nerds need to interface in society with        нердам нужно взаимодействовать с обществом
 
 95
 00:04:04,330 --> 00:04:07,450
-non-standard ways. Sometimes I define a
+non-standard ways. Sometimes I define a        не стандартными путями. Иногда я даю определение
 
 96
 00:04:07,450 --> 00:04:09,370
-nerd as somebody who thinks that the
+nerd as somebody who thinks that the            нерду, как кому-то, кто считает что 
 
 97
 00:04:09,370 --> 00:04:11,350
-purpose of communication is to submit
+purpose of communication is to submit            представить свои идеи для экспертной оценки
 
 98
 00:04:11,350 --> 00:04:15,190
-your ideas to peer review and normal
+your ideas to peer review and normal              является целью коммуникации. И нормальные
 
 99
 00:04:15,190 --> 00:04:17,019
-people understand that the primary
+people understand that the primary                люди понимают, что основная 
 
 100
 00:04:17,019 --> 00:04:19,000
-purpose of communication is to negotiate
+purpose of communication is to negotiate           цель общения это прийти к      
+        
 
 101
 00:04:19,000 --> 00:04:21,700
-alignment and these purposes tend to
+alignment and these purposes tend to              согласованию, а эти цели    
 
 102
 00:04:21,700 --> 00:04:24,100
-conflict. Which means that nerds have to
+conflict. Which means that nerds have to           конфликтуют друг с другом. Это значит, что нерды должны
 
 103
 00:04:24,100 --> 00:04:25,720
-learn how to interact with society at
+learn how to interact with society at             научиться взаимодействовать с обществом в целом.
 
 104
 00:04:25,720 --> 00:04:30,700
-large. Who is the reviewer in the nerd
+large. Who is the reviewer in the nerd            И кто же может стать рецензентом (?) для общения с точки
 
 105
 00:04:30,700 --> 00:04:33,040
-view of communication? Everybody who will
+view of communication? Everybody who will          зрения нерда? - Любой, кого можно рассмотреть
 
 106
 00:04:33,040 --> 00:04:35,530
-consider to be a peer. So whatever
+consider to be a peer. So whatever                  как равного. Поэтому какой бы
 
 107
 00:04:35,530 --> 00:04:37,990
-happiest individual is around well
+happiest individual is around well                   счастливчик не оказался рядом, 
 
 108
 00:04:37,990 --> 00:04:40,360
-you would try to make him or her the
+you would try to make him or her the                  ты попытаешься передать ему 
 
 109
 00:04:40,360 --> 00:04:45,130
-gift of information. Okay, so you're now
+gift of information. Okay, so you're now               дар знания. - Окей, 
 
 110
 00:04:45,130 --> 00:04:47,680
-by the way my research malinformed
+by the way my research malinformed                     кстати мо ??????????????????????
 
 111
 00:04:47,680 --> 00:04:52,380
-me... So your (father was) an architect or an artist? He did
+me... So your (father was) an architect or an artist? He did  Так твой папа был архитектором или художником?
 
 112
 00:04:52,380 --> 00:04:56,260
-study architecture but basically my
+study architecture but basically my                 Он изучал архитектуру, но вообще
 
 113
 00:04:56,260 --> 00:04:57,970
-grandfather made the wrong decision, he
+grandfather made the wrong decision, he            мой дедушка сделал не правильный выбор
 
 114
 00:04:57,970 --> 00:05:00,820
-married an aristocrat and was drawn
+married an aristocrat and was drawn                женившись на аристократке и был втянут
 
 115
 00:05:00,820 --> 00:05:04,480
-into the war and he came
+into the war and he came                           в войну и вернулся 
 
 116
 00:05:04,480 --> 00:05:06,790
-back after 15 years so basically my
+back after 15 years so basically my                только через 15 лет. По сути
 
 117
 00:05:06,790 --> 00:05:11,500
-father was not parented by a nerd by but
+father was not parented by a nerd by but            отец был воспитан не нердом,
 
 118
 00:05:11,500 --> 00:05:13,030
-by somebody who tried to tell him what
+by somebody who tried to tell him what              но кем-то, кто пытался указывать ему
 
 119
 00:05:13,030 --> 00:05:15,970
-to do and expected him to do what he was
+to do and expected him to do what he was            что делать и ожидал от него выполнения
 
 120
 00:05:15,970 --> 00:05:19,030
-told and he was unable to. He's unable to
-
+told and he was unable to. He's unable to            того, чего он не мог. Он не мог
 121
 00:05:19,030 --> 00:05:21,160
-do things if he's not intrinsically
+do things if he's not intrinsically                  делать вещи, к которым у него не
 
 122
 00:05:21,160 --> 00:05:22,930
-motivated, so in some sense my
+motivated, so in some sense my                       было действительной мотивации, так что в какой то степени
 
 123
 00:05:22,930 --> 00:05:23,530
-grandmother
+grandmother                                          бабушка
 
 124
 00:05:23,530 --> 00:05:26,350
-broke her son, and her son responded by
+broke her son, and her son responded by              сломала своего сына, и сын ответил тем, что
 
 125
 00:05:26,350 --> 00:05:28,240
-when he became an architect
+when he became an architect                          когда он стал архитектором,
 
 126
 00:05:28,240 --> 00:05:29,889
-to become an artist
+to become an artist                                   он стал художником(артистом)
 
 127
 00:05:29,889 --> 00:05:31,449
-so he built 'hundred wasa'
+so he built 'hundred wasa'                            Он строил причудливую архитектуру
 
 128
 00:05:31,449 --> 00:05:33,280
-architecture he built houses without
+architecture he built houses without                  строил дома без прямых углов
 
 129
 00:05:33,280 --> 00:05:35,530
-right angles. He've built lots of things that
+right angles. He've built lots of things that         Он построил много вещей, которые
 
 130
 00:05:35,530 --> 00:05:37,900
-didn't work in more brutalist traditions
+didn't work in more brutalist traditions               не работали в более брутальных традициях
 
 131
 00:05:37,900 --> 00:05:41,110
-of eastern Germany, and so he bought an
+of eastern Germany, and so he bought an                 Восточной Германии, поэтому он купил
 
 132
 00:05:41,110 --> 00:05:42,400
-old water mill, and moved out of the
+old water mill, and moved out of the                    старую мельницу и уехал из сельской местности,
 
 133
 00:05:42,400 --> 00:05:44,710
-countryside and did only what he wanted
+countryside and did only what he wanted                 занимался только тем, чем хотел,
 
 134
 00:05:44,710 --> 00:05:47,110
-to do, which was art. Eastern Germany was
+to do, which was art. Eastern Germany was                а именно искусством. Восточная Германия была
 
 135
 00:05:47,110 --> 00:05:49,870
-perfect for Bohemia, because you had
+perfect for Bohemia, because you had                     идеальным местом для него, потому что у тебя
 
 136
 00:05:49,870 --> 00:05:52,150
-complete material safety. Food was heavily
+complete material safety. Food was heavily               была полная финансовая безопастность. Еда была
 
 137
 00:05:52,150 --> 00:05:54,310
-subsidized, transport was free, you didn't
+subsidized, transport was free, you didn't               очень субсидирована, транспорт был бесплатным,
 
 138
 00:05:54,310 --> 00:05:56,199
-have to worry about rent or pensions or
+have to worry about rent or pensions or                  вам не нужно было беспокоиться об аренде или пенсии
 
 139
 00:05:56,199 --> 00:05:58,150
-anything. So as a socialized communist
+anything. So as a socialized communist                   или о чем бы то ни было. - Т.Е как социально-коммунистическая
 
 140
 00:05:58,150 --> 00:06:00,370
-side of Germany. Yes, and the other thing is it was
+side of Germany. Yes, and the other thing is it was      часть Германии. -Да, а еще 
 
 141
 00:06:00,370 --> 00:06:02,410
-almost impossible not to be in political
+almost impossible not to be in political                 было практически невозможно не быть в политическом
 
 142
 00:06:02,410 --> 00:06:03,820
-disagreement with your government, which
+disagreement with your government, which                 несогласии с государством, что было
 
 143
 00:06:03,820 --> 00:06:05,650
-is very productive for artists. So
+is very productive for artists. So                       очень продуктивно для артистов. Итак,
 
 144
 00:06:05,650 --> 00:06:07,210
-everything that you do is intrinsically
+everything that you do is intrinsically                   все что вы делаете, имеет внутреннее (???)
 
 145
 00:06:07,210 --> 00:06:09,729
-meaningful, because it will always touch
+meaningful, because it will always touch                  значение, потому что это будет всегда затрагивать
 
 146
 00:06:09,729 --> 00:06:11,919
-on the deeper currents of society of
+on the deeper currents of society of                      более глубокие корни общества, культуры
 
 147
 00:06:11,919 --> 00:06:13,600
-culture and be in conflict with it, and
+culture and be in conflict with it, and                   и будет вступать в противоречие с ним.
 
 148
 00:06:13,600 --> 00:06:15,820
-tangent with it. And you will always have
+tangent with it. And you will always have                  И тебе всегда придется 
 
 149
 00:06:15,820 --> 00:06:17,560
-to define yourself and with respect to
+to define yourself and with respect to                     определять себя в этом отношении.(????)
 
 150
 00:06:17,560 --> 00:06:19,979
-this. So what impact did your father this
+this. So what impact did your father this                 Какое влияние оказал на тебя твой отец?
 
 151
 00:06:19,979 --> 00:06:23,340
-outside of the box thinker
+outside of the box thinker                                 Этакий нестандартный мыслитель
 
 152
 00:06:23,340 --> 00:06:25,780
-against the government against the world
+against the government against the world                   выступающий против правительства, против всего
 
 153
 00:06:25,780 --> 00:06:28,599
-artist, had impact on your life? He was actually not a thinker, he was
+artist, had impact on your life? He was actually not a thinker, he was        мира артист. - Вообще он не был мыслителем, он
 
 154
 00:06:28,599 --> 00:06:30,759
-somebody who only got self-aware to the
+somebody who only got self-aware to the                      просто обладал самосознанием до такой степени,
 
 155
 00:06:30,759 --> 00:06:32,380
-degree that he needed to make himself
+degree that he needed to make himself                        чтобы быть функциональным.
 
 156
 00:06:32,380 --> 00:06:35,169
-functional. So in some sense he was
+functional. So in some sense he was                         К тому же 
 
 157
 00:06:35,169 --> 00:06:39,729
-also late 1960s, and he was in some sense
+also late 1960s, and he was in some sense                    шел конец 60ых, и он был в некотором смысле
 
 158
 00:06:39,729 --> 00:06:42,010
-a hippie, so he became a one-person cult.
+a hippie, so he became a one-person cult.                    хиппи, так что он ????????
 
 159
 00:06:42,010 --> 00:06:44,590
-he lived out there in his kingdom he
+he lived out there in his kingdom he                        Он жил в своем королевстве,
 
 160
 00:06:44,590 --> 00:06:47,789
-built big sculpture gardens, and
+built big sculpture gardens, and                            строил сады со скульптурами, и
 
 161
 00:06:47,789 --> 00:06:50,680
-started many avenues of art and so on,
+started many avenues of art and so on,                      открыл множество ???? искусства и так далее.
 
 162
 00:06:50,680 --> 00:06:53,860
-and convinced a woman to live with him
+and convinced a woman to live with him                     Он убедил женщину жить с ним,
 
 163
 00:06:53,860 --> 00:06:55,900
-she was also an architect and she adored
+she was also an architect and she adored                    она тоже была архитектором и обожала
 
 164
 00:06:55,900 --> 00:06:58,060
-him and decided to share her life with
+him and decided to share her life with                      его и решила разделить с ним жизнь.
 
 165
 00:06:58,060 --> 00:07:00,760
-him, and I basically grew up in a big
+him, and I basically grew up in a big                        Так что по сути я вырос в большой
 
 166
 00:07:00,760 --> 00:07:01,900
-cave full of books
+cave full of books                                           пещере, полной книг.
 
 167
 00:07:01,900 --> 00:07:05,349
-I'm almost feral and I was bored out
+I'm almost feral and I was bored out                        Было так скучно,я почти одичал
 
 168
 00:07:05,349 --> 00:07:07,090
-there, it was very very beautiful very
+there, it was very very beautiful very                      Там было очень очень красиво и
 
 169
 00:07:07,090 --> 00:07:09,789
-quiet and quite lonely. So I started to
+quiet and quite lonely. So I started to                     тихо, но довольно одиноко. Поэтому я начал
 
 170
 00:07:09,789 --> 00:07:12,460
-read and by the time I came to school
+read and by the time I came to school                       читать, и к тому моменту как я пошел в школу,
 
 171
 00:07:12,460 --> 00:07:14,289
-I've read everything until fourth grade
+I've read everything until fourth grade                     я прочитал уже все до 4 класса.
 
 172
 00:07:14,289 --> 00:07:16,810
-and then some, and there was not a real
+and then some, and there was not a real                     И в принципе у меня не было реального
 
 173
 00:07:16,810 --> 00:07:18,490
-way for me to relate to the outside
+way for me to relate to the outside                         способа общения с внешним миром,
 
 174
 00:07:18,490 --> 00:07:21,130
-world, and I couldn't quite put my finger
+world, and I couldn't quite put my finger                   и я не мог точно понять
 
 175
 00:07:21,130 --> 00:07:23,470
-on why, and today I know it was because I
+on why, and today I know it was because I                   почему, а сейчас я знаю, что так происходило
 
 176
 00:07:23,470 --> 00:07:25,030
-was a nerd obviously and it was the only
+was a nerd obviously and it was the only                    потому что я, что очевидно, был нердом. И единственным
 
 177
 00:07:25,030 --> 00:07:28,060
-nerd around, so there was no other kids
+nerd around, so there was no other kids                      нердом в округе, остальные дети не были такими
 
 178
 00:07:28,060 --> 00:07:30,789
-like me. And there was nobody interested
+like me. And there was nobody interested                     как я. И никто не интересовался
 
 179
 00:07:30,789 --> 00:07:33,490
-in physics or computing or mathematics
+in physics or computing or mathematics                       физикой или вычислениями или математикой
 
 180
 00:07:33,490 --> 00:07:36,490
-and so on. And this village school that I
+and so on. And this village school that I                     и т.д. Деревенская школа, в которую я
 
 181
 00:07:36,490 --> 00:07:39,340
-went to, it was very nice school, kids
+went to, it was very nice school, kids                        ходил была очень хорошей. Дети
 
 182
 00:07:39,340 --> 00:07:40,990
-were nice to me, I was not beaten up but
+were nice to me, I was not beaten up but                       были милы со мной, меня не били, но
 
 183
 00:07:40,990 --> 00:07:43,330
-I also didn't make many friends or built
+I also didn't make many friends or built                       в то же время я не завел много друзей и не
 
 184
 00:07:43,330 --> 00:07:44,949
-deep relationships, that only happened
+deep relationships, that only happened                        построил глубокие отношения. Это произошло только
 
 185
 00:07:44,949 --> 00:07:47,050
-starting from ninth grade, when I went to
+starting from ninth grade, when I went to                    начиная с 9 класса, когда я пошел в школу для 
 
 186
 00:07:47,050 --> 00:07:49,509
-a school for mathematics and physics. Do
+a school for mathematics and physics. Do                     физиков и математиков. -Ты
 
 187
 00:07:49,509 --> 00:07:51,030
-you remember any key books that moment, that would...
+you remember any key books that moment, that would...        помнишь какие-нибудь ключевые книги того времени, которые...
 
 188
 00:07:51,030 --> 00:07:54,490
-Yes, i've basically everything, so I went to the
+Yes, i've basically everything, so I went to the             -Да, я по сути читал все, я ходил
 
 189
 00:07:54,490 --> 00:07:56,110
-library and I've worked my way through
+library and I've worked my way through                       в библиотеку и прочитывал все
 
 190
 00:07:56,110 --> 00:07:58,539
-the children's and young adult's sections
+the children's and young adult's sections                   из детского и молодежного отделов
 
 191
 00:07:58,539 --> 00:08:01,270
-and then I read a lot of science fiction,
+and then I read a lot of science fiction,                   потом я читал много научной фантастики,
 
 192
 00:08:01,270 --> 00:08:03,819
-for instance Stanislav Lem, basically
+for instance Stanislav Lem, basically                       к примеру Станислав Лем. По сути этот
 
 193
 00:08:03,819 --> 00:08:05,650
-the great author of cybernetics has
+the great author of cybernetics has                          прекрасный автор кибернетики 
 
 194
 00:08:05,650 --> 00:08:07,810
-influenced me, back then I didn't see him
+influenced me, back then I didn't see him                    повлиял на меня. Тогда я не замечал его
 
 195
 00:08:07,810 --> 00:08:09,250
-as a big influence because everything
+as a big influence because everything                        большого влияния на меня, потому что все
 
 196
 00:08:09,250 --> 00:08:10,900
-that he wrote seem to be so natural to
+that he wrote seem to be so natural to                       что он писал казалось мне таким естественным.
 
 197
 00:08:10,900 --> 00:08:13,479
-me and it's only later that I contrasted
+me and it's only later that I contrasted                    И только позже я сравнил это 
 
 198
 00:08:13,479 --> 00:08:16,240
-it with what other people wrote. Another
+it with what other people wrote. Another                    с тем что писали другие. Еще
 
 199
 00:08:16,240 --> 00:08:17,800
-thing that was very influential on me
+thing that was very influential on me                        на меня очень сильно повлияли
 
 200
 00:08:17,800 --> 00:08:20,680
-were the classical philosophers and also
+were the classical philosophers and also                    классические философы, а также
 
 201
 00:08:20,680 --> 00:08:23,020
-literature of Romanticism, so German
+literature of Romanticism, so German                         романтизм в литературе, немецкая
 
 202
 00:08:23,020 --> 00:08:26,530
-poetry and art //cross two hills off// and
+poetry and art //cross two hills off// and                   поэзия и искусство. 
 
 203
 00:08:26,530 --> 00:08:30,520
-Heine and up to Heather and so on. Hesse,
+Heine and up to Heather and so on. Hesse,                   Гейне, Гессе и так далее. - Гессе,
 
 204
 00:08:30,520 --> 00:08:33,490
-I love Hesse. So at which point did a
+I love Hesse. So at which point did a                        я люблю Гессе. В какой момент
 
 205
 00:08:33,490 --> 00:08:35,589
-classical philosophers end at this point
+classical philosophers end at this point                     представители классической философии
 
 206
 00:08:35,589 --> 00:08:38,078
@@ -832,603 +832,602 @@ stretch through even as far as Nietzsche
 
 209
 00:08:42,820 --> 00:08:45,040
-or just are we are talking about Plato and...
+or just are we are talking about Plato and...                или это Платон...
 
 210
 00:08:45,040 --> 00:08:46,630
-I think that Nietzsche
+I think that Nietzsche                                       Я думаю что Ницше
 
 211
 00:08:46,630 --> 00:08:48,670
-is the classical equivalent of a shit
+is the classical equivalent of a shit                        это классический эквивалент говно-постер.
 
 212
 00:08:48,670 --> 00:08:56,769
-poster. So, you say he is a classsical troll. So he is very smart and he is easy to read,
+poster. So, you say he is a classsical troll. So he is very smart and he is easy to read,  Он очень умный и его легко читать,
 
 213
 00:08:56,769 --> 00:08:58,420
-But he is not so much trolling others, he's trolling himself because he
+But he is not so much trolling others, he's trolling himself because he     но он не особо троллит других, он троллит себя,потому что
 
 214
 00:08:58,420 --> 00:09:00,459
-was at odds with the world, largely his
+was at odds with the world, largely his                          он был в разладе с миром, в основном его 
 
 215
 00:09:00,459 --> 00:09:02,170
-romantic relationships didn't work out,
+romantic relationships didn't work out,                      романтические отношения не складывались,
 
 216
 00:09:02,170 --> 00:09:04,180
-he got angry and he basically became a
+he got angry and he basically became a                       он так разозлился что стал
 
 217
 00:09:04,180 --> 00:09:07,690
-nihilist. isn't it a
+nihilist. isn't it a                                        нигилистом. - Разве это
 
 218
 00:09:07,690 --> 00:09:09,760
-beautiful way to be as an intellectual 
+beautiful way to be as an intellectual                      не красивый способ быть интеллектуалом 
 
 219
 00:09:09,760 --> 00:09:12,040
-is to constantly be trolling yourself, to
+is to constantly be trolling yourself, to                   постоянно троллить себя, находиться 
 
 220
 00:09:12,040 --> 00:09:16,779
-be in that conflict in that, no? I think it's lack of self-awareness,
+be in that conflict in that, no? I think it's lack of self-awareness,    в таком конфликте, нет? - Я считаю что это недостаток
 
 221
 00:09:16,779 --> 00:09:18,880
-at some point you have to understand the
+at some point you have to understand the                    самосознания, ты в какой то мере должен понимать
 
 222
 00:09:18,880 --> 00:09:20,709
-comedy of your own situation, if you take
+comedy of your own situation, if you take                  комичность всей ситуации, если ты относишься к себе
 
 223
 00:09:20,709 --> 00:09:23,290
-yourself seriously and you are not
+yourself seriously and you are not                         слишком серьезно, ты не
 
 224
 00:09:23,290 --> 00:09:23,949
-functional
+functional                                                 функционален.
 
 225
 00:09:23,949 --> 00:09:25,510
-it ends in tragedy, as I did for
+it ends in tragedy, as I did for                          И это закончится трагедией, как и произошло
 
 226
 00:09:25,510 --> 00:09:27,310
-Nietzsche. I think... you think he took
+Nietzsche. I think... you think he took                   с Ницше. -Ты считаешь он относился к себе слишком 
 
 227
 00:09:27,310 --> 00:09:28,930
-himself too seriously in the in that
+himself too seriously in the in that                      серьезно?
 
 228
 00:09:28,930 --> 00:09:31,089
-tension? Yeah. And as we find the same thing
+tension? Yeah. And as we find the same thing              -Да, и тоже самое что мы находим в
 
 229
 00:09:31,089 --> 00:09:33,250
-in Hesse and so on, this steppenwolf syndrome
+in Hesse and so on, this steppenwolf syndrome             Гессе и так далее. Этот синдром степного волка
 
 230
 00:09:33,250 --> 00:09:34,839
-is classic adolescence 
+is classic adolescence                                    как классическая юность, 
 
 231
 00:09:34,839 --> 00:09:37,149
-where you basically feel misunderstood
+where you basically feel misunderstood                    когда ты чувствуешь что 
 
 232
 00:09:37,149 --> 00:09:38,620
-by the world and you don't understand
+by the world and you don't understand                     мир тебя не понимает. И ты сам не понимаешь
 
 233
 00:09:38,620 --> 00:09:40,390
-that all the misunderstandings are the
+that all the misunderstandings are the                     что все недоразумения являются 
 
 234
 00:09:40,390 --> 00:09:42,040
-result of your own lack of
+result of your own lack of                                  результатом твоего собственного отсутствия 
 
 235
 00:09:42,040 --> 00:09:43,870
-self-awareness, because you think that
+self-awareness, because you think that                      самосознания. Потому что ты считаешь
 
 236
 00:09:43,870 --> 00:09:46,329
-you are a prototypical human and the
+you are a prototypical human and the                         что ты эталонный человек и
 
 237
 00:09:46,329 --> 00:09:47,949
-others around you should behave the same
+others around you should behave the same                     окружающие должны вести себя так же
 
 238
 00:09:47,949 --> 00:09:49,480
-way as you expect them, based on your
+way as you expect them, based on your                        как ты ожидаешь от них, основываясь на своих
 
 239
 00:09:49,480 --> 00:09:51,070
-innate instincts, and it doesn't work out,
-
+innate instincts, and it doesn't work out,                   врожденных инстинктах, но это не срабатывает
 240
 00:09:51,070 --> 00:09:53,770
-and you become a transcendentalist to
-
+and you become a transcendentalist to                        и ты становишься трансценденталистом, чтобы 
+ 
 241
 00:09:53,770 --> 00:09:56,170
-deal with that, and so it's very very
+deal with that, and so it's very very                        справиться с этим. И это все очень 
 
 242
 00:09:56,170 --> 00:09:57,160
-understandable, and i have
+understandable, and i have                                   понятно, и я отношусь к этому с 
 
 243
 00:09:57,160 --> 00:09:59,139
-great sympathies for this to the degree
+great sympathies for this to the degree                      большим сочувствием, до такой же степени
 
 244
 00:09:59,139 --> 00:10:00,730
-that I can have sympathy for my own
+that I can have sympathy for my own                          как я сочувствую своей собственной
 
 245
 00:10:00,730 --> 00:10:05,050
-intellectual history, but you have to grow out of it.
+intellectual history, but you have to grow out of it.         интеллектуальной истории. Но ты должен вырасти из этого.
 
 246
 00:10:05,050 --> 00:10:07,420
-So as an intellectual, a life well-lived, 
+So as an intellectual, a life well-lived,                       -Значит с точки зрения интеллектуала, хорошо прожитая жизнь,
 
 247
 00:10:07,420 --> 00:10:09,519
-a journey well traveled, is one where you
+a journey well traveled, is one where you                        хорошо пройденное путешествие это тогда, когда ты не воспринимаешь 
 
 248
 00:10:09,519 --> 00:10:11,560
-don't take yourself seriously - from my pespective.
+don't take yourself seriously - from my pespective.              себя всерьез - мне так кажется.
 
 249
 00:10:11,560 --> 00:10:14,230
-I think that you are neither serious or
+I think that you are neither serious or                          Я думаю что ты и не серьезен и 
 
 250
 00:10:14,230 --> 00:10:17,350
-not serious yourself, because you need to
+not serious yourself, because you need to                         не не серьезен, потому что ты должен
 
 251
 00:10:17,350 --> 00:10:20,230
-become unimportant as a subject that is
+become unimportant as a subject that is                           стать неважным, как субъект. Т.е 
 
 252
 00:10:20,230 --> 00:10:22,990
-if you are a philosopher, belief - is not a
+if you are a philosopher, belief - is not a                       если ты философ, "вера(??)" - это
 
 253
 00:10:22,990 --> 00:10:26,199
-verb. you don't do this for the audience,
+verb. you don't do this for the audience,                         не глагол. Ты не делаешь это для публики,
 
 254
 00:10:26,199 --> 00:10:27,730
-you don't do it for yourself, you have to
+you don't do it for yourself, you have to                         ты не делаешь это для себя, ты должен
 
 255
 00:10:27,730 --> 00:10:29,860
-submit to the things that are possibly
+submit to the things that are possibly                            подчиняться вещам, которые возможно
 
 256
 00:10:29,860 --> 00:10:32,259
-true and you have to follow wherever
+true and you have to follow wherever                              в`ерны и ты должен идти туда, куда бы
 
 257
 00:10:32,259 --> 00:10:34,360
-your inquiry leads, but it's not about
+your inquiry leads, but it's not about                            тебя не завело исследование. Но это все не про
 
 258
 00:10:34,360 --> 00:10:36,250
-you, and has nothing to do with you.
+you, and has nothing to do with you.                              тебя и не имеет к тебе никакого отношения.
 
 259
 00:10:36,250 --> 00:10:39,790
-So do you think then people like Ayn Rand
+So do you think then people like Ayn Rand                         -Так как ты думаешь такие люди, как Айн Рэнд
 
 260
 00:10:39,790 --> 00:10:41,560
-believed sort of an idea of there's a
+believed sort of an idea of there's a                             верили в идею что существует 
 
 261
 00:10:41,560 --> 00:10:43,689
-objective truth, what's your sense
+objective truth, what's your sense                                объективная истина. ?????????
 
 262
 00:10:43,689 --> 00:10:46,660
-in the philosophical... if you remove
+in the philosophical... if you remove                              Если ты вычеркнешь
 
 263
 00:10:46,660 --> 00:10:48,430
-yourself as subjective from the picture
+yourself as subjective from the picture                            свою субъективную точку зрения из картины вещей
 
 264
 00:10:48,430 --> 00:10:49,509
-you think it's possible to actually
+you think it's possible to actually                                возможно ли будет в самом деле
 
 265
 00:10:49,509 --> 00:10:52,600
-discover ideas that are true or we just
+discover ideas that are true or we just                             открывать идеи, ?????? или мы просто
 
 266
 00:10:52,600 --> 00:10:54,670
-in a measure relative concepts that're
+in a measure relative concepts that're                               находимся в ??????? относительных понятиях,
 
 267
 00:10:54,670 --> 00:10:57,040
- neither true nor false, it's just a
+ neither true nor false, it's just a                               которые не являются ни правдой, ни ложью,
 
 268
 00:10:57,040 --> 00:11:00,370
-giant mess? You cannot define objective
+giant mess? You cannot define objective                            просто гигантский беспорядок? - Ты не можешь определить объективную
 
 269
 00:11:00,370 --> 00:11:01,689
-truth without understanding the nature
+truth without understanding the nature                          истину, без прежде всего понимания природы
 
 270
 00:11:01,689 --> 00:11:03,759
-of truth in the first place, so what
+of truth in the first place, so what                            истины. Так что имеет в виду
 
 271
 00:11:03,759 --> 00:11:06,160
-does the brain mean by saying that it
+does the brain mean by saying that it                           мозг, говоря, что 
 
 272
 00:11:06,160 --> 00:11:07,810
-discovers something as truth? so for
+discovers something as truth? so for                            он открывает что-то как истину? Например,
 
 273
 00:11:07,810 --> 00:11:10,029
-instance a model can be predictive or
+instance a model can be predictive or                           модель может быть предсказательная и 
 
 274
 00:11:10,029 --> 00:11:13,300
-not predictive, then there can be a sense
+not predictive, then there can be a sense                       не предсказательная. Далее, может быть значение??
 
 275
 00:11:13,300 --> 00:11:15,310
-in which a mathematical statement can be
+in which a mathematical statement can be                      при котором математическая формулировка может быть
 
 276
 00:11:15,310 --> 00:11:17,350
-true, because it's defined as true under
+true, because it's defined as true under                       верна, потому что она определена как правдивая
 
 277
 00:11:17,350 --> 00:11:19,480
-certain conditions, so it's basically a
+certain conditions, so it's basically a                       при определенных условиях, таким образом это в основном
 
 278
 00:11:19,480 --> 00:11:23,079
-particular state that a variable can
+particular state that a variable can                          конкретное состояние, которое переменная может иметь
 
 279
 00:11:23,079 --> 00:11:26,079
-have in assembled game, and then you can
+have in assembled game, and then you can                      в ???? игре, а затем у вас может
 
 280
 00:11:26,079 --> 00:11:27,970
-have a correspondence between systems,
+have a correspondence between systems,                      быть соответствие между системами.   
 
 281
 00:11:27,970 --> 00:11:29,500
-and talk about truth, which is again a
+and talk about truth, which is again a                      И говоря о правде, что опять же
 
 282
 00:11:29,500 --> 00:11:31,540
-type of model correspondence, and that
+type of model correspondence, and that                     является модельным соответствием(?),и также
 
 283
 00:11:31,540 --> 00:11:33,130
-also seems to be a particular kind of
+also seems to be a particular kind of                      это кажется особым видом
 
 284
 00:11:33,130 --> 00:11:35,350
-ground truth, so for instance you're
+ground truth, so for instance you're                       основной правды. Так например ты 
 
 285
 00:11:35,350 --> 00:11:37,139
-confronted with the enormity of
+confronted with the enormity of                           столкнулся с огромностью чего-то
 
 286
 00:11:37,139 --> 00:11:39,639
-something existing at all, right? that's
+something existing at all, right? that's                   существующего.
 
 287
 00:11:39,639 --> 00:11:41,309
-standing when you realize something
+stunning when you realize something                         Это потрясающе, когда ты понимаешь что-то
 
 288
 00:11:41,309 --> 00:11:44,559
-exists rather than nothing, and this
+exists rather than nothing, and this                         существует, вместо ничего. И это кажется 
 
 289
 00:11:44,559 --> 00:11:46,269
-seems to be true, right? there is too
+seems to be true, right? there is too                         правдой, да? Это абсолютная 
 
 290
 00:11:46,269 --> 00:11:48,040
-absolute truth in the fact that
+absolute truth in the fact that                               правда тот факт, что
 
 291
 00:11:48,040 --> 00:11:49,449
-something seems to be happening.
+something seems to be happening.                              вроде бы что-то происходит. 
 
 292
 00:11:49,449 --> 00:11:52,120
-yeah, that to me is a showstopper, I
+yeah, that to me is a showstopper, I                          -Да, для меня это шоу-стоппер, Я
 
 293
 00:11:52,120 --> 00:11:53,949
-could just think about that idea and be
+could just think about that idea and be                       мог бы просто думать об этой идее
 
 294
 00:11:53,949 --> 00:11:56,470
-amazed by that idea for the rest of my
+amazed by that idea for the rest of my                        и восхищаться ей до конца своих
 
 295
 00:11:56,470 --> 00:11:58,269
-life, and not go any farther, cause I
+life, and not go any farther, cause I                         дней, и даже не заглядывать дальше. Потому что
 
 296
 00:11:58,269 --> 00:11:59,709
-don't even know the answer to that why
+don't even know the answer to that why                      я даже не знаю ответа на вопрос "почему
 
 297
 00:11:59,709 --> 00:12:01,480
-does anything exist at all. well the
+does anything exist at all. well the                        вообще что-то существует?" -Ну, 
 
 298
 00:12:01,480 --> 00:12:03,160
-easiest answer is existence is the
+easiest answer is existence is the                          самый простой ответ это (все существоваует)
 
 299
 00:12:03,160 --> 00:12:04,600
-default, right? so this is the lowest
+default, right? so this is the lowest                       по умолчанию), так? Это наименьшее число
 
 300
 00:12:04,600 --> 00:12:05,949
-number of bits that you would need to
+number of bits that you would need to                       бит, которое тебе нужно для того, чтобы
 
 301
 00:12:05,949 --> 00:12:08,139
-encode this. whose answer who brought that?
+encode this. whose answer who brought that?                  закодировать это. -Чей ответ?...
 
 302
 00:12:08,139 --> 00:12:09,759
-the simplest answer that
+the simplest answer that                                     -Самый простой ответ это то,
 
 303
 00:12:09,759 --> 00:12:10,950
-existence is the default.
+existence is the default.                                     что все существоваует по умолчанию.
 
 304
 00:12:10,950 --> 00:12:12,990
-What about non-existence? I mean that
+What about non-existence? I mean that                          - А что насчет небытия? 
 
 305
 00:12:12,990 --> 00:12:15,570
-seems... non-existence might not be a
+seems... non-existence might not be a                          -небытие скорее не такое
 
 306
 00:12:15,570 --> 00:12:17,339
-meaningful notion in this sense, so in
+meaningful notion in this sense, so in                          осмысленное понятие, поэтому
 
 307
 00:12:17,339 --> 00:12:19,500
-some sense if everything that can exist
+some sense if everything that can exist                         в некотором смысле если все, что может  существовать 
 
 308
 00:12:19,500 --> 00:12:21,510
-exists, for something to exist it
+exists, for something to exist it                              существует, то это 
 
 309
 00:12:21,510 --> 00:12:23,730
-probably needs to be implementable, the
+probably needs to be implementable, the                          вероятно должно быть реализуемо.
 
 310
 00:12:23,730 --> 00:12:25,740
-only thing that can be implemented is
+only thing that can be implemented is                            Единственная вещь, которая может быть реализована
 
 311
 00:12:25,740 --> 00:12:27,600
-finite automata, so maybe the whole of
+finite automata, so maybe the whole of                           это конечный автомат, поэтому может все наше 
 
 312
 00:12:27,600 --> 00:12:29,339
-existence is the superposition of all
+existence is the superposition of all                             бытие это наложение всех
 
 313
 00:12:29,339 --> 00:12:31,230
-finite automata, and we are in some
+finite automata, and we are in some                               конечных автоматов, и мы находимся
 
 314
 00:12:31,230 --> 00:12:32,760
-region of the fractal, that has the
+region of the fractal, that has the                              в некоторой области фрактала, 
 
 315
 00:12:32,760 --> 00:12:35,220
-properties that it can contain us. What
+properties that it can contain us. What                          обладающей свойствами содержать нас. 
 
 316
 00:12:35,220 --> 00:12:36,810
-does it mean to be a superposition of
+does it mean to be a superposition of                           -Что означает быть наложением конечной...
 
 317
 00:12:36,810 --> 00:12:41,010
-finite... superposition of all
+finite... superposition of all                                   наложением всех.......
 
 318
 00:12:41,010 --> 00:12:43,440
-... like all possible rules... Imagine
+... like all possible rules... Imagine                           возможных правил..Представь себе
 
 319
 00:12:43,440 --> 00:12:44,910
-that every automaton is basic an
+that every automaton is basic an                                что каждый автомат это базовый
 
 320
 00:12:44,910 --> 00:12:47,660
-operator, that acts on some substrate and
+operator, that acts on some substrate and                       оператор, который действует на какой-то субстрат
 
 321
 00:12:47,660 --> 00:12:50,070
-as a result you get emergent patterns.
+as a result you get emergent patterns.                         и в результате ты получаешь возникающие шаблоны.
 
 322
 00:12:50,070 --> 00:12:54,089
-What's a substrate? I have no idea to know, so
+What's a substrate? I have no idea to know, so                 Что за субстрат? - Я не знаю, 
 
 323
 00:12:54,089 --> 00:12:56,040
-it's something
+it's something                                                 это что-то, что может 
 
 324
 00:12:56,040 --> 00:12:58,800
-that can store information. Something
+that can store information. Something                          хранить информацию. - Что-то , что 
 
 325
 00:12:58,800 --> 00:12:59,970
-that can store information there is automaton...
+that can store information there is automaton...               может хранить информацию это автомат...
 
 326
 00:12:59,970 --> 00:13:01,440
-something that can hold state.
+something that can hold state.                                  что-то, что может удерживать состояние.
 
 327
 00:13:01,440 --> 00:13:03,449
-Still doesn't make sense to me - why
+Still doesn't make sense to me - why                           Мне все равно не понятно- почему
 
 328
 00:13:03,449 --> 00:13:05,310
-that exists at all I could just sit
+that exists at all I could just sit                            все существует в принципе.Я мог бы просто сидеть
 
 329
 00:13:05,310 --> 00:13:08,820
-there with a with a beer or or a vodka
+there with a with a beer or or a vodka                         с пивом или водкой
 
 330
 00:13:08,820 --> 00:13:11,370
-and just enjoy effect wandering the why
+and just enjoy effect wandering the why                        и просто наслаждаться размышлениями "почему".
 
 331
 00:13:11,370 --> 00:13:13,860
-May not have a why, this might be the
+May not have a why, this might be the                         Возможно нет никакого "почему", может у этого
 
 332
 00:13:13,860 --> 00:13:15,990
-wrong direction to ask into this, so
+wrong direction to ask into this, so                          вопроса неверное направление,поэтому
 
 333
 00:13:15,990 --> 00:13:18,360
-there could be no relation in the Why
+there could be no relation in the Why                         здесь может и не быть никакой связи 
 
 334
 00:13:18,360 --> 00:13:20,730
-direction without asking for a purpose
+direction without asking for a purpose                        с вопросом "почему" не задавая вопрос о цели
 
 335
 00:13:20,730 --> 00:13:22,860
-or a course. it doesn't mean that
+or a course. it doesn't mean that                             курса. Это не значит что у всего
 
 336
 00:13:22,860 --> 00:13:24,209
-everything has to have a purpose or
+everything has to have a purpose or                           должен быть смысл или
 
 337
 00:13:24,209 --> 00:13:27,690
-cause, right? So we mentioned some
+cause, right? So we mentioned some                             причина, да? -Так, мы упоминали некоторых
 
 338
 00:13:27,690 --> 00:13:29,490
-philosophers in that early, just taking a
+philosophers in that early, just taking a                     философов ранее, возращаясь
 
 339
 00:13:29,490 --> 00:13:32,100
-brief step back into that. okay so we
+brief step back into that. okay so we                         назад к вопросу..-Окей, мы спросили
 
 340
 00:13:32,100 --> 00:13:33,870
-asked ourselves when did classical
+asked ourselves when did classical                         себя когда закончилась классические
 
 341
 00:13:33,870 --> 00:13:36,000
-philosophy end. I think when Germany
+philosophy end. I think when Germany                        философия. Я считаю в Германии
 
 342
 00:13:36,000 --> 00:13:37,769
-largely ended with the first revolution.
+largely ended with the first revolution.                    в значительно степени закончилась с первой революцией.
 
 343
 00:13:37,769 --> 00:13:39,990
-that's basically even... Which one was that?
+that's basically even... Which one was that?                ..................... Какой именно?
 
 344
 00:13:39,990 --> 00:13:43,310
-This was when we ended the monarchy and
+This was when we ended the monarchy and                     Тогда, когда мы положили конец монархии и
 
 345
 00:13:43,310 --> 00:13:45,959
-started a democracy and at this point we
+started a democracy and at this point we                    началась демократия и в этот момент мы
 
 346
 00:13:45,959 --> 00:13:48,060
-basically came up with a new form of
+basically came up with a new form of                       пришли к новой форме 
 
 347
 00:13:48,060 --> 00:13:49,920
-government that didn't have a good sense
+government that didn't have a good sense                  правления, которая не имела четкого представления
 
 348
 00:13:49,920 --> 00:13:52,800
-of this new organism, that society
+of this new organism, that society                       об этом новом организме, которым общество
 
 349
 00:13:52,800 --> 00:13:54,899
-wanted to be, and in a way it decapitated
+wanted to be, and in a way it decapitated                хотело быть, и в каком-то смысле это обезглавило
 
 350
 00:13:54,899 --> 00:13:57,300
-the universities. so the universities went
+the universities. so the universities went              университеты.Так что университеты вошли
 
 351
 00:13:57,300 --> 00:13:59,100
-on to modernism like a headless chicken.
+on to modernism like a headless chicken.                в модернизм как безголовые цыплята.
 
 352
 00:13:59,100 --> 00:14:01,769
-At the same time democracy failed in
+At the same time democracy failed in                   В то же время демократия провалилась в
 
 353
 00:14:01,769 --> 00:14:03,660
-Germany and we got fascism as a result,
+Germany and we got fascism as a result,                Германии и в результате мы получили фашизм,
 
 354
 00:14:03,660 --> 00:14:06,449
-and it burnt down things in the similar
+and it burnt down things in the similar                и он сжег все дотла в похожей
 
 355
 00:14:06,449 --> 00:14:08,339
-way as Stalinism burnt down intellectual
+way as Stalinism burnt down intellectual               манере как Сталин сжег интеллектуальные 
 
 356
 00:14:08,339 --> 00:14:11,160
-traditions in Russia. And Germany, both
+traditions in Russia. And Germany, both                традиции в России. И Германия, обе
 
 357
 00:14:11,160 --> 00:14:12,720
-Germanies have not recovered from this.
+Germanies have not recovered from this.               Германии не восстановились после этого.
 
 358
 00:14:12,720 --> 00:14:14,699
-Eastern Germany at this bog or a
+Eastern Germany at this bog or a                      Восточная Германия }}}}}}}}}}
 
 359
 00:14:14,699 --> 00:14:16,949
@@ -1436,759 +1435,759 @@ dialectical materialism, and western
 
 360
 00:14:16,949 --> 00:14:18,660
-Germany didn't get much more edgy that
+Germany didn't get much more edgy that               и Западная Германия.......
 
 361
 00:14:18,660 --> 00:14:21,630
-///Haba Mas///. so in some sense both countries
+///Haba Mas///. so in some sense both countries            Так что в каком-то роде обе страны 
 
 362
 00:14:21,630 --> 00:14:23,399
-lost their intellectual traditions and
+lost their intellectual traditions and                     потеряли свои интеллектуальные традиции
 
 363
 00:14:23,399 --> 00:14:24,750
-killing off and driving out
+killing off and driving out                            и убийство и изгнание евреев 
 
 364
 00:14:24,750 --> 00:14:29,160
-Jews didn't help. -Yeah, so that was the
+Jews didn't help. -Yeah, so that was the                 не помогло. - Да, так это был
 
 365
 00:14:29,160 --> 00:14:31,110
-end, that was the end of really rigorous
+end, that was the end of really rigorous                 конец действительно строгой
 
 366
 00:14:31,110 --> 00:14:33,060
-well you would say it's classical
+well you would say it's classical                        классической
 
 367
 00:14:33,060 --> 00:14:34,950
-classical philosophy. There is also this thing
+classical philosophy. There is also this thing           классической философии. И еще кстати 
 
 368
 00:14:34,950 --> 00:14:38,460
-that in some sense the low-hanging foods
+that in some sense the low-hanging fruit                 в каком-то смысле самое простое
 
 369
 00:14:38,460 --> 00:14:42,110
-in philosophy were mostly wrapped. And
+in philosophy were mostly wrapped. And                   в философии в большинстве было ?????
 
 370
 00:14:42,110 --> 00:14:45,150
-the last big things that we discovered
+the last big things that we discovered                  Последнее большое открытие, которое мы сделали
 
 371
 00:14:45,150 --> 00:14:46,980
-was the constructivist term in
+was the constructivist term in                     конструктивистский термин в       
 
 372
 00:14:46,980 --> 00:14:49,440
-mathematics, so to understand that the
+mathematics, so to understand that the                 математике, для понимания того, что
 
 373
 00:14:49,440 --> 00:14:50,880
-parts of mathematics that work are
+parts of mathematics that work are                    части математики, которые работают являются
 
 374
 00:14:50,880 --> 00:14:54,060
-computation, it was a very significant
+computation, it was a very significant                 вычислением. Это было действительно важным
 
 375
 00:14:54,060 --> 00:14:56,190
-discovery in the first half of the 20th
+discovery in the first half of the 20th               открытием в первой половине 20го 
 
 376
 00:14:56,190 --> 00:14:58,710
-century, and it hasn't fully permeated
+century, and it hasn't fully permeated                века, и это до сих пор не распространилось на
 
 377
 00:14:58,710 --> 00:15:01,380
-philosophy and even physics yet.
+philosophy and even physics yet.                      философию и даже физику.
 
 378
 00:15:01,380 --> 00:15:02,910
-physicists checked out the core
+physicists checked out the core                       Физики сверялись с корневыми
 
 379
 00:15:02,910 --> 00:15:04,890
-libraries from mathematics before
+libraries from mathematics before                     библиотеками математиков до того, как
 
 380
 00:15:04,890 --> 00:15:07,650
-constructivism became universal. -What's
+constructivism became universal. -What's              конструктивизм стал универсальным. -Какой
 
 381
 00:15:07,650 --> 00:15:09,660
-constructivist and are you reffering to
+constructivist and are you reffering to              конструктивизм..ты делаешь отсылку к 
 
 382
 00:15:09,660 --> 00:15:11,310
-Godel's incompleteness theory, those kind
+Godel's incompleteness theory, those kind            Теореме Гёделя о неполноте, такого рода
 
 383
 00:15:11,310 --> 00:15:13,290
-of ideas? So it basically Godel
+of ideas? So it basically Godel                     идеи? По сути Гёдель сам
 
 384
 00:15:13,290 --> 00:15:14,760
-himself I think didn't get it yet.
+himself I think didn't get it yet.                 еще не понял, мне кажется.
 
 385
 00:15:14,760 --> 00:15:17,430
-Hilbert could get it. Hilbert saw that
+Hilbert could get it. Hilbert saw that             Гильберт мог понять. Гильберт например
 
 386
 00:15:17,430 --> 00:15:19,470
-for instance a country's set theoretic
+for instance a country's set theoretic            видел что ?????? проводят теоретические 
 
 387
 00:15:19,470 --> 00:15:21,210
-experiments and mathematics led into
+experiments and mathematics led into              эксперименты и математика пришла к 
 
 388
 00:15:21,210 --> 00:15:25,080
-contradictions and he noticed that with a
+contradictions and he noticed that with a         противоречиям, и он заметил что с 
 
 389
 00:15:25,080 --> 00:15:26,790
-current semantics we cannot build a
+current semantics we cannot build a                текущей семантикой мы не сможем построить
 
 390
 00:15:26,790 --> 00:15:28,260
-computer in mathematics that runs
+computer in mathematics that runs                  компьютер в математике, который запустит 
 
 391
 00:15:28,260 --> 00:15:30,870
-mathematics without crashing. And Gödel 
+mathematics without crashing. And Gödel            математику без сбоев. И доказательство Гёделя
 
 392
 00:15:30,870 --> 00:15:32,940
-proof could prove this. and so what
+proof could prove this. and so what                могло доказать это. И что Гёдель
 
 393
 00:15:32,940 --> 00:15:34,650
-Gödel could show is using classical
+Gödel could show is using classical               мог показать это то, что используя классическую
 
 394
 00:15:34,650 --> 00:15:36,630
-mathematical semantics you run into
+mathematical semantics you run into               математическую симантику, ты сталкиваешься
 
 395
 00:15:36,630 --> 00:15:38,580
-contradictions and because Gödel
+contradictions and because Gödel                 с противоречиями. И т.к Гёдель 
 
 396
 00:15:38,580 --> 00:15:40,350
-strongly believed in these semantics. And
+strongly believed in these semantics. And         твердо верил в эти семантики.
 
 397
 00:15:40,350 --> 00:15:42,810
-one then in what he could observe and so
+one then in what he could observe and so            ?????????????????????
 
 398
 00:15:42,810 --> 00:15:44,040
-on, he was shocked,
+on, he was shocked,                                 Он был в шоке,
 
 399
 00:15:44,040 --> 00:15:46,680
-it basically shook his well to the core
+it basically shook his well to the core            Это по сути перевернуло его мир с ног на голову,
 
 400
 00:15:46,680 --> 00:15:48,150
-because in some sense he felt that the
+because in some sense he felt that the             потому что в каком-то смысле он чуввствовал, что
 
 401
 00:15:48,150 --> 00:15:49,740
-world has to be implemented in classical
+world has to be implemented in classical           мир должен быть реализован в классической
 
 402
 00:15:49,740 --> 00:15:53,250
-mathematics. And for Turing it wasn't
+mathematics. And for Turing it wasn't             математике. И для Тьюринга это было в принципе
 
 403
 00:15:53,250 --> 00:15:54,570
-quite so bad, I think that Turing
+quite so bad, I think that Turing                 не так плохо. Я считаю что Тьюринг
 
 404
 00:15:54,570 --> 00:15:56,400
-could see that the solution is to
+could see that the solution is to                видел, что решением является 
 
 405
 00:15:56,400 --> 00:15:58,500
-understand the quazi mathematics was
+understand the quazi mathematics was             понимание ??????математика была
 
 406
 00:15:58,500 --> 00:16:00,600
-computation all along, which means you're
+computation all along, which means you're         вычислением все время, что означает, 
 
 407
 00:16:00,600 --> 00:16:02,610
-for instance PI in a classical
+for instance PI in a classical                   например PI в классической математики это
 
 408
 00:16:02,610 --> 00:16:06,000
-mathematics is a value, it's also a
+mathematics is a value, it's also a             величина, а также 
 
 409
 00:16:06,000 --> 00:16:08,160
-function but it's the same thing in a
+function but it's the same thing in a          функция. Но это одно и то же.
 
 410
 00:16:08,160 --> 00:16:10,860
-computation a function is only a value,
+computation a function is only a value,        В вычислении, функция является величиной
 
 411
 00:16:10,860 --> 00:16:12,540
-if you can compute it and if you
+if you can compute it and if you               только если ты можешь вычислить ее значение. А если
 
 412
 00:16:12,540 --> 00:16:14,700
-cannot compute the last digit of pi you
+cannot compute the last digit of pi you       Ты не можешь посчитать последнюю цифру числа пи, то
 
 413
 00:16:14,700 --> 00:16:16,230
-only have a function you can plug this
+only have a function you can plug this        у тебя есть только функция. Ты можешь вставить
 
 414
 00:16:16,230 --> 00:16:18,300
-function into your local sun, let it run
+function into your local sun, let it run      эту функцию в местное солнце, и вычислять ее
 
 415
 00:16:18,300 --> 00:16:20,250
-until the Sun burns out - this is it, this
+until the Sun burns out - this is it, this     пока солнце не перегорит. Вот и все, это
 
 416
 00:16:20,250 --> 00:16:21,720
-is the last digit of pi you will know.
+is the last digit of pi you will know.         последняя цифра числа ПИ, которую ты узнаешь.
 
 417
 00:16:21,720 --> 00:16:23,640
-but it also means that it can be no
+but it also means that it can be no             Но это также значит что нет такого 
 
 418
 00:16:23,640 --> 00:16:25,800
-process in the physical universe or in
+process in the physical universe or in          процесса в материальной вселенной или в
 
 419
 00:16:25,800 --> 00:16:28,140
-any physically realized computer that
+any physically realized computer that          любом физически реализованном компьютере
 
 420
 00:16:28,140 --> 00:16:29,790
-depends on having known the last digit
+depends on having known the last digit          зависящего от знания последней цифры
 
 421
 00:16:29,790 --> 00:16:32,550
-of pi. -yes. -which means there are parts of
+of pi. -yes. -which means there are parts of     числа пи. -Что означает что есть части
 
 422
 00:16:32,550 --> 00:16:34,770
-physics that are defined in such a way
+physics that are defined in such a way           физики, которые обозначаются таким путем,
 
 423
 00:16:34,770 --> 00:16:36,270
-that cannot strictly be true, because
+that cannot strictly be true, because             что они не могут быть точно верны. Потому что
 
 424
 00:16:36,270 --> 00:16:38,100
-assuming that this could be true leads
+assuming that this could be true leads            если допустить что это может быть верно, ведет
 
 425
 00:16:38,100 --> 00:16:38,720
-into contradictions
+into contradictions                                к противоречиям.
 
 426
 00:16:38,720 --> 00:16:40,939
-so I think putting computation
+so I think putting computation                     Поэтому я считаю, что выдвигая вычисления 
 
 427
 00:16:40,939 --> 00:16:43,939
-at the center of the the worldview is
+at the center of the the worldview is              в центр мировоззрения 
 
 428
 00:16:43,939 --> 00:16:45,439
-actually the right way to think about it.
+actually the right way to think about it.          в принципе является правильным направлением для размышлений.
 
 429
 00:16:45,439 --> 00:16:47,810
-yes and Wittgenstein could see it and
+yes and Wittgenstein could see it and             -Да, и Витгенштейн видел это.
 
 430
 00:16:47,810 --> 00:16:50,120
-Wittgenstein basically preempted the
+Wittgenstein basically preempted the               Витгенштейн по сути первый завладел ??
 
 431
 00:16:50,120 --> 00:16:52,100
-largest program of AI that Minsky
+largest program of AI that Minsky                  самой большой программой ИИ, которую Мински
 
 432
 00:16:52,100 --> 00:16:53,980
-started later like thirty years later.
+started later like thirty years later.             начал лет на 30 позже.
 
 433
 00:16:53,980 --> 00:16:56,779
-Turing was actually a pupil of Wittgenstein
+Turing was actually a pupil of Wittgenstein        Вообще Тьюринг был учеником Витгенштейна и..
 
 434
 00:16:56,779 --> 00:16:58,610
-and... -really? I didn't know there's
+and... -really? I didn't know there's              -Правда? Я не знал что есть какая-то
 
 435
 00:16:58,610 --> 00:17:01,220
-any connection between Turing and Wittgenstein. And Wittgenstein even
+any connection between Turing and Wittgenstein. And Wittgenstein even   связь между Тьюрингом и Витгенштейном. -И Витгенштейн
 
 436
 00:17:01,220 --> 00:17:02,899
-cancel some classes when Turing was not
+cancel some classes when Turing was not             даже отменял уроки, когда Тьюринг
 
 437
 00:17:02,899 --> 00:17:04,099
-present, because he thought it was not
+present, because he thought it was not              не приходил на занятия. Потому что он считал, что
 
 438
 00:17:04,099 --> 00:17:08,179
-worth spending the time on this. Oh, that's interesing. if you read the
+worth spending the time on this. Oh, that's interesing. if you read the    это будет пустой тратой времени. -О, интересно.-Если
 
 439
 00:17:08,179 --> 00:17:09,500
-Tractatus, it's a very beautiful
+Tractatus, it's a very beautiful                  ты читал Трактат, это прекрасная 
 
 440
 00:17:09,500 --> 00:17:12,439
-book, basically one thought on 75 pages.
+book, basically one thought on 75 pages.          книга. По сути одна мысль на 75 страницах.
 
 441
 00:17:12,439 --> 00:17:14,510
-it's very non typical for philosophy
+it's very non typical for philosophy             Это очень нетипично для философии,
 
 442
 00:17:14,510 --> 00:17:17,329
-because it doesn't have arguments in it
+because it doesn't have arguments in it         потому что в ней нет аргументов, 
 
 443
 00:17:17,329 --> 00:17:19,010
-and it doesn't have references in it
-
+and it doesn't have references in it            или ссылок.
+ 
 444
 00:17:19,010 --> 00:17:20,839
-it's just one thought that is not
+it's just one thought that is not              Есть только одна мысль, у которой нет 
 
 445
 00:17:20,839 --> 00:17:23,119
-intending to convince anybody. And he
+intending to convince anybody. And he          цели кого-то убедить. И как он 
 
 446
 00:17:23,119 --> 00:17:25,099
-says: it's mostly for people that had the
+says: it's mostly for people that had the      говорил: Это для людей, у которых 
 
 447
 00:17:25,099 --> 00:17:28,039
-same insight as me, just spelled it out. and
+same insight as me, just spelled it out. and    такая же сущность, как у меня. Вот просто так объяснил.
 
 448
 00:17:28,039 --> 00:17:30,590
-this insight is - there is a way in which
+this insight is - there is a way in which         И это понимание(сущность??) - есть путь, проходя по которому
 
 449
 00:17:30,590 --> 00:17:32,919
-mathematics and philosophy ought to meet.
+mathematics and philosophy ought to meet.        математика и философия должны встретиться.
 
 450
 00:17:32,919 --> 00:17:34,940
-mathematics tries to understand the
+mathematics tries to understand the               Математика пытается понять 
 
 451
 00:17:34,940 --> 00:17:36,799
-domain of all languages by starting with
+domain of all languages by starting with            область всех языков, начиная с тех,
 
 452
 00:17:36,799 --> 00:17:39,110
-those that are so formalisable, that you
+those that are so formalisable, that you            которые настолько формализованы, что ты
 
 453
 00:17:39,110 --> 00:17:41,210
-can prove all the properties of the
+can prove all the properties of the                 можешь доказать все свойства заявлений,
 
 454
 00:17:41,210 --> 00:17:43,549
-statements that you make. but the price
+statements that you make. but the price             которые ты делаешь. Но цена 
 
 455
 00:17:43,549 --> 00:17:45,140
-that you pay is that your language is
+that you pay is that your language is               которую ты за это платишь такова, что язык
 
 456
 00:17:45,140 --> 00:17:46,760
-very very simple, so it's very hard to
+very very simple, so it's very hard to             настолько простой, что очень сложно
 
 457
 00:17:46,760 --> 00:17:48,530
-say something meaningful in mathematics.
+say something meaningful in mathematics.           сказать что-то наделенное смыслом в математике.
 
 458
 00:17:48,530 --> 00:17:51,140
--yes. -and it looks complicated to people
+-yes. -and it looks complicated to people         -Да. -И это кажется людям сложным, 
 
 459
 00:17:51,140 --> 00:17:52,700
-but it's far less complicated than what
+but it's far less complicated than what            но это намного проще , чем 
 
 460
 00:17:52,700 --> 00:17:54,470
-our brain is casually doing all the time: 
+our brain is casually doing all the time:          то что наш мозг делает обычно постоянно:
 
 461
 00:17:54,470 --> 00:17:58,159
-it makes sense of reality. and philosophy
+it makes sense of reality. and philosophy         - осмышление реальности. И философия
 
 462
 00:17:58,159 --> 00:18:00,020
-is coming from the top, so it's mostly
+is coming from the top, so it's mostly           идет сверху(?), поэтому это в большинстве своем
 
 463
 00:18:00,020 --> 00:18:01,730
-starting from natural languages, with
+starting from natural languages, with             начинается с естественных язвков, 
 
 464
 00:18:01,730 --> 00:18:04,309
-vaguely defined concepts, and the hope is
+vaguely defined concepts, and the hope is         с нечетко определенными концепциями, и надежда состоит в том,
 
 465
 00:18:04,309 --> 00:18:06,140
-that mathematics and philosophy can meet
+that mathematics and philosophy can meet           что математика и философия встретятся
 
 466
 00:18:06,140 --> 00:18:08,419
-at some point. and Wittgenstein was
+at some point. and Wittgenstein was                в какой-то точке. Витгенштейн пытался
 
 467
 00:18:08,419 --> 00:18:10,100
-trying to make them meet. and he already
+trying to make them meet. and he already           заставить их встретиться. И он уже
 
 468
 00:18:10,100 --> 00:18:11,450
-understood that, for instance, you could
+understood that, for instance, you could          понял что, например, ты можешь
 
 469
 00:18:11,450 --> 00:18:13,280
-express everything with a NAND calculus,
+express everything with a NAND calculus,          выразить что угодно при помощи И-НЕ исчисления,
 
 470
 00:18:13,280 --> 00:18:15,409
-that you could produce the entire logic
+that you could produce the entire logic           что ты можешь произвести всю логику
 
 471
 00:18:15,409 --> 00:18:17,450
-to NAND gates - as we do in all modern
+to NAND gates - as we do in all modern            к логическому элементу И-НЕ , как мы делаем во всех современных
 
 472
 00:18:17,450 --> 00:18:19,490
-computers. so in some sense he already
+computers. so in some sense he already        компьютерах. Поэтому в каком-то смысле он уже
 
 473
 00:18:19,490 --> 00:18:21,500
-understood Turing's universality before
+understood Turing's universality before        понял Универсальность Тьюринга до того, как
 
 474
 00:18:21,500 --> 00:18:23,059
-Turing spelled it out. I think he when
+Turing spelled it out. I think he when           Тьюринг объяснил это. Я думаю что когда он 
 
 475
 00:18:23,059 --> 00:18:24,980
-he wrote the Tractatus he didn't
+he wrote the Tractatus he didn't                 писал Трактат, он еще не
 
 476
 00:18:24,980 --> 00:18:26,360
-understand yet that the idea was so
+understand yet that the idea was so              понимал что идея была 
 
 477
 00:18:26,360 --> 00:18:28,669
-important and significant... and I suspect
+important and significant... and I suspect       такая ценная и значительная...и я подозреваю
 
 478
 00:18:28,669 --> 00:18:30,799
-then when Turing wrote it out, nobody
+then when Turing wrote it out, nobody            что когда Тьюринг уже написал его, никому
 
 479
 00:18:30,799 --> 00:18:32,690
-cared that much. Turing was not
+cared that much. Turing was not                 до этого особо не было дела. Тьюринг не был
 
 480
 00:18:32,690 --> 00:18:34,700
-that famous. when he lived it was mostly
+that famous. when he lived it was mostly       настолько популярным. В то время когда он жил,
 
 481
 00:18:34,700 --> 00:18:38,690
-his work in decrypting the German codes
+his work in decrypting the German codes        в основном его работа в дешифровании немецкого кода
 
 482
 00:18:38,690 --> 00:18:40,700
-that made him famous and gave him
+that made him famous and gave him             и сделала его популярным, дала ему
 
 483
 00:18:40,700 --> 00:18:43,130
-some notoriety. but this same status that
+some notoriety. but this same status that     некоторую известность. Но тот статус который 
 
 484
 00:18:43,130 --> 00:18:44,630
-he has to computer science right now in
+he has to computer science right now in       у него сейчас есть в информатике в сфере ИИ -
 
 485
 00:18:44,630 --> 00:18:46,309
-AI -  is something that I think he
+AI -  is something that I think he            это то, что он мог бы 
 
 486
 00:18:46,309 --> 00:18:47,960
-could acquire later. - it's kinda
+could acquire later. - it's kinda             получить только позже.  -Мне интересно,
 
 487
 00:18:47,960 --> 00:18:49,220
-interesting, and do you think of
+interesting, and do you think of               ты думаешь о 
 
 488
 00:18:49,220 --> 00:18:51,840
-computation and computer science and you kinda
+computation and computer science and you kinda     вычислениях и информатики и ты как бы
 
 489
 00:18:51,840 --> 00:18:53,480
-represent that to me is maybe that's the
+represent that to me is maybe that's the           олицетворяешь это как по мне...
 
 490
 00:18:53,480 --> 00:18:56,669
-modern-day, you in a sense are the new
+modern-day, you in a sense are the new             ............и ты в каком-то смысле современный
 
 491
 00:18:56,669 --> 00:18:59,520
-philosopher by... sort of the computer
+philosopher by... sort of the computer             философ....и информатик
 
 492
 00:18:59,520 --> 00:19:02,909
-scientist who dares to ask the bigger
+scientist who dares to ask the bigger               который посмел задатать бОльшие,более 
 
 493
 00:19:02,909 --> 00:19:04,919
-questions that philosophy originally
+questions that philosophy originally              важные вопросы, с которых философия и 
 
 494
 00:19:04,919 --> 00:19:07,110
-started is... the new philosophy is the new
+started is... the new philosophy is the new          началась...современная философия ???? современный
 
 495
 00:19:07,110 --> 00:19:09,240
-philosopher. Certainly not me, I think I
+philosopher. Certainly not me, I think I            философ. -Мне кажется это точно не я. Я в основном
 
 496
 00:19:09,240 --> 00:19:12,299
-mostly the oldest child that grows up in
+mostly still that child that grows up in             все тот же ребенок, который вырос в 
 
 497
 00:19:12,299 --> 00:19:14,039
-a very beautiful Valley and looks at the
+a very beautiful Valley and looks at the            очень красивой долине и смотрит на 
 
 498
 00:19:14,039 --> 00:19:15,360
-world from the outside and tries to
+world from the outside and tries to                  мир снаружи и пытается 
 
 499
 00:19:15,360 --> 00:19:17,100
-understand what's going on. and my
+understand what's going on. and my                   понять что происходит. Учителя 
 
 500
 00:19:17,100 --> 00:19:18,630
-teachers tell me things and they largely
+teachers tell me things and they largely             говорили мне такие вещи, которые в значительной степени
 
 501
 00:19:18,630 --> 00:19:20,400
-don't make sense right so I have to make
+don't make sense right so I have to make             не имели смысла, поэтому мне приходилось
 
 502
 00:19:20,400 --> 00:19:22,590
-my own models I have to discover the
+my own models I have to discover the                 строить свои модели, узнавать корни
 
 503
 00:19:22,590 --> 00:19:23,970
-foundations of what the others are
+foundations of what the others are                   того, о чем говорят окружающие.
 
 504
 00:19:23,970 --> 00:19:25,950
-saying I have to try to fix them, to be
+saying I have to try to fix them, to be               Исправлять их, 
 
 505
 00:19:25,950 --> 00:19:27,630
-charitable I try to understand what they
+charitable I try to understand what they              быть снисходительным ? и пытаться понять 
 
 506
 00:19:27,630 --> 00:19:30,120
-must have thought originally or what
+must have thought originally or what                 о чем они изначально думали или что думали
 
 507
 00:19:30,120 --> 00:19:31,350
-their teachers, or their teachers
+their teachers, or their teachers                   их учителя, или учителя их
 
 508
 00:19:31,350 --> 00:19:32,669
-teachers must have thought until
+teachers must have thought until                    учителей, пока все
 
 509
 00:19:32,669 --> 00:19:34,230
-everything got lost in translation. and
+everything got lost in translation. and              не ..........в переоводе. И как 
 
 510
 00:19:34,230 --> 00:19:36,059
-how to make sense of the reality that we
+how to make sense of the reality that we             осмыслить реальность, в которой
 
 511
 00:19:36,059 --> 00:19:38,100
-are in. and whenever I have an original
+are in. and whenever I have an original              мы находимся. И каждый раз, когда у меня появляется оригинальная
 
 512
 00:19:38,100 --> 00:19:38,669
-idea
+idea                                                 идея
 
 513
 00:19:38,669 --> 00:19:41,279
-I'm usually late to the party by say, 400
+I'm usually late to the party by say, 400            я обычно уже опоздал на эту вечеринку лет скажем на 400,
 
 514
 00:19:41,279 --> 00:19:42,809
-years, and the only thing that's good is
+years, and the only thing that's good is              и единственный плюс состоит в том, что
 
 515
 00:19:42,809 --> 00:19:44,130
-that the parties get smaller and smaller
+that the parties get smaller and smaller               чем старше я становлюсь и чем больше я изучаю,
 
 516
 00:19:44,130 --> 00:19:46,380
-the older I get, and the more I explore.
+the older I get, and the more I explore.               вечеринки становятся все меньше и меньше :)
 
 517
 00:19:46,380 --> 00:19:49,350
-- the party gets smaller? -  and more
+- the party gets smaller? -  and more                   -вечеринки становятся меньше? - И более
 
 518
 00:19:49,350 --> 00:19:52,590
-exclusive. -and more exclusive... so it seems
+exclusive. -and more exclusive... so it seems            Экслюзивные. - И более Экслюзивные...Кажется,
 
 519
 00:19:52,590 --> 00:19:54,779
-like one of the key qualities of your
+like one of the key qualities of your                   что одно из качеств твого
 
 520
 00:19:54,779 --> 00:19:56,909
-upbringing was that you are not tethered,
+upbringing was that you are not tethered,               воспитания было то, что ты не был ограничен,
 
 521
 00:19:56,909 --> 00:20:00,750
-whether it's because your parents, or in
+whether it's because your parents, or in                из-за родителей ли, или 
 
 522
 00:20:00,750 --> 00:20:02,700
-general maybe you're something within
+general maybe you're something within                   вообще чего-то в твоем
 
 523
 00:20:02,700 --> 00:20:05,039
-your within your mind some genetic
+your within your mind some genetic                      уме. Каком-то генетическом
 
 524
 00:20:05,039 --> 00:20:07,169
-material you were not tethered to the
+material you were not tethered to the                  материале. Ты не был ограничен
 
 525
 00:20:07,169 --> 00:20:10,169
-ideas of the general populace, which is
+ideas of the general populace, which is                идеями основного населения. Что по сути
 
 526
 00:20:10,169 --> 00:20:12,860
-actually a unique property, we're kind of...
+actually a unique property, we're kind of...           является уникальным качеством. Мы...
 
 527
 00:20:12,860 --> 00:20:15,210
-you know the education system
+you know the education system                           вся система образовния
 
 528
 00:20:15,210 --> 00:20:16,860
-and whatever... not education system,
+and whatever... not education system,                   или что там....не система образования,
 
 529
 00:20:16,860 --> 00:20:19,049
-just existing in this world forces
+just existing in this world forces                      а вообще существование в этом мире впихивает
 
 530
 00:20:19,049 --> 00:20:21,570
-certain sets of ideas onto you. Can you
+certain sets of ideas onto you. Can you                 в тебя определенные идеи. Ты бы мог
 
 531
 00:20:21,570 --> 00:20:25,830
-uh disentangle that - why were you... why are
+uh disentangle that - why were you... why are           пролить свет на то, почему ты
 
 532
 00:20:25,830 --> 00:20:27,659
-you not so tethered? even in your work
+you not so tethered? even in your work                   мыслишь без границ? Даже в твоей работе
 
 533
 00:20:27,659 --> 00:20:28,260
-today
+today                                                    сегодня
 
 534
 00:20:28,260 --> 00:20:33,380
-you seem to not care about perhaps a
+you seem to not care about perhaps a                     Кажется что тебе не важна даже 
 
 535
 00:20:33,380 --> 00:20:36,960
-best paper in Europe's, right? being
+best paper in Europe's, right? being                     лучшая ??? в Европе, да? Ты не
 
 536
 00:20:36,960 --> 00:20:38,880
-tethered to particular things that
+tethered to particular things that                       привязан к определенным вещам,
 
 537
 00:20:38,880 --> 00:20:42,870
-current today, in this year people seem
+current today, in this year people seem                    которые люди высоко ценят сейчас,
 
 538
 00:20:42,870 --> 00:20:44,760
-to value as a thing you put on your CV
+to value as a thing you put on your CV                в этом году, как вещь, которая будет
 
 539
 00:20:44,760 --> 00:20:47,039
-and resume, you're a little bit more
+and resume, you're a little bit more                 в твоем резюме. Ты как будто бы немного из
 
 540
 00:20:47,039 --> 00:20:49,110
-outside of that world, outside of the
+outside of that world, outside of the                другого мира, вне мира 
 
 541
 00:20:49,110 --> 00:20:50,340
-world of ideas that people are
+world of ideas that people are                        идей, на которых люди особенно
 
 542
 00:20:50,340 --> 00:20:52,200
-especially focusing, the benchmarks of
+especially focusing, the benchmarks of           фокусируются, мерила сегодняшняго времени.
 
 543
 00:20:52,200 --> 00:20:54,610
-today, the things... What...
+today, the things... What...                     вещи....
 
 544
 00:20:54,610 --> 00:20:56,500
-can you disentangle that? because I think
+can you disentangle that? because I think         Ты бы мог объяснить как это? Потому что я считаю
 
 545
 00:20:56,500 --> 00:20:58,419
-that's inspiring and if there were more
+that's inspiring and if there were more            это очень вдохновляющим, и если было бы больше
 
 546
 00:20:58,419 --> 00:21:00,370
-people like that, we might be able to
+people like that, we might be able to              таких людей, мы могли бы
 
 547
 00:21:00,370 --> 00:21:01,870
-solve some of the bigger problems that
+solve some of the bigger problems that             разрешать более глобальные проблемы,  которые
 
 548
 00:21:01,870 --> 00:21:06,370
-sort of AI dreams to solve. - And that's a 	 	-- И в этом 
+sort of AI dreams to solve. - And that's a        ИИ мечтает разрешить. -- И в этом  
 
 549
 00:21:06,370 --> 00:21:08,380
