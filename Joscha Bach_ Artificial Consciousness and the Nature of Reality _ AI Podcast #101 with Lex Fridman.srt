@@ -1649,19 +1649,19 @@ cannot compute the last digit of pi you                   ты не можешь
 
 413
 00:16:14,700 --> 00:16:16,230
-only have a function you can plug this                    у тебя есть только функция. Ты можешь вставить
+only have a function you can plug this                    у тебя есть только функция. Ты можешь подключить к её вычислениям
 
 414
 00:16:16,230 --> 00:16:18,300
-function into your local sun, let it run                  эту функцию в местное солнце, и вычислять ее
+function into your local sun, let it run                  всю энергию местного солнца, и производить расчеты,
 
 415
 00:16:18,300 --> 00:16:20,250
-until the Sun burns out - this is it, this                пока солнце не погаснет. Вот и всё, и это лишь
+until the Sun burns out - this is it, this                пока солнце не погаснет. Но всё что у тебя будет в конце, лишь
 
 416
 00:16:20,250 --> 00:16:21,720
-is the last digit of pi you will know.                    последняя цифра числа π, которую ты узнаешь.
+is the last digit of pi you will know.                    последняя цифра числа π, которую ты к этому моменту узнаешь.
 
 417
 00:16:21,720 --> 00:16:23,640
@@ -1673,15 +1673,15 @@ process in the physical universe or in                    процесса в м
 
 419
 00:16:25,800 --> 00:16:28,140
-any physically realized computer that                     любом физически реализованном компьютере
+any physically realized computer that                     любом физически реализованном компьютере,
 
 420
 00:16:28,140 --> 00:16:29,790
-depends on having known the last digit                    зависящего от знания последней цифры
+depends on having known the last digit                    который зависел бы от знания последней цифры
 
 421
 00:16:29,790 --> 00:16:32,550
-of pi. -yes. -which means there are parts of              числа π. --Что означает, что есть части
+of pi. -yes. -which means there are parts of              числа π. --Следовательно, что есть части
 
 422
 00:16:32,550 --> 00:16:34,770
@@ -1701,271 +1701,271 @@ into contradictions                                       приходим к п
 
 426
 00:16:38,720 --> 00:16:40,939
-so I think putting computation                            Поэтому я считаю, что ставя вычисления 
+so I think putting computation                            Итак, я считаю, что рассматривать вычисления, 
 
 427
 00:16:40,939 --> 00:16:43,939
-at the center of the the worldview is                     в центр мировоззрения 
+at the center of the the worldview is                     как основу и центр мировоззрения -  
 
 428
 00:16:43,939 --> 00:16:45,439
-actually the right way to think about it.                 в принципе является правильным направлением для размышлений.
+actually the right way to think about it.                 это, в сути своей, правильный способ мышления.
 
 429
 00:16:45,439 --> 00:16:47,810
-yes and Wittgenstein could see it and             --Да, и Витгенштейн понимал это.
+yes and Wittgenstein could see it and                     --Да, и Витгенштейн понимал это.
 
 430
 00:16:47,810 --> 00:16:50,120
-Wittgenstein basically preempted the               Витгенштейн по сути предопределил
+Wittgenstein basically preempted the                      Витгенштейн, в сущности, предопределил
 
 431
 00:16:50,120 --> 00:16:52,100
-largest program of AI that Minsky                  самый большой проэкт ИИ, который Минский
+largest program of AI that Minsky                         самый большой проект по ИИ, который М.Л. Минский
 
 432
 00:16:52,100 --> 00:16:53,980
-started later like thirty years later.             начал лет на 30 после этого.
+started later like thirty years later.                    запустил через 30 лет после этого.
 
 433
 00:16:53,980 --> 00:16:56,779
-Turing was actually a pupil of Wittgenstein        Вообще Тьюринг был учеником Витгенштейна и..
+Turing was actually a pupil of Wittgenstein               Вообще, Тьюринг был учеником Витгенштейна и..
 
 434
 00:16:56,779 --> 00:16:58,610
-and... -really? I didn't know there's              --Правда? Я не знал что есть какая-то
+and... -really? I didn't know there's                     --Правда? Я не знал, что есть какая-то
 
 435
 00:16:58,610 --> 00:17:01,220
-any connection between Turing and Wittgenstein. And Wittgenstein even   связь между Тьюрингом и Витгенштейном. --И Витгенштейн
+any connection between Turing and Wittgenstein. And Wittgenstein even   связь между Тьюрингом и Витгенштейном. --Витгенштейн
 
 436
 00:17:01,220 --> 00:17:02,899
-cancel some classes when Turing was not             даже отменял уроки, когда Тьюринга
+cancel some classes when Turing was not                   даже отменял уроки, когда Тьюринга
 
 437
 00:17:02,899 --> 00:17:04,099
-present, because he thought it was not              не было на занятиях. Потому что он считал, что
+present, because he thought it was not                    не было на занятиях. Потому что он считал, что
 
 438
 00:17:04,099 --> 00:17:08,179
-worth spending the time on this. Oh, that's interesing. if you read the   в таком случае это пустая трата времени. --О, это интересно. --Если
+worth spending the time on this. Oh, that's interesing. if you read the   в таком случае это пустая трата времени. --О, это интересно.
 
 439
 00:17:08,179 --> 00:17:09,500
-Tractatus, it's a very beautiful                  ты читал Трактат, это прекрасная 
+Tractatus, it's a very beautiful                         --Ты читал Трактат, это прекрасная 
 
 440
 00:17:09,500 --> 00:17:12,439
-book, basically one thought on 75 pages.          книга. По сути одна мысль на 75 страницах.
+book, basically one thought on 75 pages.                 книга. По сути одна мысль на 75 страницах.
 
 441
 00:17:12,439 --> 00:17:14,510
-it's very non typical for philosophy             Это очень не типично для философии,
+it's very non typical for philosophy                     Это очень не типично для философии,
 
 442
 00:17:14,510 --> 00:17:17,329
-because it doesn't have arguments in it         потому что в ней нет аргументов, 
+because it doesn't have arguments in it                  потому что в ней нет аргументов, 
 
 443
 00:17:17,329 --> 00:17:19,010
-and it doesn't have references in it            как нет и отсылок.
+and it doesn't have references in it                     как нет и отсылок.
  
 444
 00:17:19,010 --> 00:17:20,839
-it's just one thought that is not              Есть только одна мысль, у которой нет 
+it's just one thought that is not                        Есть только одна мысль, у которой нет 
 
 445
 00:17:20,839 --> 00:17:23,119
-intending to convince anybody. And he          цели кого-то убедить. И как он 
+intending to convince anybody. And he                    цели кого-либо убедить. И как он 
 
 446
 00:17:23,119 --> 00:17:25,099
-says: it's mostly for people that had the      говорил: Это для людей, у которых 
+says: it's mostly for people that had the                говорил: "Это, по большей степени, для людей, у которых 
 
 447
 00:17:25,099 --> 00:17:28,039
-same insight as me, just spelled it out. and    такие же мысли, как у меня. Я просто их рассписал.
+same insight as me, just spelled it out. and             такие же мысли, как у меня. Я просто их расписал".
 
 448
 00:17:28,039 --> 00:17:30,590
-this insight is - there is a way in which         И суть этих мыслей - есть путь, на котором
+this insight is - there is a way in which                И суть этих мыслей в том, что существует путь, на котором
 
 449
 00:17:30,590 --> 00:17:32,919
-mathematics and philosophy ought to meet.        математика и философия должны встретиться.
+mathematics and philosophy ought to meet.                математика и философия должны встретиться.
 
 450
 00:17:32,919 --> 00:17:34,940
-mathematics tries to understand the               Математика пытается понять 
+mathematics tries to understand the                      Математика пытается понять 
 
 451
 00:17:34,940 --> 00:17:36,799
-domain of all languages by starting with            сферу всех языков, начиная с тех,
+domain of all languages by starting with                 сферу всех языков, начиная с тех,
 
 452
 00:17:36,799 --> 00:17:39,110
-those that are so formalisable, that you            которые настолько формализованы, что ты
+those that are so formalisable, that you                 которые настолько формализованы, что ты
 
 453
 00:17:39,110 --> 00:17:41,210
-can prove all the properties of the                 можешь доказать все свойства заявлений,
+can prove all the properties of the                      можешь доказать все свойства заявлений,
 
 454
 00:17:41,210 --> 00:17:43,549
-statements that you make. but the price             которые ты делаешь. Но цена 
+statements that you make. but the price                  которые ты делаешь. Но цена 
 
 455
 00:17:43,549 --> 00:17:45,140
-that you pay is that your language is               которую ты за это платишь такова, что язык
+that you pay is that your language is                    которую ты за это платишь такова, что этот язык
 
 456
 00:17:45,140 --> 00:17:46,760
-very very simple, so it's very hard to             настолько простой, что очень сложно
+very very simple, so it's very hard to                   настолько простой, что очень сложно
 
 457
 00:17:46,760 --> 00:17:48,530
-say something meaningful in mathematics.           сказать что-то наделенное смыслом на языке математике.
+say something meaningful in mathematics.                 сказать что-то значимое на языке математики.
 
 458
 00:17:48,530 --> 00:17:51,140
--yes. -and it looks complicated to people         --Да. --И она кажется людям сложной, 
+-yes. -and it looks complicated to people               --Да. --И она кажется людям сложной, 
 
 459
 00:17:51,140 --> 00:17:52,700
-but it's far less complicated than what            но она намного проще, чем 
+but it's far less complicated than what                  но она намного проще, чем 
 
 460
 00:17:52,700 --> 00:17:54,470
-our brain is casually doing all the time:          то, что наш мозг обыденно постоянно делает:
+our brain is casually doing all the time:                то, что наш мозг обыденно постоянно делает
 
 461
 00:17:54,470 --> 00:17:58,159
-it makes sense of reality. and philosophy         - он осмышляет реальность. А философия
+it makes sense of reality. and philosophy                - он осмысляет реальность. А философия
 
 462
 00:17:58,159 --> 00:18:00,020
-is coming from the top, so it's mostly           идет сверху, поэтому она в большинстве своем
+is coming from the top, so it's mostly                   идет от того, что на поверхности , поэтому она, в большинстве своем,
 
 463
 00:18:00,020 --> 00:18:01,730
-starting from natural languages, with             начинается с естественных язвков, 
+starting from natural languages, with                    начинается с естественных язвков, 
 
 464
 00:18:01,730 --> 00:18:04,309
-vaguely defined concepts, and the hope is         с нечетко определенными концепциями, и надежда состоит в том,
+vaguely defined concepts, and the hope is                с нечетко определенными концепциями, и надежда состоит в том,
 
 465
 00:18:04,309 --> 00:18:06,140
-that mathematics and philosophy can meet           что математика и философия встретятся
+that mathematics and philosophy can meet                 что математика и философия встретятся
 
 466
 00:18:06,140 --> 00:18:08,419
-at some point. and Wittgenstein was                в какой-то точке. Витгенштейн пытался
+at some point. and Wittgenstein was                      в какой-то точке. Витгенштейн пытался
 
 467
 00:18:08,419 --> 00:18:10,100
-trying to make them meet. and he already           воссоединить их. И он уже
+trying to make them meet. and he already                 воссоединить их. И он уже
 
 468
 00:18:10,100 --> 00:18:11,450
-understood that, for instance, you could          понял что, например, ты можешь
+understood that, for instance, you could                 понял что, например, ты можешь
 
 469
 00:18:11,450 --> 00:18:13,280
-express everything with a NAND calculus,          выразить что угодно при помощи И-НЕ исчисления,
+express everything with a NAND calculus,                 выразить что угодно при помощи "И-НЕ" исчисления.
 
 470
 00:18:13,280 --> 00:18:15,409
-that you could produce the entire logic           что ты можешь произвести всю логику
+that you could produce the entire logic                  Оно позволяет тебе воспроизвести всю логику посредством
 
 471
 00:18:15,409 --> 00:18:17,450
-to NAND gates - as we do in all modern            логическим элементом И-НЕ , как мы делаем во всех современных
+to NAND gates - as we do in all modern                   логической операции "И-НЕ" , как мы делаем во всех современных
 
 472
 00:18:17,450 --> 00:18:19,490
-computers. so in some sense he already        компьютерах. Поэтому в каком-то смысле он уже
+computers. so in some sense he already                   компьютерах. Поэтому, в каком-то смысле, он уже
 
 473
 00:18:19,490 --> 00:18:21,500
-understood Turing's universality before        понял принцип Универсальности Тьюринга до того, как
+understood Turing's universality before                  понял принцип Универсальности Тьюринга до того, как
 
 474
 00:18:21,500 --> 00:18:23,059
-Turing spelled it out. I think he when           Тьюринг записал его. Я думаю, что когда он 
+Turing spelled it out. I think he when                   Тьюринг о нём объявил. Я думаю, что когда он 
 
 475
 00:18:23,059 --> 00:18:24,980
-he wrote the Tractatus he didn't                 написал Трактат, он еще не
+he wrote the Tractatus he didn't                         написал Трактат, он еще не
 
 476
 00:18:24,980 --> 00:18:26,360
-understand yet that the idea was so              понимал что эта идея была 
+understand yet that the idea was so                      понимал, что эта идея была 
 
 477
 00:18:26,360 --> 00:18:28,669
-important and significant... and I suspect       настолько ценная и значимая... и я подозреваю,
+important and significant... and I suspect               настолько ценная и значимая... И я подозреваю,
 
 478
 00:18:28,669 --> 00:18:30,799
-then when Turing wrote it out, nobody            что когда Тьюринг написал его, никому
+then when Turing wrote it out, nobody                    что когда Тьюринг её сформулировал, никому
 
 479
 00:18:30,799 --> 00:18:32,690
-cared that much. Turing was not                 до этого особо не было дела. Тьюринг не был
+cared that much. Turing was not                          до этого особо не было дела. Тьюринг не был
 
 480
 00:18:32,690 --> 00:18:34,700
-that famous. when he lived it was mostly       настолько популярным. В то время когда он жил,
+that famous. when he lived it was mostly                 настолько популярным. В течение его жизни, 
 
 481
 00:18:34,700 --> 00:18:38,690
-his work in decrypting the German codes        в основном его работа в дешифровании немецких кодов
+his work in decrypting the German codes                  он стал известным, в основном, благодаря его работе
 
 482
 00:18:38,690 --> 00:18:40,700
-that made him famous and gave him             и сделала его популярным, дала ему
+that made him famous and gave him                        по дешифровке немецких кодов, что принесло ему
 
 483
 00:18:40,700 --> 00:18:43,130
-some notoriety. but this same status that     некоторую известность. Но тот статус, который 
+some notoriety. but this same status that                некоторого рода славу. Но тот статус, который 
 
 484
 00:18:43,130 --> 00:18:44,630
-he has to computer science right now in       у него сейчас в информатике в сфере ИИ -
+he has to computer science right now in                  ему приписывается в современной информатике в сфере ИИ -
 
 485
 00:18:44,630 --> 00:18:46,309
-AI -  is something that I think he            это то, что он завоевал
+AI -  is something that I think he                       это то, что он заполучил
 
 486
 00:18:46,309 --> 00:18:47,960
-could acquire later. - it's kinda             лишь после.  --Это интересно,
+could acquire later. - it's kinda                        лишь после. --Это интересно,
 
 487
 00:18:47,960 --> 00:18:49,220
-interesting, and do you think of               считаешь ли ты, что
+interesting, and do you think of                         считаешь ли ты, что
 
 488
 00:18:49,220 --> 00:18:51,840
-computation and computer science and you kinda     вычисления и информатики, и ты как бы
+computation and computer science and you kinda           вычисления и информатики, и ты как бы
 
 489
 00:18:51,840 --> 00:18:53,480
-represent that to me is maybe that's the           олицетворяешь это для меня... И может это 
+represent that to me is maybe that's the                 олицетворяешь это для меня... И может это 
 
 490
 00:18:53,480 --> 00:18:56,669
-modern-day, you in a sense are the new             современность... и ты в каком-то смысле новый
+modern-day, you in a sense are the new                   современность... и ты в каком-то смысле новый
 
 491
 00:18:56,669 --> 00:18:59,520
-philosopher by... sort of the computer             философ... вроде информатика,
+philosopher by... sort of the computer                   философ... вроде информатика,
 
 492
 00:18:59,520 --> 00:19:02,909
-scientist who dares to ask the bigger               который дерзает задавать бОльшие, более 
+scientist who dares to ask the bigger                    который дерзает задавать бОльшие, более 
 
 493
 00:19:02,909 --> 00:19:04,919
