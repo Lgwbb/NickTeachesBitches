@@ -1945,191 +1945,191 @@ could acquire later. - it's kinda                        лишь после. --
 
 487
 00:18:47,960 --> 00:18:49,220
-interesting, and do you think of                         считаешь ли ты, что
+interesting, and do you think of                         что ты думаешь о
 
 488
 00:18:49,220 --> 00:18:51,840
-computation and computer science and you kinda           вычисления и информатики, и ты как бы
+computation and computer science and you kinda           информатике и вычислениях, ведь ты как бы
 
 489
 00:18:51,840 --> 00:18:53,480
-represent that to me is maybe that's the                 олицетворяешь это для меня... И может это 
+represent that to me is maybe that's the                 олицетворяешь их для меня, и, может, в 
 
 490
 00:18:53,480 --> 00:18:56,669
-modern-day, you in a sense are the new                   современность... и ты в каком-то смысле новый
+modern-day, you in a sense are the new                   наше время, ты и есть, в каком-то смысле, 
 
 491
 00:18:56,669 --> 00:18:59,520
-philosopher by... sort of the computer                   философ... вроде информатика,
+philosopher by... sort of the computer                   философ нового порядка. Вроде информатика,
 
 492
 00:18:59,520 --> 00:19:02,909
-scientist who dares to ask the bigger                    который дерзает задавать бОльшие, более 
+scientist who dares to ask the bigger                    который дерзает задавать бóльшие, более 
 
 493
 00:19:02,909 --> 00:19:04,919
-questions that philosophy originally              важные вопросы, с которых философия изначально 
+questions that philosophy originally                     важные вопросы, с которых философия изначально 
 
 494
 00:19:04,919 --> 00:19:07,110
-started is... the new philosophy is the new          и начиналась... Новая философия, новый
+started is... the new philosophy is the new              и начиналась... Новая философия, новый
 
 495
 00:19:07,110 --> 00:19:09,240
-philosopher. Certainly not me, I think I            философ. --Мне кажется это точно не я. Я в основном
+philosopher. Certainly not me, I think I                 философ. --Это точно не про меня. Я думаю, что,
 
 496
 00:19:09,240 --> 00:19:12,299
-mostly still that child that grows up in             все тот же ребенок, который вырос в 
+mostly still that child that grows up in                 в большинстве своём, я все тот же ребенок, который вырос в 
 
 497
 00:19:12,299 --> 00:19:14,039
-a very beautiful Valley and looks at the            очень красивой долине и смотрит на 
+a very beautiful Valley and looks at the                 очень красивой долине и смотрит на 
 
 498
 00:19:14,039 --> 00:19:15,360
-world from the outside and tries to                  мир снаружи и пытается 
+world from the outside and tries to                      мир вокруг и пытается 
 
 499
 00:19:15,360 --> 00:19:17,100
-understand what's going on. and my                   понять что происходит. Учителя 
+understand what's going on. and my                       понять, что происходит. Учителя 
 
 500
 00:19:17,100 --> 00:19:18,630
-teachers tell me things and they largely             говорили мне вещи, которые в значительной степени
+teachers tell me things and they largely                 говорили мне вещи, которые в значительной степени
 
 501
 00:19:18,630 --> 00:19:20,400
-don't make sense right so I have to make             не имели смысла, поэтому мне приходилось
+don't make sense right so I have to make                 не имели смысла, поэтому мне приходилось
 
 502
 00:19:20,400 --> 00:19:22,590
-my own models I have to discover the                 строить свои модели, узнавать истоки
+my own models I have to discover the                     строить свои модели, а также доходить до истоков
 
 503
 00:19:22,590 --> 00:19:23,970
-foundations of what the others are                   того, о чем говорят окружающие.
+foundations of what the others are                       того, о чем говорят другие.
 
 504
 00:19:23,970 --> 00:19:25,950
-saying I have to try to fix them, to be               Я должен попытаться их исправить, 
+saying I have to try to fix them, to be                  Я должен попытаться их исправить, 
 
 505
 00:19:25,950 --> 00:19:27,630
-charitable I try to understand what they              и блага ради я пытаюсь понять то,
+charitable I try to understand what they                 и блага ради я пытаюсь понять то,
 
 506
 00:19:27,630 --> 00:19:30,120
-must have thought originally or what                 о чем они изначально думали, или что думали
+must have thought originally or what                     о чем они изначально думали, или что думали
 
 507
 00:19:30,120 --> 00:19:31,350
-their teachers, or their teachers                   их учителя, или учителя их
+their teachers, or their teachers                        их учителя, или учителя их
 
 508
 00:19:31,350 --> 00:19:32,669
-teachers must have thought until                    учителей, пока все
+teachers must have thought until                         учителей, пока все
 
 509
 00:19:32,669 --> 00:19:34,230
-everything got lost in translation. and              не было утрачено в переводе. И как 
+everything got lost in translation. and                  не было утрачено в переводе. И как 
 
 510
 00:19:34,230 --> 00:19:36,059
-how to make sense of the reality that we             осмыслить реальность, в которой
+how to make sense of the reality that we                 осмыслить реальность, в которой
 
 511
 00:19:36,059 --> 00:19:38,100
-are in. and whenever I have an original              мы находимся. И каждый раз, когда у меня появляется оригинальная
+are in. and whenever I have an original                  мы находимся. И каждый раз, когда у меня появляется оригинальная
 
 512
 00:19:38,100 --> 00:19:38,669
-idea                                                 идея
+idea                                                     идея
 
 513
 00:19:38,669 --> 00:19:41,279
-I'm usually late to the party by say, 400            я обычно уже опоздал на вечеринку лет скажем на 400,
+I'm usually late to the party by say, 400                я обычно уже опоздал на вечеринку лет скажем на 400,
 
 514
 00:19:41,279 --> 00:19:42,809
-years, and the only thing that's good is              и единственный плюс состоит в том, что
+years, and the only thing that's good is                 и единственный плюс состоит в том, что
 
 515
 00:19:42,809 --> 00:19:44,130
-that the parties get smaller and smaller               чем старше я становлюсь, и чем больше я изучаю,
+that the parties get smaller and smaller                 чем старше я становлюсь, и чем больше я изучаю,
 
 516
 00:19:44,130 --> 00:19:46,380
-the older I get, and the more I explore.               вечеринки становятся всё меньше и меньше :)
+the older I get, and the more I explore.                 тем всё меньше и меньше эти вечеринки становятся. :)
 
 517
 00:19:46,380 --> 00:19:49,350
-- the party gets smaller? -  and more                   --вечеринки становятся меньше? -- И более
+- the party gets smaller? -  and more                   --Вечеринки становятся меньше? -- И более
 
 518
 00:19:49,350 --> 00:19:52,590
-exclusive. -and more exclusive... so it seems            исключительные. -- И более исключительные...Кажется,
+exclusive. -and more exclusive... so it seems            эксклюзивные. -- И более эксклюзивные... Кажется,
 
 519
 00:19:52,590 --> 00:19:54,779
-like one of the key qualities of your                   что одно из качеств твого
+like one of the key qualities of your                    что одним из ключевых аспектов твоего
 
 520
 00:19:54,779 --> 00:19:56,909
-upbringing was that you are not tethered,               воспитания было то, что ты не был ограничен в мышлении,
+upbringing was that you are not tethered,                воспитания было то, что ты не был ограничен в мышлении.
 
 521
 00:19:56,909 --> 00:20:00,750
-whether it's because your parents, or in                из-за родителей ли, или 
+whether it's because your parents, or in                 Из-за родителей ли, или 
 
 522
 00:20:00,750 --> 00:20:02,700
-general maybe you're something within                   вообще чего-то в твоем
+general maybe you're something within                    вообще из-за свойств твоего сознания,
 
 523
 00:20:02,700 --> 00:20:05,039
-your within your mind some genetic                      мозу, каком-то генетическом
+your within your mind some genetic                       или твоих предрасположенностей, заложенных в генетическом
 
 524
 00:20:05,039 --> 00:20:07,169
-material you were not tethered to the                  материале. Ты не был ограничен
+material you were not tethered to the                    материале. Ты не был ограничен
 
 525
 00:20:07,169 --> 00:20:10,169
-ideas of the general populace, which is                идеями основного населения. Что по сути
+ideas of the general populace, which is                  идеями обывателей. Что по сути
 
 526
 00:20:10,169 --> 00:20:12,860
-actually a unique property, we're kind of...           является уникальным качеством. Мы как бы...
+actually a unique property, we're kind of...             является уникальным качеством. Мы как бы...
 
 527
 00:20:12,860 --> 00:20:15,210
-you know the education system                           знаешь, вся система образовния
+you know the education system                            знаешь, вся система образовния
 
 528
 00:20:15,210 --> 00:20:16,860
-and whatever... not education system,                   или что-то там....не система образования,
+and whatever... not education system,                    или, как бы сказать... не система образования,
 
 529
 00:20:16,860 --> 00:20:19,049
-just existing in this world forces                      а вообще существование в этом мире впихивает
+just existing in this world forces                       а вообще существование в этом мире впихивает
 
 530
 00:20:19,049 --> 00:20:21,570
-certain sets of ideas onto you. Can you                 в тебя определенные идеи. Ты бы мог
+certain sets of ideas onto you. Can you                  в тебя определенные идеи. Ты бы мог
 
 531
 00:20:21,570 --> 00:20:25,830
-uh disentangle that - why were you... why are           пролить свет на то, почему ты не... Почему ты
+uh disentangle that - why were you... why are            пролить свет на то, почему ты... Почему ты
 
 532
 00:20:25,830 --> 00:20:27,659
-you not so tethered? even in your work                   так ясно мыслишь? Даже в твоей работе
+you not so tethered? even in your work                   так ясно и свободно мыслишь? Даже в твоих
 
 533
 00:20:27,659 --> 00:20:28,260
-today                                                    сегодня
+today                                                    текущих работах.
 
 534
 00:20:28,260 --> 00:20:33,380
@@ -2137,43 +2137,43 @@ you seem to not care about perhaps a                     Кажется, что 
 
 535
 00:20:33,380 --> 00:20:36,960
-best paper in Europe's, right? being                     статутс лучшей работы в Европе, да? Ты не
+best paper in Europe's, right? being                     статус лучшей работы в Европе, да? Ты не
 
 536
 00:20:36,960 --> 00:20:38,880
-tethered to particular things that                       привязан к определенным вещам,
+tethered to particular things that                       привязан к тем вещам,
 
 537
 00:20:38,880 --> 00:20:42,870
-current today, in this year people seem                    которые люди высоко ценят сейчас,
+current today, in this year people seem                  которые люди высоко ценят сейчас,
 
 538
 00:20:42,870 --> 00:20:44,760
-to value as a thing you put on your CV                в этом году, как вещи, которые ценят
+to value as a thing you put on your CV                   ценят, как то, что можно поместить
 
 539
 00:20:44,760 --> 00:20:47,039
-and resume, you're a little bit more                 в твоём резюме. Ты как будто бы немного из
+and resume, you're a little bit more                     в твоём резюме. Ты как будто бы немного из
 
 540
 00:20:47,039 --> 00:20:49,110
-outside of that world, outside of the                другого мира, вне мира 
+outside of that world, outside of the                    другого мира, вне мира 
 
 541
 00:20:49,110 --> 00:20:50,340
-world of ideas that people are                        идей, на которых люди особенно
+world of ideas that people are                           идей, на которых люди привыкли
 
 542
 00:20:50,340 --> 00:20:52,200
-especially focusing, the benchmarks of           фокусируются, мерила сегодняшняго времени.
+especially focusing, the benchmarks of                   фокусироваться, мерила сегодняшняго времени.
 
 543
 00:20:52,200 --> 00:20:54,610
-today, the things... What...                     вещи... Что...
+today, the things... What...                             вещи... Что...
 
 544
 00:20:54,610 --> 00:20:56,500
-can you disentangle that? because I think         Ты бы мог объяснить как это? Потому что я считаю
+can you disentangle that? because I think                Ты бы мог объяснить как это? Потому что я считаю
 
 545
 00:20:56,500 --> 00:20:58,419
