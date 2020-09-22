@@ -5996,131 +5996,131 @@ for that, because we don't get old enough 		для этого, потому чт
 
 1500
 00:57:43,060 --> 00:57:45,190
-to play 'Go' the way, that our machines 		чтобы играть в Го так, как наши машины
+to play 'Go' the way, that our machines 		чтобы учиться играть в Го так, как наши машины
 
 1501
 00:57:45,190 --> 00:57:47,590
-learn to play go, so instead, what we do 		учаться играть в Го. Вместо того, что мы делаем -
+learn to play go, so instead, what we do 		учаться играть в Го. Вместо этого мы занимаемся
 
 1502
 00:57:47,590 --> 00:57:48,910
-is an attention based learning: we 					это обучение базирующееся на внимании. Мы 
+is an attention based learning: we 			обучением, базирующимся на внимании. Мы 
 
 1503
 00:57:48,910 --> 00:57:50,980
-pinpoint the probable region in the 				подмечаем в сети вероятную область,
+pinpoint the probable region in the 			подмечаем в сети вероятную область,
 
 1504
 00:57:50,980 --> 00:57:53,620
-network, where we can make an improvement, 			где мы можем провести улучшения,
+network, where we can make an improvement, 		где мы можем провести улучшения,
 
 1505
 00:57:53,620 --> 00:57:57,040
-and then we store this binding state 				и потом мы сохраняем это изменение в паре
+and then we store this binding state 			и потом мы сохраняем связанное с ней состояние в паре
 
 1506
 00:57:57,040 --> 00:57:59,110
-together with the expected outcome in a 			с ожидаемым результатов в протоколе.
+together with the expected outcome in a 		с ожидаемым результатом в протоколе.
 
 1507
 00:57:59,110 --> 00:58:01,120
-protocol. and there's ability to make 				И есть возможность создавать 
+protocol. and there's ability to make 			И есть возможность создавать 
 
 1508
 00:58:01,120 --> 00:58:02,740
-index memories for the purpose of 					индексированные воспоминания в целях 
+index memories for the purpose of 			индексированные воспоминания в целях 
 
 1509
 00:58:02,740 --> 00:58:05,290
-learning, to revisit these commitments 				обучения, для того, чтобы навещать эти 
+learning, to revisit these commitments 			обучения, для того, чтобы вернуться к этим 
 
 1510
 00:58:05,290 --> 00:58:08,710
-later. this requires a memory of the 				обязательства позже. Для этого требуется память
+later. this requires a memory of the 			обязательства позже. Для этого требуется память
 
 1511
 00:58:08,710 --> 00:58:10,990
-contents of our attention. another aspect 			содержимого нашего внимания. Другой аспект -
+contents of our attention. another aspect 		о содержимом нашего внимания. Другой аспект -
 
 1512
 00:58:10,990 --> 00:58:12,910
-is when I construct my reality, and make 			когда я конструирую мою реальность и допускаю
+is when I construct my reality, and make 		когда я конструирую мою реальность и допускаю
 
 1513
 00:58:12,910 --> 00:58:15,130
-mistakes. so I see things that turn out 			ошибки. Я вижу вещи, которые оказываются
+mistakes. so I see things that turn out 		ошибки. Я вижу вещи, которые оказываются
 
 1514
 00:58:15,130 --> 00:58:17,380
-to be reflections or shadows and so on... 			отражениями, тенями и так далее
+to be reflections or shadows and so on... 		отражениями, тенями и так далее...
 
 1515
 00:58:17,380 --> 00:58:19,270
-which means I have to be able to point 				И это значит, что я должен уметь выделять
+which means I have to be able to point 			И это значит, что я должен уметь отмечать,
 
 1516
 00:58:19,270 --> 00:58:21,610
-out which features of my perception gave 			какие особенности моего восприятия 
+out which features of my perception gave 		какие особенности моего восприятия 
 
 1517
 00:58:21,610 --> 00:58:24,190
-rise to a present construction of 					привели к текущей модели реальности
+rise to a present construction of 			привели к текущей модели реальности.
 
 1518
 00:58:24,190 --> 00:58:26,590
-reality. so the system needs to pay 				. Так что системе нужно 
+reality. so the system needs to pay 			Так что системе нужно 
 
 1519
 00:58:26,590 --> 00:58:29,470
-attention to the earth features that are 			следить за земными параметрами, которые 
+attention to the earth features that are 		следить за земными параметрами, которые 
 
 1520
 00:58:29,470 --> 00:58:32,200
-currently in its focus. and it also needs 			на данный момент у неё в фокусе. И ей также
+currently in its focus. and it also needs 		на данный момент у неё в фокусе. И ей также
 
 1521
 00:58:32,200 --> 00:58:33,760
-to pay attention to whether it pays 				нужно следить за тем, следит ли она за
+to pay attention to whether it pays 			нужно следить за тем, следит ли она за
 
 1522
 00:58:33,760 --> 00:58:35,410
-attention itself. in part because the 				тем, что нужно следить. Отчасти, из-за того, что
+attention itself. in part because the 			тем, что нужно следить. Отчасти, из-за того, что
 
 1523
 00:58:35,410 --> 00:58:37,120
-attentional system gets trained with the 			система внимания тренируется 
+attentional system gets trained with the 		система внимания тренируется 
 
 1524
 00:58:37,120 --> 00:58:39,220
-same mechanism, so it's reflexive. but 				теми же механизмами, что делает её рефлективной. Но
+same mechanism, so it's reflexive. but 			теми же механизмами, это делает её рефлективной. Но
 
 1525
 00:58:39,220 --> 00:58:40,330
-also in part because your attention 				также отчасти из-за того, что твоё внимание ходит кругами,
+also in part because your attention 			также отчасти из-за того, что твоё внимание ходит кругами,
 
 1526
 00:58:40,330 --> 00:58:42,550
-lapses, if you don't pay attention to the 			пока ты сам не следишь за 
+lapses, if you don't pay attention to the 		пока ты сам не следишь за 
 
 1527
 00:58:42,550 --> 00:58:43,569
-attention itself. 									самим вниманием.
+attention itself. 					самим вниманием.
 
 1528
 00:58:43,569 --> 00:58:45,219
-right? so it's this thing that I'm 					Верно? То, что я сейчас вижу,
+right? so it's this thing that I'm 			Верно? То, что я сейчас вижу,
 
 1529
 00:58:45,219 --> 00:58:47,289
-currently seeing just a dream that my 				это лишь фантазия, в которую
+currently seeing just a dream that my 			это лишь фантазия, в которую
 
 1530
 00:58:47,289 --> 00:58:49,329
-brain has spun off into some kind of 				улетело моё сознание, какие-то грёзы
+brain has spun off into some kind of 			улетело моё сознание, какие-то грёзы
 
 1531
 00:58:49,329 --> 00:58:51,459
-daydream? or am I still paying attention 			наяву? Или я всё ещё слежу
+daydream? or am I still paying attention 		наяву? Или я всё ещё слежу
 
 1532
 00:58:51,459 --> 00:58:53,019
