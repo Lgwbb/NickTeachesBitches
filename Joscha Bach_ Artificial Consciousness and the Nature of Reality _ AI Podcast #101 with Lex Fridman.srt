@@ -13800,7 +13800,7 @@ world and I suspect that they are 			мире. И я подозреваю, чт�
 
 3451
 02:13:23,070 --> 02:13:25,530
-relatively sparse and also the intuitive 		относительно редки.
+relatively sparse and also the intuitive 		относительно редки. 
 
 3452
 02:13:25,530 --> 02:13:27,510
