@@ -1,38 +1,38 @@
 1
 00:00:00,060 --> 00:00:01,949
-the following is a conversation of Yoshi
+the following is a conversation of Yoshi        Вашему вниманию представляется диалог с
 
 2
 00:00:01,949 --> 00:00:05,279
-Bach VP of research at the AI foundation
+Bach VP of research at the AI foundation        Йошей Бахом, вице-президентом AI Foundation,
 
 3
 00:00:05,279 --> 00:00:07,410
-with a history of research positions at
+with a history of research positions at         имевшим исследовательское прошлое в MIT
 
 4
 00:00:07,410 --> 00:00:11,160
-MIT and Harvard Yosha is one of the most
+MIT and Harvard Yosha is one of the most        и Гарварде. Йоша - один из самых уникальных и
 
 5
 00:00:11,160 --> 00:00:13,650
-unique and brilliant people in the
+unique and brilliant people in the              и блестящих людей 
 
 6
 00:00:13,650 --> 00:00:15,289
-artificial intelligence community
+artificial intelligence community               в ИИ сообществе,
 
 7
 00:00:15,289 --> 00:00:17,779
-exploring the workings of human mind
+exploring the workings of human mind            исследующий работу человеческого ума,
 
 8
 00:00:17,779 --> 00:00:20,789
-intelligence consciousness life on Earth
+intelligence consciousness life on Earth        интеллекта, сознания и жизни на земле.
 
 9
 00:00:20,789 --> 00:00:24,119
-and the possibly simulated fabric of our
+and the possibly simulated fabric of our               
 
 10
 00:00:24,119 --> 00:00:27,180
