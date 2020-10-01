@@ -18131,11 +18131,11 @@ the mechanism of that allows for the                    быть какой-то
 
 4534
 02:53:58,999 --> 02:54:01,819
-random I mean there's like turtles all                  случайности... Я имею в виду, это как в "Turtles
+random I mean there's like turtles all                  случайности... Я имею в виду, это как в "Turtles all
 
 4535
 02:54:01,819 --> 02:54:03,589
-the way down. there seems to be there has               the way down". В конце должна 
+the way down. there seems to be there has               the way down" - в конце должна 
 
 4536
 02:54:03,589 --> 02:54:05,990
@@ -18143,291 +18143,291 @@ to be a head turtle at the bottom                       быть голова ч
 
 4537
 02:54:05,990 --> 02:54:07,851
-consider something really wild imagine                 -- Давай представим совсем дикую идею. Представь..
+consider something really wild imagine                  --Давай представим совсем дикую идею. Представь..
 
 4538
 02:54:07,851 --> 02:54:10,760
-is it possible that a gas giant could                 Возможно ли такое, чтобы газовый гигант 
+is it possible that a gas giant could                   Возможно ли такое, чтобы газовый гигант 
 
 4539
 02:54:10,760 --> 02:54:12,860
-become intelligent but would that                    стал наделенным интеллектом? Что бы 
+become intelligent but would that                       стал наделенным интеллектом? Что бы 
 
 4540
 02:54:12,860 --> 02:54:14,750
-involve? so imagine you jet you have                   для этого потребовалось? Представь, что есть
+involve? so imagine you jet you have                    для этого потребовалось? Представь, что есть
 
 4541
 02:54:14,750 --> 02:54:16,910
-vortices that spontaneously emerge on                  вихри, которые спонтанно возникают
+vortices that spontaneously emerge on                   вихри, которые спонтанно возникают
 
 4542
 02:54:16,910 --> 02:54:19,190
-the gas giants like big storm systems                 на газовых гигантах, типа больших штормовых систем, 
+the gas giants like big storm systems                   на газовых гигантах, типа больших штормовых систем, 
 
 4543
 02:54:19,190 --> 02:54:21,130
-that endure for thousands of years and                которые длились тысячи лет, и 
+that endure for thousands of years and                  которые длились тысячи лет, и 
 
 4544
 02:54:21,130 --> 02:54:23,271
-some of these form systems produce                     некоторые из этих штормовых систем производят 
+some of these form systems produce                      некоторые из этих штормовых систем производят 
 
 4545
 02:54:23,271 --> 02:54:24,800
-electromagnetic fields because some of                 электромагнитные поля, потому что некоторые
+electromagnetic fields because some of                  электромагнитные поля, потому что некоторые
 
 4546
 02:54:24,800 --> 02:54:26,300
-the clouds are ferromagnetic or                        облака ферромагнитны или 
+the clouds are ferromagnetic or                         облака ферромагнитны или 
 
 4547
 02:54:26,300 --> 02:54:28,190
-something and as a result they can                     вроде того. И в результате, они могут
+something and as a result they can                      вроде того. И в результате, они могут
 
 4548
 02:54:28,190 --> 02:54:30,561
-change how certain clouds react rather                менять то, как определенные облака реагируют в
+change how certain clouds react rather                  менять то, как определенные облака вступают в реакцию, в
 
 4549
 02:54:30,561 --> 02:54:32,660
-than other clouds and thereby produce                отличии от других. И тем самым производя
+than other clouds and thereby produce                   отличии от других. И тем самым производят
 
 4550
 02:54:32,660 --> 02:54:34,610
-some self-stabilizing patterns that                  некоторые самостабилизирующиеся паттерны, 
+some self-stabilizing patterns that                     некоторые самостабилизирующиеся паттерны, 
 
 4551
 02:54:34,610 --> 02:54:36,590
-eventually to regulation feedback loops             которые в конечном счете формируют регуляционную петлю обратной связи,
+eventually to regulation feedback loops                 которые, в конечном счете, формируют регуляционную петлю обратной связи,
 
 4552
 02:54:36,590 --> 02:54:39,290
-nested feedback loops and control so                 вложенную петлю обратной связи и контроль. Так
+nested feedback loops and control so                    вложенную петлю обратной связи и контроль. Так
 
 4553
 02:54:39,290 --> 02:54:41,030
-imagine you have such this thing that               представь, что у тебя есть такая вещь, которая
+imagine you have such this thing that                   представь, что у тебя есть такая вещь, которая
 
 4554
 02:54:41,030 --> 02:54:43,070
-basically has emergent self-sustaining              по сути обладает зарождающейся самоподдерживающейся,
+basically has emergent self-sustaining                  по сути обладает зарождающейся самоподдерживающейся,
 
 4555
 02:54:43,070 --> 02:54:44,870
-self-organizing complexity and at some              самоорганизующейся сложностью. И в какой-то
+self-organizing complexity and at some                  самоорганизующейся сложностью. И, в какой-то
 
 4556
 02:54:44,870 --> 02:54:46,700
-point this wakes up and realizes and               момент она просыпается и понимает,
+point this wakes up and realizes and                    момент, она просыпается и осознаётся,
 
 4557
 02:54:46,700 --> 02:54:48,891
-basically LEM Solaris I am a thinking             по сути как в романе Лема "Солярис", Я - думающая 
+basically LEM Solaris I am a thinking                   по сути, как в романе Лема "Солярис": "Я - думающая 
 
 4558
 02:54:48,891 --> 02:54:50,900
-planet yes but I will not replicate                планета. --Да. --Но я не буду реплицироваться,
+planet yes but I will not replicate                     планета". --Да. --Но я не буду реплицироваться,
 
 4559
 02:54:50,900 --> 02:54:52,431
-because I cannot recreate the conditions           потому что я не смогу воссоздать условия
+because I cannot recreate the conditions                потому что я не смогу воссоздать условия
 
 4560
 02:54:52,431 --> 02:54:54,980
-of my own existence somewhere else I'm            своего существования где-то еще. Я
+of my own existence somewhere else I'm                  своего существования где-то еще. Я,
 
 4561
 02:54:54,980 --> 02:54:57,471
-just basically an intelligence that has            по сути интелект, который
+just basically an intelligence that has                 по сути, интелект, который
 
 4562
 02:54:57,471 --> 02:54:59,570
-spontaneously formed because it could              сформировался  спонтанно, потому что мог.
+spontaneously formed because it could                   сформировался спонтанно, потому что мог.
 
 4563
 02:54:59,570 --> 02:55:02,840
-and now it was a von Lohmann probe and           и так он стал  зондом фон Неймана, и
+and now it was a von Lohmann probe and                  и так он стал  зондом Фон Неймана, и
 
 4564
 02:55:02,840 --> 02:55:04,610
-the best von Neumann purpose at resting          лучшим зондом фон Неймана в таком случае
+the best von Neumann purpose at resting                 лучшим зондом фон Неймана в таком случае
 
 4565
 02:55:04,610 --> 02:55:06,590
-might be the cell so maybe it will                может быть клетка. И может потому что он
+might be the cell so maybe it will                      может быть клетка. И, может, потому что он
 
 4566
 02:55:06,590 --> 02:55:07,940
-because it's very very clever and very           очень очень умный и очень
+because it's very very clever and very                  очень очень умный и очень
 
 4567
 02:55:07,940 --> 02:55:10,521
-enduring create cells and sends them out         безустанно создает клетки и отправляет их, 
+enduring create cells and sends them out                безустанно создает клетки и отправляет их повсюду, 
 
 4568
 02:55:10,521 --> 02:55:12,410
-and one of them has infected our planet         и одна из них заразила нашу планету. 
+and one of them has infected our planet                 и одна из них заразила нашу планету. 
 
 4569
 02:55:12,410 --> 02:55:14,210
-and I'm not suggesting that this is the         Я не утвеждаю, что это именно
+and I'm not suggesting that this is the                 Я не утвеждаю, что это именно
 
 4570
 02:55:14,210 --> 02:55:15,771
-case but it would be compatible with the        тот случай, но это бы сочеталось с 
+case but it would be compatible with the                тот случай, но это бы сочеталось с 
 
 4571
 02:55:15,771 --> 02:55:18,530
-prints Permian hypothesis and with my           гипотезой Панспермии и по моему 
+prints Permian hypothesis and with my                   гипотезой Панспермии и, по моему 
 
 4572
 02:55:18,530 --> 02:55:20,630
-intuition that abiogenesis is very             разумению, очень сомневаюсь что
+intuition that abiogenesis is very                      разумению, очень сомневаюсь что
 
 4573
 02:55:20,630 --> 02:55:23,330
-unlikely it's possible but it's you            это был абиогенез. Это возможно, но 
+unlikely it's possible but it's you                     это был абиогенез. Это возможно, но 
 
 4574
 02:55:23,330 --> 02:55:24,800
-probably need to all the cosmic dice           тебе скорее всего придется бросать космические кости 
+probably need to all the cosmic dice                    тебе скорее всего придется бросать космические кости 
 
 4575
 02:55:24,800 --> 02:55:26,630
-very often maybe more often than they           очень часто. Может быть чаще, чем 
+very often maybe more often than they                   очень часто. Может быть, большее число раз, чем 
 
 4576
 02:55:26,630 --> 02:55:28,690
-are planetary surfaces I don't know              существует планет, Я не знаю.
+are planetary surfaces I don't know                     число существующих планет, я не знаю.
 
 4577
 02:55:28,690 --> 02:55:34,910
-so god is just a large enough a system           --Т.е Бог это всего лишь достаточно большая.. система,
+so god is just a large enough a system                  --Т.е Бог это всего лишь достаточно большая... система,
 
 4578
 02:55:34,910 --> 02:55:36,530
-that's large enough that allows                  которая настолько большая, что допускает
+that's large enough that allows                         которая настолько большая, что допускает
 
 4579
 02:55:36,530 --> 02:55:38,330
-randomness now I don't think that God            случайность. --Нет, я не считаю что Бог 
+randomness now I don't think that God                   случайность. --Нет, я не считаю что Бог 
 
 4580
 02:55:38,330 --> 02:55:40,311
-has anything to do with creation I think         как-то связан с созданием. Я считаю это
+has anything to do with creation I think                как-то связан с созданием. Я считаю это
 
 4581
 02:55:40,311 --> 02:55:42,320
-it's a mistranslation of the time wood           неправильным переводом ????
+it's a mistranslation of the time wood                  неправильным переводом Талмуда в
 
 4582
 02:55:42,320 --> 02:55:45,620
-into the Catholic mythology I think that         католическую мифологию. Я считаю, что
+into the Catholic mythology I think that                католической мифологии. Я считаю, что
 
 4583
 02:55:45,620 --> 02:55:46,880
-Genesis is actually the childhood                Генезис это на самом деле - детские
+Genesis is actually the childhood                       Генезис - это, на самом деле, детские
 
 4584
 02:55:46,880 --> 02:55:50,480
-memories of a God so the when sorry that         воспоминания о Боге. --Извини, 
+memories of a God so the when sorry that                воспоминания о Боге. --Извини, 
 
 4585
 02:55:50,480 --> 02:55:52,070
-he Anna says is the world the childhood         Генезис это..? --Детские воспоминания
+he Anna says is the world the childhood                 Генезис это..? --Детские воспоминания
 
 4586
 02:55:52,070 --> 02:55:53,931
-memories of a God it's basically a mind         о Боге. По сути это мозг,
+memories of a God it's basically a mind                 о Боге. По сути это мозг,
 
 4587
 02:55:53,931 --> 02:55:56,750
-that is memory remembering how it came          помнящий о том, как он 
+that is memory remembering how it came                  помнящий о том, как он 
 
 4588
 02:55:56,750 --> 02:56:00,320
-into being and we typically interpret           появился на свет. Мы обычно интерпретируем 
+into being and we typically interpret                   появился на свет. Мы обычно интерпретируем 
 
 4589
 02:56:00,320 --> 02:56:02,120
-Genesis is the creation of a physical          Генезис как создание физической 
+Genesis is the creation of a physical                   Генезис, как создание физической 
 
 4590
 02:56:02,120 --> 02:56:04,130
-universe by a supernatural being yes and        вселенной сверъестественным существом. 
+universe by a supernatural being yes and                вселенной сверъестественным существом. 
 
 4591
 02:56:04,130 --> 02:56:08,120
-I think when you'll read it there's             Мне кажется, когда ты прочитаешь это..там
+I think when you'll read it there's                     Мне кажется, когда ты прочитаешь это... там
 
 4592
 02:56:08,120 --> 02:56:11,090
-light and darkness that is being create        есть свет и тьма, которые были созданы.
+light and darkness that is being create                 есть свет и тьма, которые были созданы.
 
 4593
 02:56:11,090 --> 02:56:13,521
-it and then you discover sky and ground        И потом ты обнаружишь небо и землю,
+it and then you discover sky and ground                 И потом ты обнаружишь небо и землю,
 
 4594
 02:56:13,521 --> 02:56:17,420
-you create them you will construct the         сотворишь их. Ты создашь 
+you create them you will construct the                  сотворишь их. Ты создашь 
 
 4595
 02:56:17,420 --> 02:56:19,160
-plants and the animals and you give            растения и животные, и ты
+plants and the animals and you give                     растения и животные, и ты
 
 4596
 02:56:19,160 --> 02:56:19,819
-everything                                     дашь
+everything                                              дашь
 
 4597
 02:56:19,819 --> 02:56:21,319
-their names and so on that's basically        всем имена и т.д. Это базовое
+their names and so on that's basically                  всем имена и т.д. Это базовое
 
 4598
 02:56:21,319 --> 02:56:24,529
-cognitive development it's a sequence of       когнитивное развитие. Это последовательность
+cognitive development it's a sequence of                когнитивное развитие. Это последовательность
  
 4599
 02:56:24,529 --> 02:56:26,510
-steps that every mind is to go through         шагов, которую должен пройти каждый мозг,
+steps that every mind is to go through                  шагов, которую должен пройти каждый мозг,
 
 4600
 02:56:26,510 --> 02:56:28,189
-then it makes sense of the world and           потом он осмысляет мир. И 
+then it makes sense of the world and                    в процессе осмысления мира. И,
 
 4601
 02:56:28,189 --> 02:56:29,779
-then you have children you can see how        когда у тебя есть дети, ты видишь как
+then you have children you can see how                  когда у тебя есть дети, ты видишь как
 
 4602
 02:56:29,779 --> 02:56:31,609
-initially they distinguish light and          изначально они различают свет и 
+initially they distinguish light and                    изначально они различают свет и 
 
 4603
 02:56:31,609 --> 02:56:33,529
-darkness and then they make out               тьму, и потом разбираются с
+darkness and then they make out                         тьму, и потом разбираются с
 
 4604
 02:56:33,529 --> 02:56:35,300
-directions in it and they discover sky        направлениями, открывают для себя небо и 
+directions in it and they discover sky                  направлениями, открывают для себя небо и 
 
 4605
 02:56:35,300 --> 02:56:37,039
-and ground and they discover the plants        землю. Обнаруживают растения и 
+and ground and they discover the plants                 землю. Обнаруживают растения и 
 
 4606
 02:56:37,039 --> 02:56:38,239
-and the animals and they give everything       животных, дают всему
+and the animals and they give everything                животных, дают всему
 
 4607
 02:56:38,239 --> 02:56:40,100
-their name and it's an creative process        имена. И это созидательный процесс,
+their name and it's an creative process                 имена. И это созидательный процесс,
 
 4608
 02:56:40,100 --> 02:56:42,079
-that happens in every mind because it's        который происходит в каждом разуме, потому что
+that happens in every mind because it's                 который происходит в каждом разуме, потому что
 
 4609
 02:56:42,079 --> 02:56:44,359
