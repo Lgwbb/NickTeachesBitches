@@ -16756,1924 +16756,2015 @@ feeling in which you're reaching out 			ощущение, в котором ты
 
 4190
 02:40:51,720 --> 02:40:54,480
-right and it's very intuitive to encode 		да? И это очень интуитивно - закодировать
+right and it's very intuitive to encode 		да? И это очень интуитивно закодировать
 
 4191
 02:40:54,480 --> 02:40:56,700
-it like this that's why it's encoded 			это таким образом, вот почему оно так и
+it like this that's why it's encoded 			это таким образом, поэтому это так закодировано
 
 4192
 02:40:56,700 --> 02:40:59,130
-like it's incredible it's in code it's a 		сделано.
+like it's incredible it's in code it's a 		для большинства людей. -- Закодировано? Это код?
 
 4193
 02:40:59,130 --> 02:41:00,900
-code in which the non symbolic parts of
+code in which the non symbolic parts of 		-- Это код. Это код, через который не символические части
 
 4194
 02:41:00,900 --> 02:41:01,500
-your mind
+your mind 						твоего разума
 
 4195
 02:41:01,500 --> 02:41:03,090
-talk to the symbolic ones and then the
+talk to the symbolic ones and then the 			общаются с символическими. -- И тогда выражение
 
 4196
 02:41:03,090 --> 02:41:05,400
-expression of emotion is then the final
+expression of emotion is then the final 		эмоций - это финальный шаг,
 
 4197
 02:41:05,400 --> 02:41:07,800
-step that could be sort of gestural or
+step that could be sort of gestural or 			который может быть чем-то вроде жеста, 
 
 4198
 02:41:07,800 --> 02:41:09,930
-visual yeah so on that's part of this
+visual yeah so on that's part of this 			или иной невербалики - это часть коммуникации.
 
 4199
 02:41:09,930 --> 02:41:11,970
-MOOC is probably evolved as part of an
+MOOC is probably evolved as part of an 			-- Это, скорее всего, развивалось, как часть 
 
 4200
 02:41:11,970 --> 02:41:14,610
-adversarial communication so as soon as
+adversarial communication so as soon as 		соревновательной коммуникации. С тех времен, когда
 
 4201
 02:41:14,610 --> 02:41:16,950
-you started to observe the facial
+you started to observe the facial 			мы начали наблюдать за выражением
 
 4202
 02:41:16,950 --> 02:41:18,540
-expression and poster of others to
+expression and poster of others to 			лица и позами других, для того
 
 4203
 02:41:18,540 --> 02:41:19,890
-understand what emotional state they're
+understand what emotional state they're 		чтобы понимать в каком они эмоциональном
 
 4204
 02:41:19,890 --> 02:41:20,220
-in
+in 							состоянии, и
 
 4205
 02:41:20,220 --> 02:41:22,200
-others started to use this as signalling
+others started to use this as signalling 		все начали использовать это, как сигнальную
 
 4206
 02:41:22,200 --> 02:41:24,000
-and also to subvert your model of the
+and also to subvert your model of the 			систему, в том числе, чтобы обманывать модели
 
 4207
 02:41:24,000 --> 02:41:26,790
-emotional state so we now look at the
+emotional state so we now look at the 			эмоциональных состояний друг друга. И теперь мы смотрим на
 
 4208
 02:41:26,790 --> 02:41:28,350
-inflections at the difference between
+inflections at the difference between 			едва заментные перемены в
 
 4209
 02:41:28,350 --> 02:41:29,880
-the standard face that they're going to
+the standard face that they're going to 		стандартном выражениии лица, которое кто-то другой 
 
 4210
 02:41:29,880 --> 02:41:31,710
-make in this situation right when you
+make in this situation right when you 			проявляет в той или иной ситуации... Когда ты на 
 
 4211
 02:41:31,710 --> 02:41:33,210
-were at the funeral everybody expects
+were at the funeral everybody expects 			похоронах, ожидается, 
 
 4212
 02:41:33,210 --> 02:41:35,310
-you to make a solemn face but the solemn
+you to make a solemn face but the solemn 		что ты сделаешь серьезное лицо, но
 
 4213
 02:41:35,310 --> 02:41:36,810
-face doesn't express whether you're said
+face doesn't express whether you're said 		серьезное лицо не выражает то, расстроен
 
 4214
 02:41:36,810 --> 02:41:38,370
-or not it just expresses that you
+or not it just expresses that you 			ты или нет, оно лишь выражает, что ты
 
 4215
 02:41:38,370 --> 02:41:39,840
-understand what face you have to make it
+understand what face you have to make it 		понимаешь, какое выражение лица ты должен делать
 
 4216
 02:41:39,840 --> 02:41:42,330
-a funeral nobody should know that you
+a funeral nobody should know that you 			на похоронах. Никто не должен знать, что ты
 
 4217
 02:41:42,330 --> 02:41:44,940
-are Trump triumphant so when you try to
+are Trump triumphant so when you try to 		торжествуешь в этот момент. Таким образом, когда ты
 
 4218
 02:41:44,940 --> 02:41:46,500
-read the emotion of another person you
+read the emotion of another person you 			пытаешься прочесть эмоции другого человека, ты
 
 4219
 02:41:46,500 --> 02:41:49,740
-try to look at the Delta between said
+try to look at the Delta between said 			пытаешься разглядеть дельту между грустным,
 
 4220
 02:41:49,740 --> 02:41:52,770
-truly said expression and the things
+truly said expression and the things 			действительно грустным выражением лица, и тем,
 
 4221
 02:41:52,770 --> 02:41:54,750
-that are animated mating this face
+that are animated mating this face 			что в действительно выражено на этом лице,
 
 4222
 02:41:54,750 --> 02:41:57,420
-behind the curtain so the interesting
+behind the curtain so the interesting 			за занавесом. -- Интересный
 
 4223
 02:41:57,420 --> 02:42:00,480
-thing is so having done these having
+thing is so having done these having 			момент в том, что в процессе того, как я 
 
 4224
 02:42:00,480 --> 02:42:02,880
-them as podcast and the video component
+them as podcast and the video component 		делал эти подкасты, а в частности их видео-составляющую,
 
 4225
 02:42:02,880 --> 02:42:05,310
-one of the things I've learned is that
+one of the things I've learned is that 			я обнаружил, что, помимо прочего,
 
 4226
 02:42:05,310 --> 02:42:08,760
-now I'm Russian and I don't know how to
+now I'm Russian and I don't know how to 		я русский - и я не знаю, как
 
 4227
 02:42:08,760 --> 02:42:11,370
-express emotion on my face when I see
+express emotion on my face when I see 			выражать эмоции на лице. Кто-то
 
 4228
 02:42:11,370 --> 02:42:14,370
-that as weakness but whatever the people
+that as weakness but whatever the people 		может назвать это слабостью, не важно. Люди
 
 4229
 02:42:14,370 --> 02:42:17,220
-look to me after you say something they
+look to me after you say something they 		смотрят на меня после того, как ты что-то сказал. Они
 
 4230
 02:42:17,220 --> 02:42:21,030
-look to my face - just to help them see
+look to my face - just to help them see 		смотрят на моё лицо - оно помогает им понять, как
 
 4231
 02:42:21,030 --> 02:42:23,340
-how they should feel about we said which
+how they should feel about we said which 		они должны относиться к сказанному, и это
 
 4232
 02:42:23,340 --> 02:42:24,660
-is fascinating because then they'll
+is fascinating because then they'll 			очень интересно, потому что они часто
 
 4233
 02:42:24,660 --> 02:42:27,150
-often comment on why did you look bored
+often comment on why did you look bored 		пишут в комментариях: "почему Лекс выглядел скучающим?".
 
 4234
 02:42:27,150 --> 02:42:29,070
-or why did you particularly enjoy that
+or why did you particularly enjoy that 			Или: "Почему ты особенно радовался такой-то
 
 4235
 02:42:29,070 --> 02:42:31,320
-part or why did you whatever it's a kind
+part or why did you whatever it's a kind 		части?", и так далее. Это достаточно
 
 4236
 02:42:31,320 --> 02:42:32,460
-of interesting
+of interesting 						интересно.
 
 4237
 02:42:32,460 --> 02:42:35,400
-it makes me cognizant of on part like
+it makes me cognizant of on part like 			Это даёт мне понимание, что я часть...
 
 4238
 02:42:35,400 --> 02:42:37,050
-you're basically saying a bunch of
+you're basically saying a bunch of 			Ты говоришь кучу  
 
 4239
 02:42:37,050 --> 02:42:40,380
-brilliant things but I am part of the
+brilliant things but I am part of the 			великолепных вещей, но я тоже часть
 
 4240
 02:42:40,380 --> 02:42:43,200
-play that you're the key actor and by
+play that you're the key actor and by 			игры, в которой ты - главный актер.  
 
 4241
 02:42:43,200 --> 02:42:45,660
-making my facial expressions and then do
+making my facial expressions and then do 		И выражениями моего лица я
 
 4242
 02:42:45,660 --> 02:42:47,400
-and therefore telling the narrative of
+and therefore telling the narrative of 			задаю направление нарратива,
 
 4243
 02:42:47,400 --> 02:42:50,490
-what the big like the big point is which
+what the big like the big point is which 		если взглянуть на это шире. И это
 
 4244
 02:42:50,490 --> 02:42:51,240
-is fascinating
+is fascinating 						впечатляет.
 
 4245
 02:42:51,240 --> 02:42:53,070
-makes me makes me cognizant I'm supposed
+makes me makes me cognizant I'm supposed 		Это заставляет меня сознавать, что я должен
 
 4246
 02:42:53,070 --> 02:42:54,690
-to be making facial expressions even
+to be making facial expressions even 			менять выражение лица, и даже сейчас 
 
 4247
 02:42:54,690 --> 02:42:57,000
-this conversation is hard because my
+this conversation is hard because my 			мне это трудно, я бы
 
 4248
 02:42:57,000 --> 02:42:57,780
-preference will be
+preference will be 					предпочел
 
 4249
 02:42:57,780 --> 02:43:00,780
-to wear a mask with sunglasses to wear I
+to wear a mask with sunglasses to wear I 		надеть маску, солнечные очки и
 
 4250
 02:43:00,780 --> 02:43:02,850
-could just listen yes which is
+could just listen yes which is 				просто слушать. -- Да,
 
 4251
 02:43:02,850 --> 02:43:04,350
-understand this because it's intrusive
+understand this because it's intrusive 			я понимаю, ведь это навязанная
 
 4252
 02:43:04,350 --> 02:43:06,540
-to interact with others this way and
+to interact with others this way and 			необходимость - так общаться с другими, и в
 
 4253
 02:43:06,540 --> 02:43:09,360
-basically Eastern European society have
+basically Eastern European society have 		восточно-европейских обществах даже есть
 
 4254
 02:43:09,360 --> 02:43:10,980
-a taboo against that and especially
+a taboo against that and especially 			табу против этого, особенно в
 
 4255
 02:43:10,980 --> 02:43:13,110
-Russia the further you go to the east
+Russia the further you go to the east 			России, и чем дальше ты идёшь на восток...
 
 4256
 02:43:13,110 --> 02:43:16,170
-and in the u.s. it's the opposite you
+and in the u.s. it's the opposite you 			А в США наоборот. От тебя ожидают, что
 
 4257
 02:43:16,170 --> 02:43:18,480
-are expected to be hyper animated in
+are expected to be hyper animated in 			ты будешь гипервыразительным в
 
 4258
 02:43:18,480 --> 02:43:20,790
-your face and you're also expected to
+your face and you're also expected to 			своих выражениях лица. И ожидается, что ты
 
 4259
 02:43:20,790 --> 02:43:24,330
-show positive affect yes and if you show
+show positive affect yes and if you show 		будешь выказывать положительный реакцию. А если ты покажешь
 
 4260
 02:43:24,330 --> 02:43:26,370
-positive effect without a good reason
+positive effect without a good reason 			позитивную реакцию в России, без хорошей 
 
 4261
 02:43:26,370 --> 02:43:29,430
-in Russia they people will think you are
+in Russia they people will think you are 		на то причины, люди будут думать, что ты 
 
 4262
 02:43:29,430 --> 02:43:32,750
-a stupid and sophisticated person
+a stupid and sophisticated person 			тупой и несмышленный индивид.
 
 4263
 02:43:32,750 --> 02:43:36,240
-exactly and here positive effect without
+exactly and here positive effect without 		-- Именно! А здесь положительная реакция без
 
 4264
 02:43:36,240 --> 02:43:39,630
-reason goes either appreciate or goes
+reason goes either appreciate or goes 			причины либо будет также положительно принята, либо
 
 4265
 02:43:39,630 --> 02:43:42,240
-unnoticed no it's the default it's being
+unnoticed no it's the default it's being 		не будет замечена. -- Нет, это ожидается от тебя 
 
 4266
 02:43:42,240 --> 02:43:44,970
-expected everything is amazing have you
+expected everything is amazing have you 		по умолчанию. Всё великолепно! Ты в
 
 4267
 02:43:44,970 --> 02:43:48,210
-seen these lego movie no there was a
+seen these lego movie no there was a 			видел эту... -- "Lego.Movie"? -- Нет, была
 
 4268
 02:43:48,210 --> 02:43:50,670
-diagram where somebody gave the
+diagram where somebody gave the 			диаграма, где кто-то
 
 4269
 02:43:50,670 --> 02:43:52,710
-appraisals that exist in the US and
+appraisals that exist in the US and 			сравнил отзывы, которые люди дают в США
 
 4270
 02:43:52,710 --> 02:43:54,350
-Russia so you have your black curve and
+Russia so you have your black curve and 		и в России для каких-либо продуктов: черной кривой были
 
 4271
 02:43:54,350 --> 02:44:00,330
-the lower 10% in u.s. yeah are it's a
+the lower 10% in u.s. yeah are it's a 			отображены нижние 10% рейтинга. В США такое комментируют, как
 
 4272
 02:44:00,330 --> 02:44:01,160
-good start
+good start 						"это хорошее начало" и т.п!
 
 4273
 02:44:01,160 --> 02:44:03,900
-everything about the lowest 10% is it's
+everything about the lowest 10% is it's 		А все, что выше нижних 10% - "это
 
 4274
 02:44:03,900 --> 02:44:08,250
-amazing it's amazing and for Russians
+amazing it's amazing and for Russians 			великолепно!". А в России,
 
 4275
 02:44:08,250 --> 02:44:10,830
-yeah everything below the top 10% is
+yeah everything below the top 10% is 			Всё, что ниже высших 10% - "это
 
 4276
 02:44:10,830 --> 02:44:14,790
-it's terrible and then everything except
+it's terrible and then everything except 		ужасно!". Потом всё, что чуть хуже 
 
 4277
 02:44:14,790 --> 02:44:17,520
-the top percent is I don't like it and
+the top percent is I don't like it and 			1% от лучшего - "Ну так себе".
 
 4278
 02:44:17,520 --> 02:44:24,600
-the 10% is even so yeah it's funny but
+the 10% is even so yeah it's funny but 			И лучший 1% - "Всё равно не очень!". -- Это правда,
 
 4279
 02:44:24,600 --> 02:44:27,600
-it's kind of true no yeah there's a
+it's kind of true no yeah there's a 			в целом, это правда. -- И за этим стоят
 
 4280
 02:44:27,600 --> 02:44:29,760
-deeper aspect to this it's also how we
+deeper aspect to this it's also how we 			более глубокие вещи. Это то, как мы 
 
 4281
 02:44:29,760 --> 02:44:32,850
-construct meaning in the u.s. usually
+construct meaning in the u.s. usually 			создаём смыслы. В США ты обычно
 
 4282
 02:44:32,850 --> 02:44:34,740
-you focus on the positive aspects and
+you focus on the positive aspects and 			фокусируешься на позитивных аспектах и
 
 4283
 02:44:34,740 --> 02:44:37,470
-you just suppress the negative aspects
+you just suppress the negative aspects 			просто подавляешь негативные аспекты.
 
 4284
 02:44:37,470 --> 02:44:40,980
-and and our Eastern European traditions
+and and our Eastern European traditions 		А в нашей восточно-европейской традиции,
 
 4285
 02:44:40,980 --> 02:44:44,490
-we emphasize the fact that if you hold
+we emphasize the fact that if you hold 			мы делаем акцент на том факте, что 
 
 4286
 02:44:44,490 --> 02:44:46,560
-something above the waterline you also
+something above the waterline you also 			если что-то где-то лучше среднего, то
 
 4287
 02:44:46,560 --> 02:44:47,940
-need to put something below the
+need to put something below the 			значит где-то что-то должно быть хуже среднего.
 
 4288
 02:44:47,940 --> 02:44:49,680
-waterline because existence by itself is
+waterline because existence by itself is 		Потому что существование, само по себе, 
 
 4289
 02:44:49,680 --> 02:44:52,920
-as best neutral right that's the basic
+as best neutral right that's the basic 			в лучшем случае - нейтрально. -- Да, это
 
 4290
 02:44:52,920 --> 02:44:55,470
-intuition if at best neutral yes or can
+intuition if at best neutral yes or can 		основная мысль: "в лучшем случае нейтрально". 
 
 4291
 02:44:55,470 --> 02:44:57,150
-is just suffering the default there are
+is just suffering the default there are 		А, может быть, и просто: "жизнь - боль", по умолчанию. -- Да.
 
 4292
 02:44:57,150 --> 02:44:59,100
-moments of beauty but these moments of
+moments of beauty but these moments of 			Есть моменты прекрасного, но эти моменты
 
 4293
 02:44:59,100 --> 02:45:01,620
-beauty are in is inextricably linked to
+beauty are in is inextricably linked to 		прекрасного нераздельно связаны с
 
 4294
 02:45:01,620 --> 02:45:04,410
-the reality of suffering and to not
+the reality of suffering and to not 			реальностью страдания, и не если ты не 
 
 4295
 02:45:04,410 --> 02:45:05,670
-acknowledge the reality of suffering
+acknowledge the reality of suffering 			признаешь того, что реальность есть страдание,
 
 4296
 02:45:05,670 --> 02:45:07,770
-means that you are really stupid unaware
+means that you are really stupid unaware 		значит ты очень глуп и не в курсе
 
 4297
 02:45:07,770 --> 02:45:09,240
-of the fact that basically every
+of the fact that basically every 			того факта, что почти каждое 
 
 4298
 02:45:09,240 --> 02:45:11,310
-conscious being spends most of the times
+conscious being spends most of the times 		сознательное существо проводит большую часть
 
 4299
 02:45:11,310 --> 02:45:11,940
-of
+of 						 	своей жизни в страдании.	
 
 4300
 02:45:11,940 --> 02:45:14,931
-yeah you just summarized the ethos of
+yeah you just summarized the ethos of 			-- Да, ты только что выразил всю суть "этоса",
 
 4301
 02:45:14,931 --> 02:45:19,170
-the Eastern Europe yeah most of life is
+the Eastern Europe yeah most of life is 		духа восточной Европы. Большая часть жизни - 
 
 4302
 02:45:19,170 --> 02:45:20,910
-suffering with an occasional mobile to
+suffering with an occasional mobile to 			это страдание, с редкими моментами
 
 4303
 02:45:20,910 --> 02:45:23,400
-beauty and if your facial expressions
+beauty and if your facial expressions 			красоты. И если твоё выражение лица
 
 4304
 02:45:23,400 --> 02:45:26,160
-don't acknowledge the abundance of
+don't acknowledge the abundance of 			не признает обилие
 
 4305
 02:45:26,160 --> 02:45:27,931
-suffering in the world and in existence
+suffering in the world and in existence 		страдания в мире, и в самом существовании,
 
 4306
 02:45:27,931 --> 02:45:31,051
-itself then you must be an idiot it's an
+itself then you must be an idiot it's an 		то ты, должно быть - идиот. 
 
 4307
 02:45:31,051 --> 02:45:33,091
-interesting thing when you raise
+interesting thing when you raise                        Интересно, что когда растишь 
 
 4308
 02:45:33,091 --> 02:45:35,730
-children in the yes and you in some
+children in the yes and you in some                     детей в США, ты, в некотором
 
 4309
 02:45:35,730 --> 02:45:37,830
-sense preserve the identity of the
+sense preserve the identity of the                      смысле, все же сохраняешь самобытность 
 
 4310
 02:45:37,830 --> 02:45:39,690
-intellectual and cultural traditions
+intellectual and cultural traditions                    интеллектуальных и культурных традиций,
 
 4311
 02:45:39,690 --> 02:45:41,610
-that are embedded in your own families
+that are embedded in your own families                  которые тянут корни из ваших семей.
 
 4312
 02:45:41,610 --> 02:45:44,370
-and your daughter asks you about Arielle
+and your daughter asks you about Arielle                И твоя дочка спрашивает тебя про русалку
 
 4313
 02:45:44,370 --> 02:45:47,551
-the mermaid yeah and ask you why is Aria
+the mermaid yeah and ask you why is Aria                Ариэль, почему ей
 
 4314
 02:45:47,551 --> 02:45:50,000
-not allowed to play with the humans and
+not allowed to play with the humans and                 нельзя играть с людьми и
 
 4315
 02:45:50,000 --> 02:45:53,130
-you tell her the truth she was a siren
+you tell her the truth she was a siren                  ты говоришь ей правду. Она сирена.
 
 4316
 02:45:53,130 --> 02:45:55,110
-siren see people you don't play with
+siren see people you don't play with                    Сирены едят людей. Ты не играешь со
 
 4317
 02:45:55,110 --> 02:45:57,511
-your does not end well and then you tell
+your does not end well and then you tell                своей едой, это кончается плохо. И затем ты рассказываешь
 
 4318
-02:45:57,511 --> 02:45:59,370
-her the original story which is not the
+02:45:57,511 --> 02:45:59,370 
+her the original story which is not the                 ей оригинальный сюжет истории, не той романтичной истории, 
 
 4319
 02:45:59,370 --> 02:46:01,261
-one by Anderson which is the romantic
+one by Anderson which is the romantic                   которую написал Андерсен.
 
 4320
 02:46:01,261 --> 02:46:03,780
-one and there's a much darker one Eugene
+one and there's a much darker one Eugene                Есть более мрачная версия - история
 
 4321
 02:46:03,780 --> 02:46:06,660
-a story what happened so when Dean is a
+a story what happened so when Dean is a                 про Ундину. --Что случилось? --Ундина это тоже русалка или 
 
 4322
 02:46:06,660 --> 02:46:10,801
-mermaid or a water woman she lives on
+mermaid or a water woman she lives on                   водяная. Она живет
 
 4323
 02:46:10,801 --> 02:46:12,870
-ground off a river and she meets this
+ground off a river and she meets this                   в пойме реки и она встречает
 
 4324
 02:46:12,870 --> 02:46:14,851
-prince and they fall enough and the
+prince and they fall enough and the                     принца, они влюбляются друг в друга. 
 
 4325
 02:46:14,851 --> 02:46:16,380
-prince really really wants to be with
+prince really really wants to be with                   И принц очень сильно хочет быть с ней, 
 
 4326
 02:46:16,380 --> 02:46:18,811
-her and she says okay but the deal is
+her and she says okay but the deal is                   и она отвечает согласием. Но дело в том, что
 
 4327
 02:46:18,811 --> 02:46:21,061
-you cannot have any other woman if you
+you cannot have any other woman if you                  у тебя не может быть других женщин, если
 
 4328
 02:46:21,061 --> 02:46:22,320
-marry somebody else even though you
+marry somebody else even though you                     ты уже женился на ком-то. И потому, не смотря на то, что
 
 4329
 02:46:22,320 --> 02:46:23,730
-cannot be with me because obviously you
+cannot be with me because obviously you                 они не могли быть вместе, потому что, очевидно,
 
 4330
 02:46:23,730 --> 02:46:25,080
-cannot breathe and the water and I have
+cannot breathe and the water and I have                 он не может дышать под водой, да и ему было 
 
 4331
 02:46:25,080 --> 02:46:27,540
-other things to do then managing your
+other things to do then managing your                   чем заняться, кроме того, чтобы управлять своим
 
 4332
 02:46:27,540 --> 02:46:30,320
-Kingdom busy up here you will die and
+Kingdom busy up here you will die and                   королевством, если бы он изменил ей - он должен был умереть. 
 
 4333
 02:46:30,320 --> 02:46:33,210
-eventually after a few years he falls in
+eventually after a few years he falls in                В итоге, через несколько лет принц влюбляется в 
 
 4334
 02:46:33,210 --> 02:46:34,620
-love with some princess and marries her
+love with some princess and marries her                 какую-то принцессу и женится на ней.
 
 4335
 02:46:34,620 --> 02:46:37,830
-and she shows up and quietly goes into
+and she shows up and quietly goes into                  И Ундина появляется, и спокойно идет 
 
 4336
 02:46:37,830 --> 02:46:40,561
-his chamber and nobody is able to stop
+his chamber and nobody is able to stop                  в его покои, и никто не может её остановить,
 
 4337
 02:46:40,561 --> 02:46:42,330
-her or willing to do so because she is
+her or willing to do so because she is                  или хотя бы попытаться это сделать, потому что она 
 
 4338
 02:46:42,330 --> 02:46:44,400
-fierce and she comes quietly and said
+fierce and she comes quietly and said                   в ярости. И она также спокойно выходит из его 
 
 4339
 02:46:44,400 --> 02:46:46,730
-out of his chamber and they asked her
+out of his chamber and they asked her                   покоев. И все спрашивают ее:
 
 4340
 02:46:46,730 --> 02:46:48,990
-what has happened what did you do when
+what has happened what did you do when                  "Что случилось? Что ты сделала?".
 
 4341
 02:46:48,990 --> 02:46:52,971
-she said I kissed him to death all done
+she said I kissed him to death all done                 А она отвечает: "Я зацеловала его до смерти". --Молодец :)
 
 4342
 02:46:52,971 --> 02:46:55,200
-and do you know the end is in story
+and do you know the Andersen story                      А ты знаешь историю Андерсена,
 
 4343
 02:46:55,200 --> 02:46:57,780
-right in the Anderson story the mermaid
+right in the Anderson story the mermaid                 да? По Андерсену, русалка
 
 4344
 02:46:57,780 --> 02:47:00,210
-is playing with this prince that she
+is playing with this prince that she                    играет с принцем, которого она
 
 4345
 02:47:00,210 --> 02:47:01,950
-saves and she falls in love with him and
+saves and she falls in love with him and                спасает и влюбляется в него, но она
 
 4346
 02:47:01,950 --> 02:47:04,170
-she cannot live out there so she is
+she cannot live out there so she is                     не может там жить и поэтому она
 
 4347
 02:47:04,170 --> 02:47:07,710
-giving up her voice and her tail for a
+giving up her voice and her tail for a                  жертвует своим голосом и хвостом, ради
 
 4348
 02:47:07,710 --> 02:47:10,170
-human-like appearance so she can walk
+human-like appearance so she can walk                   человеческого облика, чтобы она смогла ходить
 
 4349
 02:47:10,170 --> 02:47:12,210
-among the humans but this guy does not
+among the humans but this guy does not                  среди людей. Но этот парень не
 
 4350
 02:47:12,210 --> 02:47:15,061
-recognize that she is the one that you
+recognize that she is the one that you                  признает в ней ту, на ком он 
 
 4351
 02:47:15,061 --> 02:47:16,500
-would marry instead he marries somebody
+would marry instead he marries somebody                 бы женился. Вместо этого он женится на другой,
 
 4352
 02:47:16,500 --> 02:47:19,500
-who has a kingdom and economical and
+who has a kingdom and economical and                    у которой есть королевство и экономические, и
 
 4353
 02:47:19,500 --> 02:47:20,940
-political relationships to his own
+political relationships to his own                      политические отношения с его 
 
 4354
 02:47:20,940 --> 02:47:23,221
-kingdom and so on as he shoots quite
+kingdom and so on as he shoots quite                    королевством, и так далее, как он и должен. --Это
 
 4355
 02:47:23,221 --> 02:47:26,750
-tragic she dies
+tragic she dies                                         весьма трагично. --Она умирает.
 
 4356
 02:47:28,530 --> 02:47:32,710
-so yeah instead Disney The Little
+so yeah instead Disney The Little                       --Да, вместо этого, у Диснея конец истории про маленькую
 
 4357
 02:47:32,710 --> 02:47:34,061
-Mermaid story has a little bit of a
+Mermaid story has a little bit of a                     русалку даже немного счастливей -
 
 4358
 02:47:34,061 --> 02:47:36,070
-happy ending that's the Western that's
+happy ending that's the Western that's                  это очень по западному,
 
 4359
 02:47:36,070 --> 02:47:38,050
-the American Way my own problem is
+the American Way my own problem is                      по-американски. --Моя проблема заключается
 
 4360
 02:47:38,050 --> 02:47:39,490
-business of course that I read Oscar
+business of course that I read Oscar                    в том, что я прочитал Оскара
 
 4361
 02:47:39,490 --> 02:47:41,351
-Wilde before I read the other things so
+Wilde before I read the other things so                 Уайльда раньше, чем всё остальное.
 
 4362
 02:47:41,351 --> 02:47:43,570
-I mean doctor II needed inoculated with
+I mean doctor II needed inoculated with                 Поэтому я проникся идеей
 
 4363
 02:47:43,570 --> 02:47:45,700
-this romanticism and I think that the
+this romanticism and I think that the                   романтизма, и я считаю что 
 
 4364
 02:47:45,700 --> 02:47:47,860
-mermaid is right you sacrifice your life
+mermaid is right you sacrifice your life                русалка права. Ты жертвуешь своей жизнью
 
 4365
 02:47:47,860 --> 02:47:49,210
-for romantic love that's what you do
+for romantic love that's what you do                    ради романтической любви, вот что ты делаешь.
 
 4366
 02:47:49,210 --> 02:47:51,490
-because if you are confronted with
+because if you are confronted with                      Потому что если ты стоишь перед выбором
 
 4367
 02:47:51,490 --> 02:47:53,440
-either serving the Machine and doing the
+either serving the Machine and doing the                либо служить машине и совершать
 
 4368
 02:47:53,440 --> 02:47:55,690
-the obviously right thing under the
+the obviously right thing under the                     очевидно правильные вещи из
 
 4369
 02:47:55,690 --> 02:47:58,300
-economic and social and all other human
+economic and social and all other human                 экономических, социальных и всех остальных человеческих
 
 4370
 02:47:58,300 --> 02:48:00,820
-incentives that's wrong you should
+incentives that's wrong you should                      побуждений, то это неправильно. Ты должен
 
 4371
 02:48:00,820 --> 02:48:04,660
-follow your heart so do you think
+follow your heart so do you think                       следовать за своим сердцем. --Как ты считаешь,
 
 4372
 02:48:04,660 --> 02:48:07,980
-suffering is fundamental to happiness
+suffering is fundamental to happiness                   является ли страдание основой счастья?
 
 4373
 02:48:07,980 --> 02:48:10,210
-along these lines suffering is the
+along these lines suffering is the                      В этом ключе. --Страдание это 
 
 4374
 02:48:10,210 --> 02:48:12,010
-result of caring about things that you
+result of caring about things that you                  результат беспокойства о тех вещах,
 
 4375
 02:48:12,010 --> 02:48:14,260
-cannot change and if you are able to
+cannot change and if you are able to                    которые ты не можешь изменить. И если ты можешь
 
 4376
 02:48:14,260 --> 02:48:16,181
-change what you care about to those
+change what you care about to those                     то, что тебе важно, превратить в такие
 
 4377
 02:48:16,181 --> 02:48:17,440
-things that you can't change you will
+things that you can change you will                     вещи, которые ты можешь изменять, то
 
 4378
 02:48:17,440 --> 02:48:19,870
-not suffer well then would you then be
+not suffer well then would you then be                  ты не будешь страдать. --И тогда ты
 
 4379
 02:48:19,870 --> 02:48:22,660
-able to experience happiness yes
+able to experience happiness yes                        сможешь испытать счастье? --Да, 
 
 4380
 02:48:22,660 --> 02:48:24,910
-but happiness itself is not important
+but happiness itself is not important                   но счастье само по себе не важно.
 
 4381
 02:48:24,910 --> 02:48:27,490
-happiness is like a cookie when you are
+happiness is like a cookie when you are                 Счастье - как печенька, когда ты еще 
 
 4382
 02:48:27,490 --> 02:48:28,660
-a child you think cookies are very
+a child you think cookies are very                      ребенок, ты считаешь что печеньки очень
 
 4383
 02:48:28,660 --> 02:48:30,160
-important and you want to have all the
+important and you want to have all the                  важны и ты хочешь все 
 
 4384
 02:48:30,160 --> 02:48:31,570
-cookies in the world you look forward to
+cookies in the world you look forward to                печеньки мира, и ты с нетерпением ждешь,
 
 4385
 02:48:31,570 --> 02:48:33,280
-being an adult because then you have as
+being an adult because then you have as                 когда же ты станешь взрослым, потому что 
 
 4386
 02:48:33,280 --> 02:48:35,500
-many cookies as you want right yes but
+many cookies as you want right yes but                  у тебя будет столько печенек, сколько ты пожелаешь,да?
 
 4387
 02:48:35,500 --> 02:48:37,240
-as an adult you realize the cookie is a
+as an adult you realize the cookie is a                 Но будучи взрослым, ты понимаешь что печенька это 
 
 4388
 02:48:37,240 --> 02:48:38,891
-tool it's a tool to make you eat
+tool it's a tool to make you eat                        инструмент, который заставляет тебя есть
 
 4389
 02:48:38,891 --> 02:48:40,870
-vegetables and once you eat your
+vegetables and once you eat your                        овощи. И как только ты начинаешь есть 
 
 4390
 02:48:40,870 --> 02:48:42,190
-vegetables any way you stop eating
+vegetables any way you stop eating                      овощи,  ты так или иначе прекратишь есть
 
 4391
 02:48:42,190 --> 02:48:43,601
-cookies for the most part because
+cookies for the most part because                       печеньки в большинстве своем. Потому что,
 
 4392
 02:48:43,601 --> 02:48:45,431
-otherwise you will get diabetes and will
+otherwise you will get diabetes and will                в противном случае, у тебя будет диабет и ты
 
 4393
 02:48:45,431 --> 02:48:47,260
-not be around for your kids yes but then
+not be around for your kids yes but then                не будешь рядом со своими детьми. --Да, но тогда
 
 4394
 02:48:47,260 --> 02:48:50,200
-the cookie the scarcity of a cookie if
+the cookie the scarcity of a cookie if                  печенька... нехватка печенья. Что если эта 
 
 4395
 02:48:50,200 --> 02:48:52,601
-scarcity is enforced nevertheless so
-
+scarcity is enforced nevertheless so                    нехватка навязана? Все же,
+ 
 4396
 02:48:52,601 --> 02:48:53,920
-like the pleasure comes from the
+like the pleasure comes from the                        удовольствие появляется от
 
 4397
 02:48:53,920 --> 02:48:56,590
-scarcity yes but the happiness is a
+scarcity yes but the happiness is a                     нехватки? --Да, счастье это 
 
 4398
 02:48:56,590 --> 02:48:58,240
-cookie that your brain bakes for itself
+cookie that your brain bakes for itself                 печенька, которую мозг печет сам для себя.
 
 4399
 02:48:58,240 --> 02:49:00,670
-it's not made by the environment the
+it's not made by the environment the                    Оно не создано окружающей средой -
 
 4400
 02:49:00,670 --> 02:49:02,380
-moment cannot make you happy it's your
+moment cannot make you happy it's your                  окружающая среда не может сделать тебя счастливым. Это
 
 4401
 02:49:02,380 --> 02:49:03,940
-appraisal of the environment that makes
+appraisal of the environment that makes                 твоя оценка окружающей среды делает тебя
 
 4402
 02:49:03,940 --> 02:49:06,130
-you happy and if you can change the
+you happy and if you can change the                     счастливым. И если ты можешь изменить
 
 4403
 02:49:06,130 --> 02:49:07,360
-appraisal of the environment which you
+appraisal of the environment which you                  свою оценку, чему можно научиться,
 
 4404
-02:49:07,360 --> 02:49:08,920
-can learn to then you can create
+02:49:07,360 --> 02:49:08,920 
+can learn to then you can create                        то тогда ты сможешь создать
 
 4405
 02:49:08,920 --> 02:49:10,840
-arbitrary states of happiness and some
+arbitrary states of happiness and some                  произвольное состояние счастья и некоторые
 
 4406
 02:49:10,840 --> 02:49:12,610
-meditators fall into this trap so they
+meditators fall into this trap so they                  медитирующие попадают в эту ловушку, они 
 
 4407
 02:49:12,610 --> 02:49:14,950
-discover the room this basement room in
+discover the room this basement room in                 открывают комнату, эту подвальную комнату их
 
 4408
-02:49:14,950 --> 02:49:16,181
-their brain where the cookies are made
+02:49:14,950 --> 02:49:16,181 
+their brain where the cookies are made                  мозга, где пекутся печеньки.
 
 4409
 02:49:16,181 --> 02:49:18,550
-and they indulge in stuff themselves and
+and they indulge in stuff themselves and                И они становятся самоудовлетворенными, беспечными, и 
 
 4410
 02:49:18,550 --> 02:49:20,260
-after a few months it gets really old
+after a few months it gets really old                   через несколько месяцев
 
 4411
 02:49:20,260 --> 02:49:21,730
-and the big crisis of meaning comes
+and the big crisis of meaning comes                     наступает большой кризис смысла.
 
 4412
 02:49:21,730 --> 02:49:23,910
-because they saw before that their
+because they saw before that their                      Потому что раньше они видели, что
 
 4413
 02:49:23,910 --> 02:49:26,830
-unhappiness was the result of not being
+unhappiness was the result of not being                 их несчастье заключалось в том, что они были
 
 4414
 02:49:26,830 --> 02:49:28,450
-happy enough so they fixed this right
+happy enough so they fixed this right                   недостаточно счастливы. Но они это исправили, так?
 
 4415
 02:49:28,450 --> 02:49:30,190
-they can release the neurotransmitters
+they can release the neurotransmitters                  Они могут высвобождать нейромедиаторы
 
 4416
 02:49:30,190 --> 02:49:33,280
-at will if they train and then the
+at will if they train and then the                      по желанию, если натренируются. И потом 
 
 4417
 02:49:33,280 --> 02:49:34,150
-crisis of meaning
+crisis of meaning                                       возникает кризис смысла
 
 4418
 02:49:34,150 --> 02:49:36,730
-pops up at a deeper layer and the
+pops up at a deeper layer and the                       в более глубоких слоях. И вопросы
 
 4419
 02:49:36,730 --> 02:49:38,380
-question is why do I live how can I make
+question is why do I live how can I make                "почему я живу?", "как мне создать
 
 4420
 02:49:38,380 --> 02:49:39,340
-a sustainable
+a sustainable civilization                              жизнеспособную цивилизацию,
 
 4421
 02:49:39,340 --> 02:49:41,560
-that is meaningful to me how kinda
+that is meaningful to me how kinda                      которая была бы значима для меня?", "как
 
 4422
 02:49:41,560 --> 02:49:43,149
-insert myself would do this and this was
-
+insert myself would do this and this was                вписать себя в нее?", разрешили бы этот кризис. И 
+ 
 4423
 02:49:43,149 --> 02:49:44,290
-the problem that you couldn't solve in
+the problem that you couldn't solve in                  это та проблема, которую ты не смог решить на первом этапе .
 
 4424
 02:49:44,290 --> 02:49:49,300
-the first place well at the end of all
+the first place well at the end of all                  --Ну, и, под конец,
 
 4425
 02:49:49,300 --> 02:49:50,680
-this let me then ask that same question
+this let me then ask that same question                 хотелось бы задать тот же вопрос...
 
 4426
 02:49:50,680 --> 02:49:54,040
-what is that the answer to that what
+what is that the answer to that what                    что будет являться ответом,
 
 4427
 02:49:54,040 --> 02:49:55,870
-could but possibly answer be of the
+could but possibly answer be of the                     возможным ответом... на вопрос о 
 
 4428
 02:49:55,870 --> 02:49:58,540
-meaning of life what what could an
+meaning of life what what could an                      смысле жизни..как бы ты ответил?
 
 4429
 02:49:58,540 --> 02:50:01,330
-answer be what is it to you I think that
+answer be what is it to you I think that                Что для тебя является смыслом жизни?
 
 4430
 02:50:01,330 --> 02:50:03,399
-if you look at the limiting of life you
+if you look at the limiting of life you                 --Если ты посмотришь на ограничение жизни,
 
 4431
 02:50:03,399 --> 02:50:06,070
-look at what the cell is the life is the
+look at what the cell is the life is the                ты будешь смотреть на то, чем является клетка. Жизнь
 
 4432
 02:50:06,070 --> 02:50:09,490
-cell is cell yes or this principle the
+cell is cell yes or this principle the                  это клетка. --Да. --Основа -
 
 4433
 02:50:09,490 --> 02:50:12,250
-cell it's this self-organizing thing
+cell it's this self-organizing thing                    это клетка. Это самоорганизующаяся сущность, 
 
 4434
 02:50:12,250 --> 02:50:14,229
-that can participate in evolution in
+that can participate in evolution in                    которая может принимать участие в эволюции.
 
 4435
 02:50:14,229 --> 02:50:15,820
-order to make it work it's a molecular
+order to make it work it's a molecular                  Для того, чтобы она работала, эта молекулярная
 
 4436
 02:50:15,820 --> 02:50:16,540
-machine
+machine                                                 машина,
 
 4437
 02:50:16,540 --> 02:50:18,520
-it needs a self replicator and entropy
+it needs a self replicator and entropy                  ей нужен самовоспроизводитель, экстрактор
 
 4438
 02:50:18,520 --> 02:50:20,800
-extractor and the Turing machine if any
+extractor and the Turing machine if any                 энтропии и машина Тьюринга. Если не будет
 
 4439
 02:50:20,800 --> 02:50:22,240
-of these parts is missing you don't have
+of these parts is missing you don't have                одного из этих компонентов, не будет и
 
 4440
 02:50:22,240 --> 02:50:24,250
-a cell and it is not living right and
+a cell and it is not living right and                   клетки, она не будет жить, да?
 
 4441
 02:50:24,250 --> 02:50:26,170
-life is facing the emergent complexity
+life is facing the emergent complexity                  Жизнь противостоит с возрастающей сложности 
 
 4442
 02:50:26,170 --> 02:50:28,359
-over that principle once you have this
+over that principle once you have this                  этого принципа. И как только у тебя поялвяется эта
 
 4443
 02:50:28,359 --> 02:50:30,660
-intelligent super molecule the cell
+intelligent super molecule the cell                     умная супер-молекула - клетка, 
 
 4444
 02:50:30,660 --> 02:50:32,859
-there is very little as you cannot make
+there is very little as you cannot make                 очень маловероятно, что ты обречен на провал.
 
 4445
 02:50:32,859 --> 02:50:34,479
-it to it's probably the optimal compute
+it to it's probably the optimal compute                 Это, вероятно, оптимальный компьютрониум,
 
 4446
 02:50:34,479 --> 02:50:36,399
-for human especially in terms of
+ especially in terms of                                 особенно с точки зрения
 
 4447
 02:50:36,399 --> 02:50:38,890
-resilience it's very hard to sterilize
+resilience it's very hard to sterilize                  жизнеспособности. Очень сложно стерилизовать 
 
 4448
 02:50:38,890 --> 02:50:40,240
-the plant at once it's infected with
+the plant at once it's infected with                    планету, как только она становится инфицирована
 
 4449
 02:50:40,240 --> 02:50:45,040
-life so it's active function of these
+life so it's active function of these                   жизнью. --Так значит это активная функция этих
 
 4450
 02:50:45,040 --> 02:50:47,290
-three components or the super cell of
+three components or the super cell of                   трех компонентов супер-клетки. 
 
 4451
 02:50:47,290 --> 02:50:49,689
-cell is as present in the cell is
+cell is as present in the cell is                       Она есть в клетке, она есть
 
 4452
 02:50:49,689 --> 02:50:52,149
-present in us and it's just the are just
+present in us and it's just the are just                в нас и это просто... --Мы просто 
 
 4453
 02:50:52,149 --> 02:50:53,859
-an expression of the cells a certain
+an expression of the cells a certain                    форма выражения клетки, определенный
 
 4454
 02:50:53,859 --> 02:50:55,750
-layer of complexity and the organization
+layer of complexity and the organization                уровень сложности и организации
 
 4455
 02:50:55,750 --> 02:50:58,689
-of cells that so in a way it's tempting
+of cells that so in a way it's tempting                 клеток. И, в каком-то смысле, очень заманчиво
 
 4456
 02:50:58,689 --> 02:51:00,430
-to think of the cell as a von neumann
+to think of the cell as a von neumann                   думать о клетке, как о зонде Фон 
 
 4457
 02:51:00,430 --> 02:51:03,070
-probe if you want to build intelligence
+probe if you want to build intelligence                 Неймана. Если ты хочешь сотворить сознание
 
 4458
 02:51:03,070 --> 02:51:05,260
-on other planets the best way to do this
+on other planets the best way to do this                на других планетах, то лучшим способом это сделать
 
 4459
 02:51:05,260 --> 02:51:08,260
-is to infect them b-cells and wait for
+is to infect them b-cells and wait for                  будет заразить их клетками. И ждать достаточно
 
 4460
 02:51:08,260 --> 02:51:09,760
-long enough and visit reasonable chance
+long enough and visit reasonable chance                 долго, и есть разумный шанс, что
 
 4461
 02:51:09,760 --> 02:51:11,680
-the stuff is going to evolve into an
+the stuff is going to evolve into an                    они эволюционируют в
 
 4462
 02:51:11,680 --> 02:51:13,540
-information processing principle that is
+information processing principle that is                принцип информационно  основу, который
 
 4463
 02:51:13,540 --> 02:51:14,830
-general enough to become sentient
+general enough to become sentient                       достаточно общий чтобы стать разумным.
 
 4464
 02:51:14,830 --> 02:51:18,130
-whether that idea is very akin to sort
+whether that idea is very akin to sort                 --Эти идеи..очень похожи на что-то вроде
 
 4465
 02:51:18,130 --> 02:51:20,439
-of the the same dream and beautiful
+of the the same dream and beautiful                     такой же мечты о красивых
 
 4466
 02:51:20,439 --> 02:51:21,850
-ideas that are expressed the cellular
+ideas that are expressed the cellular                   идеях, которые выражены в клеточном 
 
 4467
 02:51:21,850 --> 02:51:23,109
-automata in their most simple
+automata in their most simple                           автомате в своих самых простых
 
 4468
 02:51:23,109 --> 02:51:25,359
-mathematical form you just inject the
+mathematical form you just inject the                   математических формах. Ты просто вводишь
 
 4469
 02:51:25,359 --> 02:51:28,800
-system with some basic mechanisms of
+system with some basic mechanisms of                    в систему какие-то базовые механизмы
 
 4470
 02:51:28,800 --> 02:51:31,540
-replication so our basic rules amazing
+replication so our basic rules amazing                   воспроизведения, по основным правилам, и могут
 
 4471
 02:51:31,540 --> 02:51:33,580
-things would emerge that the cell is
+things would emerge. that the cell is                    появиться удивительные вещи. --И клетка 
 
 4472
 02:51:33,580 --> 02:51:35,890
-able to do something that James Hardy
+able to do something that James Hardy                   может совершать такое, что Джеймс (Ч)Харди
 
 4473
 02:51:35,890 --> 02:51:38,530
-calls existential design he points out
+calls existential design he points out                  называет экзистенциальным дизайном. Он указывает
 
 4474
 02:51:38,530 --> 02:51:40,600
-that in technical design we go from the
+that in technical design we go from the                  на то, что в техническом дизайне мы идем 
 
 4475
 02:51:40,600 --> 02:51:42,670
-outside in we work in a highly
+outside in we work in a highly                           снаружи вовнутрь. Мы работаем в высоко-
 
 4476
 02:51:42,670 --> 02:51:43,720
-controlled environment in which
+controlled environment in which                          контролируемой среде, в которой
 
 4477
 02:51:43,720 --> 02:51:45,280
-everything is deterministic like about
+everything is deterministic like about                    все детерминированно. Например наши
 
 4478
 02:51:45,280 --> 02:51:47,710
-computers of our labs or our engineering
+computers of our labs or our engineering                  компьютеры, лаборатории или наши инженерные
 
 4479
 02:51:47,710 --> 02:51:49,600
-workshops and then we use this
+workshops and then we use this                            мастерские. И потом мы используем этот
 
 4480
 02:51:49,600 --> 02:51:52,000
-determinism to implement a particular
+determinism to implement a particular                    детерминизм для того, чтобы выполнить определенный
 
 4481
 02:51:52,000 --> 02:51:53,029
-kind of function that
+kind of function that                                    вид функции, который
 
 4482
 02:51:53,029 --> 02:51:55,459
-dream up and that seamlessly interfaces
+dream up and that seamlessly interfaces                  мы придумали. И которая легко взаимодействует
 
 4483
 02:51:55,459 --> 02:51:57,020
-with all the other deterministic
-
+with all the other deterministic                        с остальными детерминированными
+ 
 4484
 02:51:57,020 --> 02:51:58,339
-functions that we already have in our
+functions that we already have in our                   функциями, которые уже есть в нашем
 
 4485
 02:51:58,339 --> 02:52:00,680
-world so it's basically from the outside
+world so it's basically from the outside               мире, т.е по сути снаружи
 
 4486
 02:52:00,680 --> 02:52:03,919
-in and biological systems designed from
+in and biological systems designed from                внутрь. А биологические системы (?)
 
 4487
 02:52:03,919 --> 02:52:06,649
-the inside out as seed will become a
+the inside out as seed will become a                  изнутри наружу, как семя станет 
 
 4488
 02:52:06,649 --> 02:52:08,449
-seedling by taking some of the
+seedling by taking some of the                        саженцем, взяв немного
 
 4489
 02:52:08,449 --> 02:52:10,819
-relatively unorganized matter around it
+relatively unorganized matter around it               от относительно неорганизованной материи вокруг него
 
-4490
 02:52:10,819 --> 02:52:13,909
-and turn it into its own structure and
+and turn it into its own structure and                и превратит ее в свою структуру и
 
 4491
 02:52:13,909 --> 02:52:16,249
-thereby subdue the environment and cells
+thereby subdue the environment and cells              таким образом покорит окружающую среду. И клетки
 
 4492
 02:52:16,249 --> 02:52:18,199
-can cooperate if they can rely on other
+can cooperate if they can rely on other               могут взаимодействовать, если они могут положиться на другие
 
 4493
 02:52:18,199 --> 02:52:20,029
-cells having a similar organization that
+cells having a similar organization that             клетки, имеющие подобную организацию, которая
 
 4494
 02:52:20,029 --> 02:52:22,839
-is already compatible but unless that's
+is already compatible but unless that's              уже совместима с ними. Но если только это..
 
 4495
 02:52:22,839 --> 02:52:25,609
-that's there the cell needs to divide to
+that's there the cell needs to divide to            (?) клетке нужно делиться,
 
 4496
 02:52:25,609 --> 02:52:27,439
-create that structure by itself right so
+create that structure by itself right so             чтобы создать эту структуру самой, да?
 
 4497
 02:52:27,439 --> 02:52:29,449
-it's a self organizing principle that
+it's a self organizing principle that                Это принцип самоорганизации, который
 
 4498
 02:52:29,449 --> 02:52:31,850
-works on a somewhat chaotic environment
+works on a somewhat chaotic environment              работает в отчасти хаотичном окружении.
 
 4499
 02:52:31,850 --> 02:52:33,919
-and the purpose of life in the sense is
+and the purpose of life in the sense is             смысл жизни в этом плане заключается в том, чтобы
 
 4500
 02:52:33,919 --> 02:52:37,609
-to produce complexity and the complexity
+to produce complexity and the complexity            создавать сложность, и эта сложность 
 
 4501
 02:52:37,609 --> 02:52:39,020
-allows you to harvest negentropy
+allows you to harvest negentropy                    позволяет тебе собирать градиенты
 
 4502
 02:52:39,020 --> 02:52:40,549
-gradients that you couldn't harvest
+gradients that you couldn't harvest                  негэнтропии, которые ты бы не смог собрать
 
 4503
 02:52:40,549 --> 02:52:43,010
-without the complexity and in the sense
+without the complexity and in the sense              без сложности. И в этом смысле
 
 4504
 02:52:43,010 --> 02:52:44,930
-intelligence and life are very strongly
+intelligence and life are very strongly              intelligence и жизнь очень сильно
 
 4505
 02:52:44,930 --> 02:52:46,760
-connected because the purpose of
+connected because the purpose of                      связаны, потому что цель
 
 4506
 02:52:46,760 --> 02:52:49,220
-intelligence is to allow control and the
+intelligence is to allow control and the              intelligence это позволить контролировать
 
 4507
 02:52:49,220 --> 02:52:50,899
-conditions of complexity so basic you
+conditions of complexity so basic you                 в условиях сложности. Т.Е. в сущности ты
 
 4508
 02:52:50,899 --> 02:52:52,970
-shift the boundary between the ordered
+shift the boundary between the ordered                сдвигаешь границу между внешними 
 
 4509
 02:52:52,970 --> 02:52:56,180
-systems into the realm of the Kay of
+systems into the realm of the Kay of                  системами в область 
 
 4510
 02:52:56,180 --> 02:52:58,220
-chaos you build bridgeheads into a chaos
+chaos you build bridgeheads into a chaos              хаоса. Ты строишь плацдарм в хаос 
 
 4511
 02:52:58,220 --> 02:53:01,159
-with complexity and this is what we are
+with complexity and this is what we are               с помощью сложности. Вот что мы
 
 4512
 02:53:01,159 --> 02:53:03,140
-doing this is not necessarily a deeper
+doing this is not necessarily a deeper                делаем. Здесь необязательно должен быть более
 
 4513
 02:53:03,140 --> 02:53:04,729
-meaning I think the meaning that we have
+meaning I think the meaning that we have              глубокий смысл. Мне кажется, что нет смысла, 
 
 4514
 02:53:04,729 --> 02:53:07,069
-priors for that we evolved for outside
+priors for that we evolved for outside                кроме того, для чего у нас есть инстинкты. Кроме 
 
 4515
 02:53:07,069 --> 02:53:08,359
-of the priors there is no meaning
+of the priors there is no meaning                     инстинктов нет никакого смысла.
 
 4516
 02:53:08,359 --> 02:53:10,010
-meaning only exists if a mind protects
+meaning only exists if a mind protects                Смысл существует только если ум проецирует
 
 4517
 02:53:10,010 --> 02:53:12,890
-it right yeah there is only civilization
+it right? --yeah there is only civilization           его, правильно? --Да. --И смысл жизни в цивилизации.
 
 4518
 02:53:12,890 --> 02:53:15,619
-I think that what feels most meaningful
+I think that what feels most meaningful               Я думаю, что мне кажется наиболее имеющим смысл -
 
 4519
 02:53:15,619 --> 02:53:17,959
-to me is to try to build and maintain
+to me is to try to build and maintain                 попытаться построить и сохранить
 
 4520
 02:53:17,959 --> 02:53:21,169
-the sustainable civilization and taking
+the sustainable civilization and taking                устойчивую цивилизацию. --Немного 
 
 4521
 02:53:21,169 --> 02:53:23,629
-a sliced Abad outside of that we talked
+a sliced Abad outside of that we talked                отступлю от темы. Мы говорили о
 
 4522
 02:53:23,629 --> 02:53:28,989
-about a man with a beard and God but
+about a man with a beard and God but                   человеке с бородой, о Боге, но
 
 4523
 02:53:28,989 --> 02:53:34,339
-something some mechanism perhaps must
+something some mechanism perhaps must                  что-то, какой-то механизм возможно должен 
 
 4524
 02:53:34,339 --> 02:53:36,649
-have planted the seed the initial seed
+have planted the seed the initial seed                 был посадить зерно, начальное зерно
 
 4525
 02:53:36,649 --> 02:53:40,579
-of the cell do you think there is a God
+of the cell do you think there is a God                клетки. Как ты думаешь, есть ли Бог?
 
 4526
 02:53:40,579 --> 02:53:43,459
-what is a God and what would that look
+what is a God and what would that look                 Что есть Бог? Как бы он мог выглядеть?
 
 4527
 02:53:43,459 --> 02:53:45,699
-like so if there was no spontaneous
+like so if there was no spontaneous                     --Если не произошло спонтанного
 
 4528
 02:53:45,699 --> 02:53:48,109
-abiogenesis in the sense that the first
+abiogenesis in the sense that the first                 абиогенеза, в том смысле что первая
 
 4529
 02:53:48,109 --> 02:53:51,829
-cell formed by some happy random
+cell formed by some happy random                        клетка была сформирована благодаря счастливой
 
 4530
 02:53:51,829 --> 02:53:53,479
-accidents where the molecules just
+accidents where the molecules just                      случайности. Где молекулы
 
 4531
 02:53:53,479 --> 02:53:55,039
-happened to be in the right consolation
+happened to be in the right consolation                  оказались в правильном сопряжении
 
 4532
 02:53:55,039 --> 02:53:56,149
-to each other but there could also be
+to each other. but there could also be                    друг к другу. --Но наверное должен
 
 4533
 02:53:56,149 --> 02:53:58,999
-the mechanism of that allows for the
+the mechanism of that allows for the                     быть какой-то механизм, который позволяет
 
 4534
 02:53:58,999 --> 02:54:01,819
-random I mean there's like turtles all
+random I mean there's like turtles all                  случайности...Я имею в виду это как черепахи
 
 4535
 02:54:01,819 --> 02:54:03,589
-the way down there seems to be there has
+the way down. there seems to be there has               внизу. В конце должна 
 
 4536
 02:54:03,589 --> 02:54:05,990
-to be a head turtle at the bottom
+to be a head turtle at the bottom                      быть голова черепахи.
 
 4537
 02:54:05,990 --> 02:54:07,851
-consider something really wild imagine
+consider something really wild imagine                 -- Давай представим совсем дикую идею. Представь..
 
 4538
 02:54:07,851 --> 02:54:10,760
-is it possible that a gas giant could
+is it possible that a gas giant could                 Возможно ли такое, чтобы газовый гигант 
 
 4539
 02:54:10,760 --> 02:54:12,860
-become intelligent but would that
+become intelligent but would that                    стал наделенным интеллектом? Что бы 
 
 4540
 02:54:12,860 --> 02:54:14,750
-involve so imagine you jet you have
+involve? so imagine you jet you have                   для этого потребовалось? Представь, что есть
 
 4541
 02:54:14,750 --> 02:54:16,910
-vortices that spontaneously emerge on
+vortices that spontaneously emerge on                  вихри, которые спонтанно возникают
 
 4542
 02:54:16,910 --> 02:54:19,190
-the gas giants like big storm systems
+the gas giants like big storm systems                 на газовых гигантах, типа больших штормовых систем, 
 
 4543
 02:54:19,190 --> 02:54:21,130
-that endure for thousands of years and
+that endure for thousands of years and                которые длились тысячи лет, и 
 
 4544
 02:54:21,130 --> 02:54:23,271
-some of these form systems produce
+some of these form systems produce                     некоторые из этих штормовых систем производят 
 
 4545
 02:54:23,271 --> 02:54:24,800
-electromagnetic fields because some of
+electromagnetic fields because some of                 электромагнитные поля, потому что некоторые
 
 4546
 02:54:24,800 --> 02:54:26,300
-the clouds are ferromagnetic or
+the clouds are ferromagnetic or                        облака ферромагнитны или 
 
 4547
 02:54:26,300 --> 02:54:28,190
-something and as a result they can
+something and as a result they can                     вроде того. И в результате, они могут
 
 4548
 02:54:28,190 --> 02:54:30,561
-change how certain clouds react rather
+change how certain clouds react rather                менять то, как определенные облака реагируют в
 
 4549
 02:54:30,561 --> 02:54:32,660
-than other clouds and thereby produce
+than other clouds and thereby produce                отличии от других. И тем самым производя
 
 4550
 02:54:32,660 --> 02:54:34,610
-some self-stabilizing patterns that
+some self-stabilizing patterns that                  некоторые самостабилизирующиеся паттерны, 
 
 4551
 02:54:34,610 --> 02:54:36,590
-eventually to regulation feedback loops
+eventually to regulation feedback loops             которые в конечном счете формируют регуляционную петлю обратной связи,
 
 4552
 02:54:36,590 --> 02:54:39,290
-nested feedback loops and control so
+nested feedback loops and control so                 вложенную петлю обратной связи и контроль. Так
 
 4553
 02:54:39,290 --> 02:54:41,030
-imagine you have such this thing that
+imagine you have such this thing that               представь, что у тебя есть такая вещь, которая
 
 4554
 02:54:41,030 --> 02:54:43,070
-basically has emergent self-sustaining
+basically has emergent self-sustaining              по сути обладает зарождающейся самоподдерживающейся,
 
 4555
 02:54:43,070 --> 02:54:44,870
-self-organizing complexity and at some
+self-organizing complexity and at some              самоорганизующейся сложностью. И в какой-то
 
 4556
 02:54:44,870 --> 02:54:46,700
-point this wakes up and realizes and
+point this wakes up and realizes and               момент она просыпается и понимает,
 
 4557
 02:54:46,700 --> 02:54:48,891
-basically LEM Solaris I am a thinking
+basically LEM Solaris I am a thinking             по сути как в романе Лема "Солярис", Я - думающая 
 
 4558
 02:54:48,891 --> 02:54:50,900
-planet yes but I will not replicate
+planet yes but I will not replicate                планета. --Да. --Но я не буду реплицироваться,
 
 4559
 02:54:50,900 --> 02:54:52,431
-because I cannot recreate the conditions
+because I cannot recreate the conditions           потому что я не смогу воссоздать условия
 
 4560
 02:54:52,431 --> 02:54:54,980
-of my own existence somewhere else I'm
+of my own existence somewhere else I'm            своего существования где-то еще. Я
 
 4561
 02:54:54,980 --> 02:54:57,471
-just basically an intelligence that has
+just basically an intelligence that has            по сути интелект, который
 
 4562
 02:54:57,471 --> 02:54:59,570
-spontaneously formed because it could
+spontaneously formed because it could              сформировался  спонтанно, потому что мог.
 
 4563
 02:54:59,570 --> 02:55:02,840
-and now it was a von Lohmann probe and
+and now it was a von Lohmann probe and           и так он стал  зондом фон Неймана, и
 
 4564
 02:55:02,840 --> 02:55:04,610
-the best von Neumann purpose at resting
+the best von Neumann purpose at resting          лучшим зондом фон Неймана в таком случае
 
 4565
 02:55:04,610 --> 02:55:06,590
-might be the cell so maybe it will
+might be the cell so maybe it will                может быть клетка. И может потому что он
 
 4566
 02:55:06,590 --> 02:55:07,940
-because it's very very clever and very
+because it's very very clever and very           очень очень умный и очень
 
 4567
 02:55:07,940 --> 02:55:10,521
-enduring create cells and sends them out
+enduring create cells and sends them out         безустанно создает клетки и отправляет их, 
 
 4568
 02:55:10,521 --> 02:55:12,410
-and one of them has infected our planet
+and one of them has infected our planet         и одна из них заразила нашу планету. 
 
 4569
 02:55:12,410 --> 02:55:14,210
-and I'm not suggesting that this is the
+and I'm not suggesting that this is the         Я не утвеждаю, что это именно
 
 4570
 02:55:14,210 --> 02:55:15,771
-case but it would be compatible with the
+case but it would be compatible with the        тот случай, но это бы сочеталось с 
 
 4571
 02:55:15,771 --> 02:55:18,530
-prints Permian hypothesis and with my
+prints Permian hypothesis and with my           гипотезой Панспермии и по моему 
 
 4572
 02:55:18,530 --> 02:55:20,630
-intuition that abiogenesis is very
+intuition that abiogenesis is very             разумению, очень сомневаюсь что
 
 4573
 02:55:20,630 --> 02:55:23,330
-unlikely it's possible but it's you
+unlikely it's possible but it's you            это был абиогенез. Это возможно, но 
 
 4574
 02:55:23,330 --> 02:55:24,800
-probably need to all the cosmic dice
+probably need to all the cosmic dice           тебе скорее всего придется бросать космические кости 
 
 4575
 02:55:24,800 --> 02:55:26,630
-very often maybe more often than they
+very often maybe more often than they           очень часто. Может быть чаще, чем 
 
 4576
 02:55:26,630 --> 02:55:28,690
-are planetary surfaces I don't know
+are planetary surfaces I don't know              существует планет, Я не знаю.
 
 4577
 02:55:28,690 --> 02:55:34,910
-so god is just a large enough a system
+so god is just a large enough a system           --Т.е Бог это всего лишь достаточно большая.. система,
 
 4578
 02:55:34,910 --> 02:55:36,530
-that's large enough that allows
+that's large enough that allows                  которая настолько большая, что допускает
 
 4579
 02:55:36,530 --> 02:55:38,330
-randomness now I don't think that God
+randomness now I don't think that God            случайность. --Нет, я не считаю что Бог 
 
 4580
 02:55:38,330 --> 02:55:40,311
-has anything to do with creation I think
+has anything to do with creation I think         как-то связан с созданием. Я считаю это
 
 4581
 02:55:40,311 --> 02:55:42,320
-it's a mistranslation of the time wood
+it's a mistranslation of the time wood           неправильным переводом ????
 
 4582
 02:55:42,320 --> 02:55:45,620
-into the Catholic mythology I think that
+into the Catholic mythology I think that         католическую мифологию. Я считаю, что
 
 4583
 02:55:45,620 --> 02:55:46,880
-Genesis is actually the childhood
+Genesis is actually the childhood                Генезис это на самом деле - детские
 
 4584
 02:55:46,880 --> 02:55:50,480
-memories of a God so the when sorry that
+memories of a God so the when sorry that         воспоминания о Боге. --Извини, 
 
 4585
 02:55:50,480 --> 02:55:52,070
-he Anna says is the world the childhood
+he Anna says is the world the childhood         Генезис это..? --Детские воспоминания
 
 4586
 02:55:52,070 --> 02:55:53,931
-memories of a God it's basically a mind
+memories of a God it's basically a mind         о Боге. По сути это мозг,
 
 4587
 02:55:53,931 --> 02:55:56,750
-that is memory remembering how it came
+that is memory remembering how it came          помнящий о том, как он 
 
 4588
 02:55:56,750 --> 02:56:00,320
-into being and we typically interpret
+into being and we typically interpret           появился на свет. Мы обычно интерпретируем 
 
 4589
 02:56:00,320 --> 02:56:02,120
-Genesis is the creation of a physical
+Genesis is the creation of a physical          Генезис как создание физической 
 
 4590
 02:56:02,120 --> 02:56:04,130
-universe by a supernatural being yes and
+universe by a supernatural being yes and        вселенной сверъестественным существом. 
 
 4591
 02:56:04,130 --> 02:56:08,120
-I think when you'll read it there's
+I think when you'll read it there's             Мне кажется, когда ты прочитаешь это..там
 
 4592
 02:56:08,120 --> 02:56:11,090
-light and darkness that is being create
+light and darkness that is being create        есть свет и тьма, которые были созданы.
 
 4593
 02:56:11,090 --> 02:56:13,521
-it and then you discover sky and ground
+it and then you discover sky and ground        И потом ты обнаружишь небо и землю,
 
 4594
 02:56:13,521 --> 02:56:17,420
-you create them you will construct the
+you create them you will construct the         сотворишь их. Ты создашь 
 
 4595
 02:56:17,420 --> 02:56:19,160
-plants and the animals and you give
+plants and the animals and you give            растения и животные, и ты
 
 4596
 02:56:19,160 --> 02:56:19,819
-everything
+everything                                     дашь
 
 4597
 02:56:19,819 --> 02:56:21,319
-their names and so on that's basically
+their names and so on that's basically        всем имена и т.д. Это базовое
 
 4598
 02:56:21,319 --> 02:56:24,529
-cognitive development it's a sequence of
-
+cognitive development it's a sequence of       когнитивное развитие. Это последовательность
+ 
 4599
 02:56:24,529 --> 02:56:26,510
-steps that every mind is to go through
+steps that every mind is to go through         шагов, которую должен пройти каждый мозг,
 
 4600
 02:56:26,510 --> 02:56:28,189
-then it makes sense of the world and
+then it makes sense of the world and           потом он осмысляет мир. И 
 
 4601
 02:56:28,189 --> 02:56:29,779
-then you have children you can see how
+then you have children you can see how        когда у тебя есть дети, ты видишь как
 
 4602
 02:56:29,779 --> 02:56:31,609
-initially they distinguish light and
+initially they distinguish light and          изначально они различают свет и 
 
 4603
 02:56:31,609 --> 02:56:33,529
-darkness and then they make out
+darkness and then they make out               тьму, и потом разбираются с
 
 4604
 02:56:33,529 --> 02:56:35,300
-directions in it and they discover sky
+directions in it and they discover sky        направлениями, открывают для себя небо и 
 
 4605
 02:56:35,300 --> 02:56:37,039
-and ground and they discover the plants
+and ground and they discover the plants        землю. Обнаруживают растения и 
 
 4606
 02:56:37,039 --> 02:56:38,239
-and the animals and they give everything
+and the animals and they give everything       животных, дают всему
 
 4607
 02:56:38,239 --> 02:56:40,100
-their name and it's an creative process
+their name and it's an creative process        имена. И это созидательный процесс,
 
 4608
 02:56:40,100 --> 02:56:42,079
-that happens in every mind because it's
+that happens in every mind because it's        который происходит в каждом разуме, потому что
 
 4609
 02:56:42,079 --> 02:56:44,359
-not given right your mind has to invent
-
+not given right your mind has to invent       это не дано сразу. Твой разум должен придумать
+ 
 4610
 02:56:44,359 --> 02:56:45,979
-these structures to make sense of the
+these structures to make sense of the         эти структуры, чтобы разобраться в 
 
 4611
 02:56:45,979 --> 02:56:48,499
-patterns on your retina also if there
+patterns on your retina also if there         закономерностях на твоей сетчатке. - К тому же,
 
 4612
 02:56:48,499 --> 02:56:50,510
-was some big nerd who set up a server
+was some big nerd who set up a server         если бы существовал какой-то большой нерд(ботан), который установил сервер 
 
 4613
 02:56:50,510 --> 02:56:52,699
-and runs this world on it
+and runs this world on it                      и запустил наш мир на нем,
 
 4614
 02:56:52,699 --> 02:56:54,409
-this would not create a special
+this would not create a special               это не создало бы каких-то особых
 
 4615
 02:56:54,409 --> 02:56:55,939
-relationship between us and the nerd
+relationship between us and the nerd          отношений между нами и нердом.
 
 4616
 02:56:55,939 --> 02:56:57,919
-this nerd would not have the magical
+this nerd would not have the magical          У этого нерда не было бы магической 
 
 4617
 02:56:57,919 --> 02:56:59,569
-power to give meaning to our existence
+power to give meaning to our existence        силы, возможной придать смысл нашему существованию,
 
 4618
 02:56:59,569 --> 02:57:02,959
-right so this equation of a Creator God
+right so this equation of a Creator God        да? --Да. -- Так что это уравнивание Бога-Создателя
 
 4619
 02:57:02,959 --> 02:57:06,140
-is the God of meaning is a slate off
+is the God of meaning is a slate off          с Богом смысла ????
 
 4620
 02:57:06,140 --> 02:57:08,569
-hand you shouldn't do it the other one
+hand you shouldn't do it the other one        Не стоит так делать. Еще одна вещь,
 
 4621
 02:57:08,569 --> 02:57:10,220
-that is done in Catholicism is the
+that is done in Catholicism is the            которая была сделана в Католицизме
 
 4622
 02:57:10,220 --> 02:57:12,560
-equation of the first mover the prime
+equation of the first mover the prime         уравнивание первого двигателя, первичного
 
 4623
 02:57:12,560 --> 02:57:14,869
-mover of Aristotle which is basically
+mover of Aristotle which is basically         двигателя Аристотеля, который по сути является
 
 4624
 02:57:14,869 --> 02:57:16,789
-automaton that runs the universe earth
+automaton that runs the universe earth         автоматом, который запускает вселенную.
 
 4625
 02:57:16,789 --> 02:57:19,909
-total says if things are moving and
+total says if things are moving and            Аристотель говорил: "Если вещи двигаются и
 
 4626
 02:57:19,909 --> 02:57:21,199
-things seem to be moving here
+things seem to be moving here                 если кажется, что они движутся, то
 
 4627
 02:57:21,199 --> 02:57:22,970
-something must move them right if
+something must move them right if             что-то должно их двигать, так? Если
 
 4628
 02:57:22,970 --> 02:57:24,919
-something moves them something must move
+something moves them something must move        что-то двигает их, то значит что-то должно
 
 4629
 02:57:24,919 --> 02:57:26,600
-the thing that is moving it so there
+the thing that is moving it so there             двигать ту вещь, которая двигает их. Так значит
 
 4630
 02:57:26,600 --> 02:57:29,149
-must be a prime mover this idea to say
+must be a prime mover this idea to say           должен быть первичный двигатель. Идея, в которой
 
 4631
 02:57:29,149 --> 02:57:30,829
-that this prime mover is a supernatural
+that this prime mover is a supernatural          говорится, что первичный двигатель это сверъестественное
 
 4632
 02:57:30,829 --> 02:57:32,510
-being is complete nonsense
+being is complete nonsense                       существо - полная чушь. 
 
 4633
 02:57:32,510 --> 02:57:35,689
-right it's an automaton in the simplest
+right it's an automaton in the simplest           Да? Это автомат, в простейшем 
 
 4634
 02:57:35,689 --> 02:57:38,089
-case so we have to explain the enormity
+case so we have to explain the enormity           случае. Поэтому мы должны объяснить чудовищность
 
 4635
 02:57:38,089 --> 02:57:40,520
-that this automaton exists at all but
+that this automaton exists at all but             того, что автомат в принципе существует. Но
 
 4636
 02:57:40,520 --> 02:57:43,369
-again we don't have any possibility to
+again we don't have any possibility to            опять таки, у нас нет возможности
 
 4637
 02:57:43,369 --> 02:57:45,229
-infer anything about its properties
+infer anything about its properties                делать никаких предположений о его свойствах,
 
 4638
 02:57:45,229 --> 02:57:48,319
-except that it's able to produce change
+except that it's able to produce change             кроме того что он способен производить изменения 
 
 4639
 02:57:48,319 --> 02:57:50,930
-in information right so there needs to
+in information right? so there needs to             информации, верно? Должен быть какой-то
 
 4640
 02:57:50,930 --> 02:57:52,640
-be some kind of computational principle
+be some kind of computational principle             вычислительный принцип,
 
 4641
 02:57:52,640 --> 02:57:54,589
-this is all there is but to say this
+this is all there is but to say this                и это все. Но говорить о том, что
 
 4642
 02:57:54,589 --> 02:57:56,569
-automaton is identical again with the
+automaton is identical again with the               автомат идентичен
 
 4643
 02:57:56,569 --> 02:57:58,430
-creator of first cause over the thing
+creator of first cause over the thing               с создателем первопричины,
 
 4644
 02:57:58,430 --> 02:58:00,579
-that gives meaning to our life is
+that gives meaning to our life is                   дающей смысл нашей жизни это
 
 4645
 02:58:00,579 --> 02:58:03,229
-confusion now I think that what we
+confusion now I think that what we                 заблуждение. Я думаю, что то, что
 
 4646
 02:58:03,229 --> 02:58:06,319
-perceive is the higher being that we are
+perceive is the higher being that we are           мы воспринимаем как высшее существо частью
 
 4647
 02:58:06,319 --> 02:58:08,419
-part of and the higher being that we are
+part of and the higher being that we are            которого мы являемся - 
 
 4648
 02:58:08,419 --> 02:58:10,850
-part of is the civilization it's the
+part of is the civilization it's the               это цивилизация. Это вещь, с которой
 
 4649
 02:58:10,850 --> 02:58:12,050
-thing in which you have a similar
+thing in which you have a similar                 мы соотносимся также, как 
 
 4650
 02:58:12,050 --> 02:58:13,970
-relationship as the cell has 12 a body
+relationship as the cell has 12 a body             клетка нашего тела с телом.
 
 4651
 02:58:13,970 --> 02:58:17,449
-and we have this prior because we have
+and we have this prior because we have             И у нас есть этот инстинкт, потому что мы 
 
 4652
 02:58:17,449 --> 02:58:19,430
-evolved to organize in these structures
+evolved to organize in these structures            эволюционировали для организации в эти структуры.
 
 4653
 02:58:19,430 --> 02:58:23,149
-so basically the Christian God in its
+so basically the Christian God in its              Так по сути, Христианский Бог в его
 
 4654
 02:58:23,149 --> 02:58:24,949
-natural form without the mythology if
+natural form without the mythology if              натуральной форме, без мифологии, если 
 
 4655
 02:58:24,949 --> 02:58:26,749
-you to undress it it's basically the
+you to undress it it's basically the               ты откинешь ее, это по сути
 
 4656
 02:58:26,749 --> 02:58:30,270
-Platonic form of the civilization
+Platonic form of the civilization                 платоническая форма цивилизации.
 
 4657
 02:58:30,270 --> 02:58:33,720
-is the is the ideal it's this ideal that
+is the is the ideal it's this ideal that          Это идеал, идеал,к которому
 
 4658
 02:58:33,720 --> 02:58:35,369
-you try to approximate when you interact
+you try to approximate when you interact          ты пытаешься приблизиться, когда ты взаимодействуешь
 
 4659
 02:58:35,369 --> 02:58:37,649
-with others not based on your incentives
+with others not based on your incentives          с другими, не на основе своей выгоды,
 
 4660
 02:58:37,649 --> 02:58:40,130
-but on what you think is right
+but on what you think is right                    а на том, что ты считает правильным. 
 
 4661
 02:58:40,130 --> 02:58:44,130
-Wow we covered a lot of ground and we
+Wow we covered a lot of ground and we              --Вау, мы раскрыли так много тем, и мы
 
 4662
 02:58:44,130 --> 02:58:46,590
-left with one of my favorite lines and
+left with one of my favorite lines and             закончим одной из моих любимых фраз,
 
 4663
 02:58:46,590 --> 02:58:49,710
-there's many which is happiness is a
+there's many which is happiness is a               одной из многих. И вот она: "Счастье - это
 
 4664
 02:58:49,710 --> 02:58:54,449
-cookie that the brain bakes itself it's
+cookie that the brain bakes itself it's            печенька, которую мозг печет себе сам".
 
 4665
 02:58:54,449 --> 02:58:57,869
-been a huge honor and a pleasure to talk
+been a huge honor and a pleasure to talk           Это была громная честь и удовольствие поговорить
 
 4666
 02:58:57,869 --> 02:58:59,489
-to you I'm sure our paths will cross
+to you I'm sure our paths will cross               с тобой. Уверен, наши пути еще пересекуться
 
 4667
 02:58:59,489 --> 02:59:02,819
-many times again Joshua thank you so
+many times again Joshua thank you so              много раз. Спасибо еще раз, Йоша.
 
 4668
 02:59:02,819 --> 02:59:04,649
-much for talking today or they protect
+much for talking today or they protect            --Спасибо, Лекс,
 
 4669
 02:59:04,649 --> 02:59:06,180
-your necks yeah it's so much fun I
+your necks yeah it's so much fun I                было очень весело.
 
 4670
-02:59:06,180 --> 02:59:09,230
-enjoyed it awesome
+02:59:06,180 --> 02:59:09,230                     
+enjoyed it awesome                                Это было большим удовольствием. --Здорово!
+
+4671
+02:59:09,230 --> 02:59:10,400
+thanks for listening to this  
+
+4672
+02:59:10,400 --> 02:59:12,471
+conversation with Yoshi Bach and thank
+
+4673
+02:59:12,471 --> 02:59:15,891
+you to our sponsors expressvpn and cash
+
+4674
+02:59:15,891 --> 02:59:17,900
+app please consider supporting this
+
+4675
+02:59:17,900 --> 02:59:20,000
+podcast by getting expressvpn at
+
+4676
+02:59:20,000 --> 02:59:23,290
+expressvpn comm slash FlexPod and
+
+4677
+02:59:23,290 --> 02:59:26,261
+downloading cash app and using collects
+
+4678
+02:59:26,261 --> 02:59:29,540
+podcast if you enjoy this thing
+
+4679
+02:59:29,540 --> 02:59:32,391
+subscribe on youtube review it with five
+
+4680
+02:59:32,391 --> 02:59:34,610
+stars an apple podcast supported on
+
+4681
+02:59:34,610 --> 02:59:36,620
+patreon are simply connect with me on
+
+4682
+02:59:36,620 --> 02:59:40,521
+Twitter at lex friedman and yes try to
+
+4683
+02:59:40,521 --> 02:59:42,490
+figure out how to spell it without the e
+
+4684
+02:59:42,490 --> 02:59:45,021
+and now let me leave you with some words
+
+4685
+02:59:45,021 --> 02:59:48,860
+of wisdom from your Shabak if you take
+
+4686
+02:59:48,860 --> 02:59:51,440
+this as a computer game metaphor this is
+
+4687
+02:59:51,440 --> 02:59:53,950
+the best level for humanity to play and
+
+4688
+02:59:53,950 --> 02:59:57,561
+this best level happens to be the last
+
+4689
+02:59:57,561 --> 03:00:00,410
+level as it happens against the backdrop
+
+4690
+03:00:00,410 --> 03:00:04,221
+of a dying world but it's still the best
+
+4691
+03:00:04,221 --> 03:00:07,341
+level thank you for listening and hope
+
+4692
+03:00:07,341 --> 03:00:10,780
+to see you next time
+
+4693
+03:00:15,381 --> 03:00:17,440
+you
